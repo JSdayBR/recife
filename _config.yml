@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "JSDay Recife 2015"
+title: "JSDay Recife 2016"
 email: "jsdaybr@gmail.com"
-description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
+description: "O JSday é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
 url: "http://jsday.com.br"
 permalink: "/blog/:title"
@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "JSday Recife"
 # organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
+organizerDescription: "O JSday é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 organizerEmail: "jsdaybr@gmail.com"
 # organizerLogo: "/img/seo/organizer-logo.png"
 # organizerLink: "http://fb.com/caravanaweb"
@@ -37,35 +37,35 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/c4pjsdayrec"
-c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
+c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2016"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/speakers/", text: "JS Experts"}
- - {permalink: "/schedule/", text: "Lineup"}
- - {permalink: "/live/", text: "Live"}
+# - {permalink: "/", text: "Home"}
+# - {permalink: "/speakers/", text: "JS Experts"}
+# - {permalink: "/schedule/", text: "Lineup"}
+# - {permalink: "/live/", text: "Live"}
 
-bottomNavigationLinks:
- - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Certificados disponíveis"}
-rightNavigationButtons:
- - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Certificados disponíveis"}
+# bottomNavigationLinks:
+#  - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Certificados disponíveis"}
+# rightNavigationButtons:
+#  - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Certificados disponíveis"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "JSday Recife: <typeout>"
-eventDate: "12 de Dezembro, 2015"
+eventDate: "26 de Novembro, 2016"
 typeoutTextValues: '"", "JavaScript", "AngularJS", "NodeBots", "Open Web App"'
 typeoutFallback: "JavaScript"
-heroButtons:
- - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Certificados disponíveis"}
+# heroButtons:
+#  - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Certificados disponíveis"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
 aboutBlock:
- - {title: "Javascript", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
- - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do Javascript e estejam por dentro das novidades do ES6" }
- - {title: "Networking", image: "networking.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte" }
+ - {title: "JavaScript", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
+ - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do JavaScript e estejam por dentro de suas novidades." }
+ - {title: "Networking", image: "networking.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -129,30 +129,14 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 # Tickets Block
 ticketsTitle: "Inscreva-se.now()"
 ticketsOffers:
- -
-  name: "1º lote: Early Adopters"
-  price: "30"
-  priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-recife-2015"
-  buyButtonText: "{{Esgotado}}"
-  validFrom: "2015-10-05T10:00"
-  validThrough: "2015-12-12T23:59"
- -
-  name: "2º Lote: Release Candidate"
-  price: "50"
-  priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-recife-2015"
-  buyButtonText: "{{Esgotado}}"
-  validFrom: "2015-10-28T00:00"
-  validThrough: "2015-12-11T23:59"
- -
-  name: "3º Lote: Release"
-  price: "80"
-  priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-recife-2015"
-  buyButtonText: "{{Comprar}}"
-  validFrom: "2015-12-06T00:00"
-  validThrough: "2015-12-12T06:00"
+# -
+#  name: ""
+#  price: ""
+#  priceCurrency: ""
+#  buyButtonLink: ""
+#  buyButtonText: ""
+#  validFrom: "YYYY-MM-DDThh:mm"
+#  validThrough: "YYYY-MM-DDThh:mm"
 
 # Footer
 socialLinks:
