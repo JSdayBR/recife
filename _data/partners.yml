@@ -1,23 +1,12 @@
 -
   group: ""
   elements:
-    - {name: "Code School", description: "Code School is an online learning destination for existing and aspiring developers that teaches through entertaining content.", link: "http://www.codeschool.com/jsdayrecife ", imageUrl: "codeschool.png", width: "545px"}
-    - {name: "Facebook", description: "Crie uma conta ou entre no Facebook. Conecte-se com amigos, familiares e outras pessoas que você conheça. Compartilhe fotos e vídeos, envie mensagens e ...", link: "http://www.facebook.com/", imageUrl: "facebook.png", width: "505px"}
-    - {name: "HUGE", description: "Huge is a full service digital agency headquartered in Brooklyn with offices worldwide. We transform brands and build businesses.", link: "http://www.hugeinc.com/", imageUrl: "huge.png", width: "209px"}
-    - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "209px"}
-    - {name: "CESAR.EDU", description: "O CESAR, premiado centro de inovação, traz para a comunidade a sua unidade educacional, o CESAR.EDU.", link: "http://www.cesar.edu.br/", imageUrl: "cesar-edu.png", width: "209px"}
-    - {name: "Appcelerator", description: "Mobile App Development Platform – Appcelerator", link: "http://www.appcelerator.com/", imageUrl: "Appcelerator-logo.png", width: "605px"}
+    - {name: "CESAR.EDU", description: "O CESAR, premiado centro de inovação, traz para a comunidade a sua unidade educacional, o CESAR.EDU.", link: "http://www.cesar.edu.br/", imageUrl: "cesar-edu.png", width: "220px"}
+# -
+#   group: "Silver"
+#   elements:
+#     - {name: "", description: "", link: "", imageUrl: "", width: ""}
 -
   group: ""
   elements:
-    - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
-    - {name: "YLD", description: "YLD! Limited, Node.js Consulting from London", link: "https://yld.io/", imageUrl: "yld.jpg", width: "140px"}
-    - {name: "Romanick", description: "Camisas com preço de fábrica, com cores maravilhosas da estação e serviços de serigrafia, bordado e sublimação.", link: "http://romanick.com.br/", imageUrl: "romanick.png", width: "180px"}
-    - {name: "Tago", description: "Tago provides easy connection of electronic devices with external data to driver smarter decisions using contextual analysis. Our APIs, dashboards and scripts enable real time data analysis quickly at very low cost...", link: "https://tago.io/", imageUrl: "tago.png", width: "180px"}
--
-  group: ""
-  elements:
-    - {name: "Bocoup", description: "Bocoup is an Open Web technology company by and for programmers. We create, support, and advance Open Web technologies through consulting, education, and community development.", link: "http://bocoup.com/", imageUrl: "bocoup.png", width: "150px"}
-    - {name: "NPM", description: "npm is the package manager that installs JavaScript programs. npm, Inc. supports the JavaScript community by providing the registry where developers publish and share packaged open-source modules. We're keeping the registry running, and working on new tools make the JavaScript community even more powerful.", link: "https://www.npmjs.com/", imageUrl: "npm.png", width: "110px"}
-    - {name: "ArduRec", description: "A maior comunidade de Arduino de Recife", link: "http://ardurec.com.br/", imageUrl: "ArduRec.png", width: "90px"}
-    - {name: "Robolivre.org", description: "", link: "http://www.robolivre.org", imageUrl: "robolivre.png", width: "150px"}
+    - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "180px"}
