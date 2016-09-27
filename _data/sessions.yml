@@ -85,17 +85,3 @@
   subtype: codelab
   speakers: [8]
 #  complexity: "Beginner"
-# -
-#   id: 201
-#   title: ""
-#   description: ""
-#   subtype: codelab
-#   speakers: []
-#   complexity: "Beginner"
--
-  id: 202
-  title: "Powering Up with React"
-  description: "Discover how React can help you take control of your UI code with composable user interfaces."
-  subtype: workshop
-  speakers: [4]
-#  complexity: "Beginner"
