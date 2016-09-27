@@ -3,18 +3,8 @@
     <div class="content-wrapper">
         <div class="col-lg-8 col-lg-offset-2">
             <h3>{{ site.cfpTitle }}</h3>
-            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.cfpDescription }}</p>
-
-            <ol class="cfp-step-by-step">
-                <li>Acesse a área de Issues do <a href="https://github.com/JSdayBR/jsdaybr.github.io/issues">nosso repositório no Github</a></li>
-                <li>Crie uma nova issue e preencha o campo "title" com o título da sua palestra</li>
-                <li>Adicione a label "cfp"</li>
-                <li>Escolha o Milestone "Call for Papers", prazo é até o dia 6 de Setembro</li>
-                <li>No campo "Leave a comment" preencha todas informações necessárias</li>
-                <li>Precisamos de: uma foto, cargo, empresa que trabalha, resumo da palestra, mini-bio e por fim Cidade/Estado</li>
-                <li>Caso você tenha alguma dúvida no processo <a href="https://github.com/JSdayBR/jsdaybr.github.io/issues/3">confira um exemplo aqui</a></li>
-                <li>Na segunda-feira, dia 7 de Setembro, anunciaremos os escolhidos</li>
-            </ol>
+            <p class="text-justify animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.cfpDescription }}</p>
+            <a class="btn waves-effect waves-button waves-light waves-float cfp-link" href="{{ site.cfpLink }}" target="_blank">{{ site.cfpLinkText }}</a>
         </div>
     </div>
 </section>
