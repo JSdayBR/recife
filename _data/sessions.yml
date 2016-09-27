@@ -99,10 +99,3 @@
   subtype: workshop
   speakers: [4]
 #  complexity: "Beginner"
--
-  id: 203
-  title: "A Importância dos Testes Automatizados"
-  description: ""
-  subtype: workshop
-  speakers: [3]
-#  complexity: "Beginner"
