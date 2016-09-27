@@ -15,29 +15,18 @@
   id: 2
   name: "Juarez"
   surname: "Filho"
-  company: "madewithlove"
+  company: "Google"
   title: "Front End Engineer"
   bio: "Front end Engineer com mais de 7 anos de experiência, começou sua carreira como desenvolvedor PHP, tentou aprender Java e depois se entregou ao Ruby e Rails, mas com sua primeira classe CSS dedicou-se completamente a carreira de Front End e UX. Trabalhou com várias Startups, incluindo Compra3, Eadbox, Amanaiê, Enjoei e Gabstr Inc, nos dias de hoje está construindo projetos com muito amor na madewithlove."
   thumbnailUrl: juarez-filho.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/105591078626334574818"}
+    - {abbr: "GDG", title: "Google Developer Expert", url: "https://developers.google.com/groups/chapter/105591078626334574818"}
     - {abbr: "Moz", title: "Mozillian", url: "https://mozillians.org/en-US/u/juarezpaf"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
     - {name: "github", link: "https://github.com/juarezpaf"}
--
-  id: 3
-  name: "Leo"
-  surname: "Balter"
-  company: "Bocoup"
-  title: "Open Web Engineer"
-  bio: "Leo Balter é Project Lead da jQuery Foundation e Open Engineer na Bocoup, empresa norte-americana situada em Boston. É responsável por projetos como Grunt.js, QUnit e Johnny-five.io."
-  thumbnailUrl: leobalter.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/leonardobalter"}
 -
   id: 4
   name: "Sergio"
