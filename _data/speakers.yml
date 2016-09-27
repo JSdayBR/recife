@@ -1,5 +1,5 @@
 -
-  id: 2
+  id: 1
   name: "Felipe"
   surname: "de Albuquerque"
   company: "CESAR"
@@ -12,7 +12,7 @@
     - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
     - {name: "github", link: "https://github.com/felipedealbuquerque"}
 -
-  id: 3
+  id: 2
   name: "Juarez"
   surname: "Filho"
   company: "madewithlove"
@@ -28,284 +28,46 @@
     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
     - {name: "github", link: "https://github.com/juarezpaf"}
 -
-  id: 4
-  name: "Bruno"
-  surname: "Lima"
-  company: "CESAR"
-  title: "Front-End Developer"
-  bio: "Web Developer, recifense, headbanger, motociclista e apaixonado por desenvolvimento web, focado no front-end. Mais de 7 anos de experiencia, passando por empresas de softwares e o agitado mercado de agência. Foi líder da equipe de Front-end na Fishy em Recife e atualmente é Front-end Developer no CESAR. É voluntário da Mozilla, apoiando e desenvolvendo a open web e neutralidade da rede. E também é membro do NodeBots Rec, fazendo robôs muito loucos com JavaScript."
-  thumbnailUrl: brunolimawd.jpg
+  id: 3
+  name: "Leo"
+  surname: "Balter"
+  company: "Bocoup"
+  title: "Open Web Engineer"
+  bio: "Leo Balter é Project Lead da jQuery Foundation e Open Engineer na Bocoup, empresa norte-americana situada em Boston. É responsável por projetos como Grunt.js, QUnit e Johnny-five.io."
+  thumbnailUrl: leobalter.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "Moz", title: "Mozillian", url: "https://mozillians.org/pt-BR/u/brunolimawd/"}
   social:
-    - {name: "twitter", link: "http://twitter.com/brunolimawd"}
-    - {name: "github", link: "http://github.com/brunolimawd"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/leonardobalter"}
+-
+  id: 4
+  name: "Sergio"
+  surname: "Cruz"
+  company: "Code School"
+  title: "Course Developer"
+  bio: "Sérgio Cruz mora na Flórida (EUA) e é Course Developer, Professor e Front-End de uma das maiores empresas de cursos no mundo, a CodeSchool."
+  thumbnailUrl: sergiocruz.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sergiorlcruz"}
 -
   id: 5
-  name: "Thulio"
-  surname: "Philipe"
-  company: "Epitrack"
-  title: "Front End Engineer"
-  bio: "É desenvolvedor web freelancer e participou de projetos como: ComuniQ e Amigo secreto do Shopping Recife, atualmente em parceria com a Epitrack nos projetos: Saúde na Copa, Flu Near You e Salud Boricua. Formado em design gráfico pela Unibratec e especialista em Web-Apps é também entusiasta de CSS; Ah! É fã de Breaking Bad e House."
-  thumbnailUrl: thulio-philipe.jpg
-  rockstar: false
+  name: "Jonata"
+  surname: "Weber"
+  company: "WeberSchool"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: jonataweber.jpg
+  rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+ThulioPhilipe"}
-    - {name: "twitter", link: "http://twitter.com/thulioph_"}
-    - {name: "github", link: "http://github.com/thulioph"}
+    - {name: "", link: ""}
 -
   id: 6
-  name: "Marina"
-  surname: "Limeira"
-  company: "UFAL"
-  title: "Desenvoledora Back-End"
-  bio: "Apaixonada por software livre, começou a contribuir para a comunidade Mozilla Brasil no final de 2014. Desenvolvedora Ruby on Rails."
-  thumbnailUrl: marinalimeira_.jpg
-  ribbon:
-  - {abbr: "Moz", title: "Mozillian", url: "https://mozillians.org/en-US/u/marinalimeira"}
-  social:
-  - {name: "google-plus", link: "https://plus.google.com/+MarinaLimeira"}
-  - {name: "twitter", link: "http://twitter.com/marinalimeira_"}
-  - {name: "github", link: "http://github.com/marinalimeira"}
--
-  id: 7
-  name: "Henrique"
-  surname: "Foresti"
-  company: "Robô Livre"
-  title: "CESAR e Fundador da Robô Livre"
-  bio: "Henrique Foresti é mineiro, natural de Varginha. É especialista em Robótica no CESAR, idealizador da plataforma Robô Livre e Doutorando no Cin UFPE. Graduou-se em Ciências da Computação pela UEMG e é Mestre em Engenharia Mecânica pela UFPE. Atua também como curador dos principais eventos de Robótica e Tecnologia da América Latina e desenvolve projetos de pesquisa e inovação creditados por diversas instituições de fomento, em especial nas áreas de robôs domésticos,  robótica pedagógica, robôs terrestres, veículos aéreos não tripulados e plataformas de telemetria, processamento e comunicação. Fomenta competições de Robótica em diversos estados do Brasil e coordena o time CESAR-VoxarLabs, atual bi-campeão da categoria @home do LARC/CBR."
-  thumbnailUrl: henriqueForesti.jpg
--
-  id: 8
-  name: "Aleff"
-  surname: "Souza"
-  company: "CESAR"
-  title: "Engenheiro de sistemas"
-  bio: "Atualmente trabalha no CESAR, graduando em Ciências da Computação na UFPE, fã de Open Source, Scala & Node.js entusiasta, preparando-se para o apocalipse lambda e viciado em café <3"
-  thumbnailUrl: aleffsouza.jpg
-  social:
-  - {name: "google-plus", link: "https://plus.google.com/u/1/101883740883696227096"}
-  - {name: "twitter", link: "https://twitter.com/souza_aleff"}
-  - {name: "github", link: "https://github.com/AleffSouza"}
--
-  id: 9
-  name: "Maria"
-  surname: "Clara Santana"
-  company: "Clip"
-  title: "Front-end Developer"
-  bio: "Graduanda em Engenharia de Computação pela Universidade Federal de Alagoas, já se dedicou à pesquisa na área da Inteligência Artificial e hoje em dia é front-end developer na Clip. É apaixonada por front-end development, UX, comunidade, educação e empreendedorismo. Organizer do GDG e do WTM Maceió, acredita em iniciativas de inclusão e já foi coach do Technovation Challenge, um programa global de empreendedorismo tecnológico para garotas."
-  thumbnailUrl: clarasantana.jpg
-  ribbon:
-    - {abbr: "WTM", title: "Women Techmaker", url: "http://plus.google.com/+GdgmaceioRocksIt"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+MariaClaraSantana1"}
-    - {name: "twitter", link: "http://twitter.com/olarclara"}
-    - {name: "github", link: "http://github.com/clarasantana"}
--
-  id: 10
-  name: "Karla"
-  surname: "Falcão"
-  company: "CESAR"
-  title: "Engenheira de Software"
-  bio: "Venho trabalhando com desenvolvimento web desde 2011, atuando principalmente no front-end usando tecnologias como Javascript, PHP, HTML, CSS em conjunto com  frameworks, libs e hacks para dar mais dinamismo e acessibilidade ao maravilhoso mundo da WEB. Em 2013 comecei a me aventurar com AngularJS e NodeJS com as quais trabalho desde então."
-  thumbnailUrl: karla.jpg
-  social:
-    - {name: "twitter", link: "http://twitter.com/karlapsfalcao"}
--
-  id: 11
-  name: "Daniel"
-  surname: "Ferreira"
-  company: "CESAR"
-  title: "Engenheiro de Sistemas"
-  bio: "Possui mais de 12 anos de experiência em desenvolvimento com tecnologias Microsoft, especialmente com C# e ASP.NET. Ao longo da carreira, foco em desenvolvimento web e mobile, obteve certificações Microsoft .NET e XAML e premiações em competições como a Microsoft Imagine Cup. Há mais de 3 anos lecionando em universidades sobre desenvolvimento para Windows Phone e atualmente trabalha como engenheiro de sistemas no CESAR. Nas horas vagas, ou está no Kindle ou no PS4 :)"
-  thumbnailUrl: danielferreira.jpg
-  social:
-    - {name: "twitter", link: "http://twitter.com/dfsdaniel"}
--
-  id: 12
-  name: "Maira"
-  surname: "Bello"
-  company: "Liferay"
-  title: "Líder técnica do time de frontend na Liferay da América Latina"
-  bio: "Maíra começou a trabalhar com frontend no Facebook, onde ficou por 2 anos no time Mensagens. Lá teve a chance de trabalhar com React, Flux e Jest quando estes ainda estavam em desenvolvimento. Agora está na Liferay há aproximadamente 1 ano e meio, trabalhando principalmente em projetos open source da empresa, como o AlloyUI e o Metal.js."
-  thumbnailUrl: mairabello.jpg
+  name: "Romualdo"
+  surname: "André"
+  company: "UFRB"
+  title: ""
+  bio: ""
+  thumbnailUrl: romualdoandre.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/mairatma"}
-    - {name: "github", link: "https://github.com/mairatma"}
--
-  id: 13
-  name: "Guilherme"
-  surname: "Farias"
-  company: "Leet"
-  title: "CTO na Leet"
-  bio: "Desenvolvedor web, formado em Sistemas de Informação, já passou por PHP e Java, mas se apaixonou pelo JavaScript desde seu primeiro contato, hoje sempre o utiliza em todos os lugares, desde aplicativos mobile até desktops, foca atualmente em AngularJS e NodeJS, mas também é entusiasmado com todo tipo de tecnologia que possa tornar o seu trabalho mais produtivo e divertido :) É CTO na Leet, empresa pernambucana que desenvolve sistemas para o mercado de mídias sociais e conta com milhares de clientes em todo o Brasil."
-  thumbnailUrl: guilhermefarias.jpg
-  social:
-    - {name: "twitter", link: "http://twitter.com/guiky"}
-    - {name: "github", link: "http://github.com/guilhermefarias"}
--
-  id: 14
-  name: "Fernando"
-  surname: "S.C. Ferreira"
-  company: "Appcelerator"
-  title: "Country Manager"
-  bio: "Atuo há mais de 18 anos nas áreas de Telecom e Software com foco em Marketing e Vendas. Atuei na Claro, TIM Brasil, Spring Mobile Solutions, Now Prepay & CA Technologies (sempre com Mobile!). Morei muitos anos no Canadá, onde fiz meu MBA (McGill University) e trabalhei na Bell Canada. Além de tecnologia, sou apaixonado  por viagens e esportes de aventura!"
-  thumbnailUrl: fernandoferreira.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/fernandoscferreira"}
--
-  id: 15
-  name: "Lucas"
-  surname: "Cavalcanti"
-  company: "CESAR"
-  title: "Bi-campeão Latino Americano da RoboCup"
-  bio: "Lucas é Colaborador do CESAR, Co-Founder do ArduRec e é orientador da equipe de robótica Positronics. Bi-campeão Latino Americano da RoboCup @Home e da Olimpíada Brasileira de Robótica. Começou a trabalhar com robótica desde 2008, e atualmente tem como hobby montar robôs de baixo custo, utilizando Arduino e impressão 3D."
-  thumbnailUrl: lucascavalcanti.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/lhcavalcanti"}
-    - {name: "twitter", link: "https://twitter.com/lhcavalcanti"}
-    - {name: "github", link: "https://github.com/lhcavalcantis"}
--
-  id: 16
-  name: "Luiz"
-  surname: "Augusto"
-  company: "Tago.io"
-  title: "Software Development Consultant"
-  bio: "Web developer há 3 anos, e sempre achou que seu lugar seria no backend. Porém, a vida lhe desafiou na área de front, o que despertou seu interesse por JavaScript, web components, arquiteturas client-side e testes de interface. Se apaixonou por AngularJS ao construir sua primeira diretiva, e de novo ao utilizar testes automáticos no seu processo de desenvolvimento. Hoje sua principal linguagem é JavaScript e trabalha com AngularJS na Tago.io, onde, entre outras coisas, cria componentes para visualizações de dados em tempo real."
-  thumbnailUrl: luiz_algusto.png
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/lulzaugusto"}
-    - {name: "github", link: "https://github.com/lulzaugusto"}
--
-  id: 17
-  name: "Lhaís"
-  surname: "Rodrigues"
-  company: "Women Makers"
-  title: "Engenharia da Computação pelo CIn-UFPE"
-  bio: "Criadora e Fundadora do Women Makers, Microsoft Student Partner e Colaboradora do ArduRec. Nas horas vagas, desenvolve projetos com a área de Sistemas Embarcados e Internet das Coisas e, gosta de dar palestras sobre inspiração e motivação para fazer com as pessoas acreditem nos seus sonhos."
-  thumbnailUrl: lhaisrodrigues.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/lhaisrs_"}
-    - {name: "github", link: "https://github.com/lhaisrs"}
--
-  id: 18
-  name: "Gabriel"
-  surname: "Bandeira"
-  company: "CIn/UFPE"
-  title: "Grupo de Pesquisa em Realidade Virtual e Multimídia"
-  bio: "Graduando em Engenharia da Computação pelo CIn. Participou várias vezes das competições OBR e RoboCup ao longo dos últimos 4 anos, usando muitas vezes a Arduino. Atualmente está ligado ao Grupo de Pesquisa em Realidade Virtual e Multimídia (GRVM – CIn/UFPE), onde faz projetos ligados a Robótica e a Visão Computacional. Usa, entre outras plataformas, a Arduino."
-  thumbnailUrl: gabrielbandeira.jpg
-  rockstar: true
--
-  id: 19
-  name: "Raquel"
-  surname: "Guimarães"
-  company: "ThoughtWorks Brasil"
-  title: "Desenvolvedora"
-  bio: "Possui mais de cinco anos de experiência com desenvolvimento web, bacharel em ciência da computação pela UFCG. Atualmente trabalha com consultoria e desenvolvimento na ThoughtWorks Brasil, tentando aprender como aplicar os conceitos de metodologias ágeis em grandes projetos."
-  thumbnailUrl: raquel.jpg
-  rockstar: true
--
-  id: 20
-  name: "Adilson"
-  surname: "Mandlate"
-  company: "Kukuma Tech"
-  title: "FrontEnd Developer"
-  bio: "Adilson Xavier Mandlate \"As pessoas classificam sempre pela aparência\".Adilson Mandlate é um pesquisador e desenvolvedor Frontend, amante de produtos e serviços tecnológicos que tenham impacto na vida dos usuários. É estudante finalista de Ciência de Computação da Universidade São Tomás de Moçambique, membro e contribuidor activo no desenvolvimento de soluções web na comunidade MozDevz (http://www.mozdevz.org), actualmente é Vice-Presidente Sénior de aplicações e serviços web na startup Kukuma Tech (que actualmente esta fazer uma residência no CESAR.EDU)."
-  thumbnailUrl: adilson.jpg
-  rockstar: true
--
-  id: 21
-  name: "Caio"
-  surname: "Vaccaro"
-  company: "HUGE"
-  title: "Front-End Developer"
-  bio: "Com sete anos de experiência em programação, trabalha principalmente como Senior Web Engineer. Participou de diversas startups e projetos, incluindo a Tátil Design. Também trabalhou em agências como a TUUT e atualmente está na HUGE Inc, uma empresa americana focada em criar experiências digitais. Lá lidera uma equipe de desenvolvimento, garantindo boas práticas e processo eficiente, além de atuar em Front-End, Back-End e Continuous Integration."
-  thumbnailUrl: caiovaccaro.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/caiovaccaro"}
-    - {name: "github", link: "https://github.com/caiovaccaro"}
-    - {name: "linkedin", link: "http://linkedin.com/in/caiovaccaro"}
--
-  id: 22
-  name: "Joselito"
-  surname: "Júnior"
-  company: "Tampa Works"
-  title: "Instrutor"
-  bio: "Organizador do GDG Recife, co-criador e instrutor dos cursos AngularJS Bootcamp e PhoneGap Bootcamp, e fundador das startups premiadas Estudorama e Rabiscapp. Além de ganhador de Hackathons profissional, é entusiasta do Design Thinking, Lean Startup e desenvolvimento Ágil de software. Fã de Fórmula 1 e de fazer piadas de gosto duvidoso."
-  thumbnailUrl: joselito_junior.png
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/joselitojunior1"}
-    - {name: "github", link: "https://github.com/joselitojunior"}
-    - {name: "linkedin", link: "https://br.linkedin.com/in/joselitojunior"}
-    - {name: "facebook", link: "https://www.facebook.com/joselitojr"}
--
-  id: 23
-  name: "Anderson"
-  surname: "Bispo"
-  company: "CESAR"
-  title: "Engenheiro de Software"
-  bio: "Desenvolvedor web há mais de 10 anos. A princípio somente como desenvolvedor backend mas cada vez mais inserido no desenvolvimento frontend. Ferramentas que mais utiliza no momento: Python/Django, Ruby on Rails, CoffeeScript e React.JS. Nas horas vagas curte ver filmes, séries e tomar uma cerveja com amigos."
-  thumbnailUrl: anderson.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/abispo"}
-    - {name: "github", link: "https://github.com/andersonbispo"}
-    - {name: "linkedin", link: "https://br.linkedin.com/pub/anderson-bispo/a/704/29b"}
--
-  id: 24
-  name: "Eric"
-  surname: "Cavalcanti"
-  company: "Joy Street"
-  title: "Engenheiro de Software"
-  bio: "Atua na Joy Street como Engenheiro de Software, professor da Especialização em Tecnologias para Desenvolvimento de Aplicações Móveis do C.E.S.A.R, Mestre em Engenharia de Software. Possui o Titanium Certified App Developer (TCAD), integrante do grupo Titans da Appcelerator, possui 19 anos de experiência na área de TI, dedicados ao desenvolvimento de aplicações web, móveis e desktop."
-  thumbnailUrl: eric_cavalcanti.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/ericoc"}
-    - {name: "linkedin", link: "http://br.linkedin.com/in/eric-cavalcanti-7751754"}
-    - {name: "facebook", link: "http://www.facebook.com/eric.cavalcanti.566"}
--
-  id: 25
-  name: "Virgínia"
-  surname: "Chalegre"
-  company: "t-access"
-  title: "CEO"
-  bio: "Mestre em Testes de Acessibilidade, CIN-UFPE, Especialista em Engenharia de Software, FBV/Qualiti, 2007, Especialista em Gestão e Qualidade de Software, Universitat Politécnica de Catalunya, 2008, Bacharel em Ciência da Computação, UNICAP, 2003. Onze anos de experiência em Engenharia de Software, Sócia-Fundadora da T-Access, atualmente ela desempenha o papel de Analista de Requisitos e Testes de Acessibilidade. Já trabalhou como Engenheira de Testes, na NTE- Espanha. No CESAR, atuou como líder do time de testes no projeto Dell, ministrou treinamentos sobre processo de testes. Implantou o processo de testes no projeto Motorola, onde também atuou como líder do time de testes e executou projetos na Motorola – Itália, em 2005 e 2006."
-  thumbnailUrl: virginia_chalegre.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/vivichalegre"}
-    - {name: "linkedin", link: "http://br.linkedin.com/in/virgínia-chalegre-119a69b"}
-    - {name: "facebook", link: "https://www.facebook.com/virginia.chalegre"}
--
-  id: 26
-  name: "João"
-  surname: "Gabriel"
-  company: "Huddle3"
-  title: "Diretor de Tecnologia"
-  bio: "Engenheiro de Computação e Mestre em Computação Aplicada com ênfase em Inteligência Computacional pela Universidade Federal do Pará, com vasta experiência em soluções de tecnologia da informação. Focado na resolução de problemas que envolvem software e sistemas de hardware arquitetura, bancos de dados, mineração de dados em BigData, soluções de computação em nuvem, Stream Computing , business intelligence e gestão da informação. Com forte perfil empreendedor e liderança, já atuou em diversos projetos de Pesquisa e Desenvolvimento, com experiência em diversas plataformas para desenvolvimento de sistemas complexos especializados. Das linguagens com que trabalhou, destacam-se: Java, Python, NodeJS, C++, PHP, C#, além de diversos bancos de dados relacionais e não relacionais."
-  thumbnailUrl: joao_gabriel.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/jgabriel_lima"}
-    - {name: "github", link: "https://github.com/jgabriellima"}
-    - {name: "linkedin", link: "http://br.linkedin.com/in/joaogabriellima"}
--
-  id: 27
-  name: "Francisco"
-  surname: "Marinho"
-  company: "CESAR"
-  title: "Engenheiro de Sistemas"
-  bio: "Graduado em Análise e Desenvolvimento de software pela Unibratec. Ingressou no CESAR como residente em 2011, quando adquiriu formação em Desenvolvimento de Software Linux para Sistemas Embarcados. Possui experiência nas  linguagem de programação C, Java, JavaScript. É Engenheiro de Sistemas no CESAR desde 2012."
-  thumbnailUrl: franciscomarinho.jpg
-  rockstar: false
-  social:
-    - {name: "github", link: "https://github.com/FranciscoMarinho"}
+    - {name: "", link: ""}

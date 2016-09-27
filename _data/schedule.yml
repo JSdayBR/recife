@@ -1,80 +1,12 @@
 -
   title: "JSday Lineup"
-  date: "2015-9-12"
+  date: "2016-11-26"
   dateReadable: "Tracks"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
-  tracks:
-    - {title: "Crockford", color: "#f7df1e", description: "Sala 6"}
-    - {title: "Stefanov", color: "#f7df1e", description: "Sala 5"}
-    - {title: "Maujor", color: "#f7df1e", description: "Sala 4"}
-  timeslots:
-    - {
-        startTime: "8:00",
-        endTime: "9:00",
-        sessionIds: [001]
-    }
-    - {
-        startTime: "9:15",
-        endTime: "10:00",
-        sessionIds: [100,212,101]
-    }
-    - {
-        startTime: "10:00",
-        endTime: "10:45",
-        sessionIds: [002]
-    }
-    - {
-        startTime: "10:45",
-        endTime: "11:30",
-        sessionIds: [205,214,206]
-    }
-    - {
-        startTime: "11:30",
-        endTime: "12:00",
-        sessionIds: [207,204,105]
-    }
-    - {
-        startTime: "12:00",
-        endTime: "14:00",
-        sessionIds: [003]
-    }
-    - {
-        startTime: "14:00",
-        endTime: "14:45",
-        sessionIds: [208,102,103]
-    }
-    - {
-        startTime: "14:45",
-        endTime: "15:30",
-        sessionIds: [209,006,211]
-    }
-    - {
-        startTime: "15:30",
-        endTime: "16:00",
-        sessionIds: [004]
-    }
-    - {
-        startTime: "16:00",
-        endTime: "16:45",
-        sessionIds: [215,106,104]
-    }
-    - {
-        startTime: "16:45",
-        endTime: "17:30",
-        sessionIds: [210,213,216]
-    }
-    - {
-        startTime: "17:30",
-        endTime: "18:00",
-        sessionIds: [005]
-    }
--
-  title: "JSday Lineup"
-  date: "2015-9-12"
-  dateReadable: "Workshops"
-  tracks:
-    - {title: "Brendan Eich", color: "#f7df1e", description: "Sala 3"}
-    - {title: "Radia Perlman", color: "#f7df1e", description: "Sala 8"}
+  #tracks:
+  #  - {title: "Crockford", color: "#f7df1e", description: "Sala 6"}
+  #  - {title: "Stefanov", color: "#f7df1e", description: "Sala 5"}
+  #  - {title: "Maujor", color: "#f7df1e", description: "Sala 4"}
   timeslots:
     - {
         startTime: "8:00",
@@ -83,41 +15,109 @@
     }
     - {
         startTime: "9:00",
-        endTime: "10:45",
-        sessionIds: [200,201]
-    }
-    - {
-        startTime: "10:45",
-        endTime: "11:00",
+        endTime: "9:15",
         sessionIds: [002]
     }
     - {
-        startTime: "11:00",
+        startTime: "9:15",
+        endTime: "10:00",
+        sessionIds: [100]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:20",
+        sessionIds: [003]
+    }
+    - {
+        startTime: "10:20",
+        endTime: "11:10",
+        sessionIds: [101]
+    }
+    - {
+        startTime: "11:10",
         endTime: "12:00",
-        sessionIds: [200,201]
+        sessionIds: [102]
     }
     - {
         startTime: "12:00",
         endTime: "14:00",
-        sessionIds: [003]
+        sessionIds: [004]
     }
     - {
         startTime: "14:00",
+        endTime: "14:45",
+        sessionIds: [103]
+    }
+    - {
+        startTime: "14:45",
         endTime: "15:30",
-        sessionIds: [202,203]
+        sessionIds: [006]
     }
     - {
         startTime: "15:30",
         endTime: "16:00",
-        sessionIds: [004]
+        sessionIds: [003]
     }
     - {
         startTime: "16:00",
+        endTime: "16:45",
+        sessionIds: [006]
+    }
+    - {
+        startTime: "16:45",
         endTime: "17:30",
-        sessionIds: [202,203]
+        sessionIds: [006]
     }
     - {
         startTime: "17:30",
         endTime: "18:00",
         sessionIds: [005]
+    }
+-
+  title: "JSday Lineup"
+  date: "2016-11-26"
+  dateReadable: "CodeLabs"
+  timeslots:
+    - {
+        startTime: "9:15",
+        endTime: "10:00",
+        sessionIds: [200,006]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:20",
+        sessionIds: [003]
+    }
+    - {
+        startTime: "10:20",
+        endTime: "12:00",
+        sessionIds: [200,006]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "14:00",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:30",
+        sessionIds: [200,006]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:00",
+        sessionIds: [003]
+    }
+-
+  title: "JSday Lineup"
+  date: "2016-11-23,2016-11-24,2016-11-25"
+  dateReadable: "Workshops"
+  #tracks:
+  #  - {title: "Brendan Eich", color: "#f7df1e", description: "Sala 3"}
+  #  - {title: "Radia Perlman", color: "#f7df1e", description: "Sala 8"}
+  timeslots:
+    - {
+#        startTime: "8:00",
+#        endTime: "9:00",
+        sessionIds: [202,203]
     }
