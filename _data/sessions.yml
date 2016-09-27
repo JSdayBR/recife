@@ -31,7 +31,7 @@
   service: true
 -
   id: 100
-  title: "Accessiblity for Everyone"
+  title: "Accessibility for Everyone"
   description: ""
   subtype: presentation
   speakers: [1]
