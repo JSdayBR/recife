@@ -60,14 +60,3 @@
   rockstar: true
   social:
     - {name: "", link: ""}
--
-  id: 6
-  name: "Romualdo"
-  surname: "André"
-  company: "UFRB"
-  title: ""
-  bio: ""
-  thumbnailUrl: romualdoandre.jpg
-  rockstar: true
-  social:
-    - {name: "", link: ""}
