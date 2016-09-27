@@ -9,17 +9,20 @@ permalink: /
 
  {% include statistic.html %}
 
+{% comment %}
  {% include latest-news.html %}
+{% endcomment %}
+
+ {% include rockstar-speakers.html %}
  
- {% comment %}
-   {% include rockstar-speakers.html %}
-   {% include location-map.html %}
-   {% include venue.html %}
- {% endcomment %}
+ {% include location-map.html %}
+ 
+ {% include venue.html %}
 
+{% comment %}
  {% include twitter-feed.html %}
-
- {% comment %}
-   {% include tickets.html %}
-   {% include partners.html %}
- {% endcomment %}
+ {% include tickets.html %}
+{% endcomment %}
+ 
+ {% include partners.html %}
+ 
