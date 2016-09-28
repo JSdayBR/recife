@@ -44,8 +44,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "JS Experts"}
 # - {permalink: "/schedule/", text: "Lineup"}
 # - {permalink: "/live/", text: "Live"}
- - {link: "http://bit.ly/2d0L16t", text: "Call for paper"}
-# - {permalink: "/2015/", text: "2015"}
+ - {link: "http://bit.ly/2d0L16t", text: "Call for Papers"}
 
 bottomNavigationLinks:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
@@ -153,9 +152,10 @@ footerBlocks:
  -
   title: "Edições Anteriores"
   links:
-   - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
-   - {permalink: "/wtm-javascript-codelab/", text: "JSday Maceió Codelab WTM JavaScript"}
    - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
+   - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
+   - {link: "http://mcz.jsday.com.br/wtm-javascript-codelab/", text: "JSday Maceió Codelab WTM JavaScript"}
+   - {link: "http://rec.jsday.com.br/2015", text: "JSday Recife 2015"}
  -
   title: "Contato"
   links:
