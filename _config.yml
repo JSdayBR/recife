@@ -152,6 +152,7 @@ footerBlocks:
  -
   title: "Edições Anteriores"
   links:
+   - {link: "http://cg.jsday.com.br", text: "JSday Campina Grande"}
    - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
    - {link: "http://mcz.jsday.com.br/wtm-javascript-codelab/", text: "JSday Maceió Codelab WTM JavaScript"}
