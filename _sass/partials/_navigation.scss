@@ -1,5 +1,5 @@
-$nav-color: #000000;
-$nav-color-hover: #F6F6F6;
+$nav-color: #000;
+$nav-color-hover: #090909;
 $nav-scroll-color: rgba(0, 0, 0, .5);
 $nav-scroll-color-hover: rgba(0, 0, 0, .8);
 
@@ -117,7 +117,7 @@ nav {
                 color: rgba(0, 0, 0, .3);
                 outline: 0;
             }
-            &.current, &:hover {
+            &.current, &:active, &:focus, &:hover {
                 text-decoration: none;
                 color: $nav-color-hover;
                 font-weight: bold;
@@ -130,7 +130,7 @@ nav {
                 @media (max-width: 767px) {
                     top: 20px;
                 }
-                &.current, &:hover {
+                &.current, &:active, &:focus, &:hover {
                     color: $nav-scroll-color-hover;
                     @media (max-width: 767px) {
                         color: $main-color;
