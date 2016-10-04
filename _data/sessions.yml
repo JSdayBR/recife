@@ -52,25 +52,11 @@
 #  complexity: "Intermediate"
 -
   id: 103
-  title: "Como o mundo do IoT será transformado com JavaScript"
-  description: ""
+  title: "HTML Acessível: Um guia rápido para melhorar a acessibilidade das suas páginas Web"
+  description: "Esta palestra tem como objetivo mostrar como fazer pequenas intervenções no código HTML para torná-lo mais acessível, utilizando as diretrizes WCAG 2.0 e WAI-ARIA do W3C."
   subtype: presentation
   speakers: [6]
-#  complexity: "Beginner"
-# -
-#   id: 104
-#   title: ""
-#   description: ""
-#   subtype: presentation
-#   speakers: [7]
-#   complexity: "Beginner"
-# -
-#   id: 105
-#   title: ""
-#   description: ""
-#   subtype: presentation
-#   speakers: [2]
-#   complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 106
   title: "A Importância dos Testes Automatizados"

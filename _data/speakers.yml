@@ -45,3 +45,14 @@
   rockstar: true
   social:
     - {name: "", link: ""}
+-
+  id: 6
+  name: "Reinaldo"
+  surname: "Ferraz"
+  company: "Ceweb.br"
+  title: "Web Development Specialist"
+  bio: "Especialista em desenvolvimento web do Ceweb.br e do W3C Brasil. Formado em desenho e computação gráfica e pós graduado em design de hipermídia pela Universidade Anhembi Morumbi em São Paulo. Trabalha há mais de 12 anos com desenvolvimento web. Coordenador do Prêmio Nacional de Acessibilidade na Web e do Grupo de Trabalho em Acessibilidade na Web e representante do W3C Brasil em plenárias técnicas do W3C."
+  thumbnailUrl: reinaldoferraz.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/reinaldoferraz"}
