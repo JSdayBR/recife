@@ -15,14 +15,10 @@
   id: 2
   name: "Juarez"
   surname: "Filho"
-  company: "Google"
-  title: "Front End Engineer"
-  bio: "Front end Engineer com mais de 7 anos de experiência, começou sua carreira como desenvolvedor PHP, tentou aprender Java e depois se entregou ao Ruby e Rails, mas com sua primeira classe CSS dedicou-se completamente a carreira de Front End e UX. Trabalhou com várias Startups, incluindo Compra3, Eadbox, Amanaiê, Enjoei e Gabstr Inc, nos dias de hoje está construindo projetos com muito amor na madewithlove."
+  company: "Google Developer Expert"
+  bio: "Apaixonado pela Califórnia e pela Web, um explorador que adora contar suas aventuras envolvendo Tecnologias Web e produtos do Google. Já participou de equipes notáveis como Enjoei e madewithlove. Atualmente trabalha remotamente para uma empresa dos Estados Unidos e busca sempre contribuir para o crescimento da comunidade atuando como Google Developer Expert."
   thumbnailUrl: juarez-filho.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Expert", url: "https://developers.google.com/groups/chapter/105591078626334574818"}
-    - {abbr: "Moz", title: "Mozillian", url: "https://mozillians.org/en-US/u/juarezpaf"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
