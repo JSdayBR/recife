@@ -31,11 +31,11 @@
   service: true
 -
   id: 100
-  title: "Accessibility for Everyone"
-  description: ""
+  title: "HTML Acessível: Um guia rápido para melhorar a acessibilidade das suas páginas Web"
+  description: "Esta palestra tem como objetivo mostrar como fazer pequenas intervenções no código HTML para torná-lo mais acessível, utilizando as diretrizes WCAG 2.0 e WAI-ARIA do W3C."
   subtype: presentation
-  speakers: [1]
-#  complexity: "Beginner"
+  speakers: [6]
+  complexity: "Intermediate"
 -
   id: 101
   title: "Powering Up with React"
@@ -52,22 +52,15 @@
 #  complexity: "Intermediate"
 -
   id: 103
-  title: "HTML Acessível: Um guia rápido para melhorar a acessibilidade das suas páginas Web"
-  description: "Esta palestra tem como objetivo mostrar como fazer pequenas intervenções no código HTML para torná-lo mais acessível, utilizando as diretrizes WCAG 2.0 e WAI-ARIA do W3C."
-  subtype: presentation
-  speakers: [6]
-  complexity: "Intermediate"
--
-  id: 106
   title: "A Importância dos Testes Automatizados"
   description: ""
   subtype: presentation
   speakers: [3]
 #  complexity: "Beginner"
--
-  id: 200
-  title: "Curso Básico de JavaScript"
-  description: O Curso Básico de JavaScript ajudará os alunos a darem seus primeiros passos na linguagem mais utilizada do mundo.  Será um momento de muito aprendizado e muita "mão na massa".
-  subtype: codelab
-  speakers: [8]
-#  complexity: "Beginner"
+# -
+#   id: 200
+#   title: "Curso Básico de JavaScript"
+#   description: O Curso Básico de JavaScript ajudará os alunos a darem seus primeiros passos na linguagem mais utilizada do mundo.  Será um momento de muito aprendizado e muita "mão na massa".
+#   subtype: codelab
+#   speakers: []
+#   complexity: "Beginner"
