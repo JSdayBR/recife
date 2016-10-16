@@ -1,16 +1,16 @@
-# -
-#   id: 1
-#   name: "Felipe"
-#   surname: "de Albuquerque"
-#   company: "CESAR"
-#   title: "Front End Engineer"
-#   bio: "Web Designer e Front-End Developer com mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile e para Tv Digital. Atualmente trabalha no CESAR Recife, onde participa de projetos relevantes e para clientes de grande porte, como a Samsung, Motorola, Coca-cola, Fiat e atualmente em projetos da HP. Também faz parte do corpo docente do CESAR EDU, entre outras iniciativas acadêmicas e de mentoring. Tem interesse em ciência e tecnologia, arte, música e brinquedos tecnológicos."
-#   thumbnailUrl: felipedeolinda.jpg
-#   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://br.linkedin.com/in/felipedealbuquerque"}
-#     - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
-#     - {name: "github", link: "https://github.com/felipedealbuquerque"}
+-
+  id: 1
+  name: "Felipe"
+  surname: "de Albuquerque"
+  company: "CESAR"
+  title: "Front End Engineer"
+  bio: "Web Designer e Front-End Developer com mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile e para Tv Digital. Atualmente trabalha no CESAR Recife, onde participa de projetos relevantes e para clientes de grande porte, como a Samsung, Motorola, Coca-cola, Fiat e atualmente em projetos da HP. Também faz parte do corpo docente do CESAR EDU, entre outras iniciativas acadêmicas e de mentoring. Tem interesse em ciência e tecnologia, arte, música e brinquedos tecnológicos."
+  thumbnailUrl: felipealbuquerque.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/felipedealbuquerque"}
+    - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
+    - {name: "github", link: "https://github.com/felipedealbuquerque"}
 # -
 #   id: 2
 #   name: "Juarez"
