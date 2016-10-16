@@ -71,6 +71,13 @@
   subtype: presentation
   speakers: [9]
   complexity: "Intermediate"
+  -
+    id: 106
+    title: "Robotics For Every One With JavaScript"
+    description: "Conheça um JavaScript extremamente diferente de qualquer outra coisa que você já imaginou! Nesta presentação vamos mostrar o poder supremo do JavaScript, vamos usar o Node.js para controlar Robôs e Drones. Acha que isso é impossível? Então vamos te apresentar ao Johnny-five.oi e você vera com seus próprios olhos!"
+    subtype: presentation
+    speakers: [1]
+    complexity: "Beginner"
 # -
 #   id: 200
 #   title: "Curso Básico de JavaScript"
