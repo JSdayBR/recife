@@ -33,7 +33,9 @@
   thumbnailUrl: jonataweber.jpg
   rockstar: true
   social:
-    - {name: "", link: ""}
+    - {name: "twitter", link: "https://twitter.com/jonataweber"}
+    - {name: "github", link: "https://github.com/jonataa"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jonata-weber-81a2bb17"}
 -
   id: 6
   name: "Reinaldo"
