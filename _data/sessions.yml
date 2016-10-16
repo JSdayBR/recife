@@ -52,11 +52,25 @@
 #  complexity: "Intermediate"
 -
   id: 103
-  title: "A Importância dos Testes Automatizados"
-  description: ""
+  title: "Testes em JS como você nunca viu antes"
+  description: "Se o objetivo dos seus testes é provar que seu software não tem bugs, você está testando da forma errada. Nesta talk eu vou te mostrar não só o melhor mindset e as melhores técnicas para escrever testes, mas também falar sobre como as métricas atuais para avaliar nossos testes são imprecisas e como podemos melhorá-las. E se você ainda não estiver convicto de que bons testes são essenciais para a qualidade do produto, vou mostrar fatos e exemplos que certamente irão te convencer do contrário. Além disso, durante toda a palestra, mostrarei exemplos com as principais ferramentas de testes em JavaScript para que você possa aplicar esse conhecimento o quanto antes. Eu não vou falar só sobre TDD, eu vou falar sobre como fazê-lo da maneira correta!"
   subtype: presentation
-  speakers: [3]
-#  complexity: "Beginner"
+  speakers: [7]
+  complexity: "Intermediate"
+-
+  id: 104
+  title: "Contando histórias com Redux"
+  description: "O Redux é um framework relativamente novo e como tudo que é novo, dúvidas sobre qual o melhor caminho seguir surgem frequentemente. Nessa palestra vou te mostrar como você pode se guiar através de histórias que sua aplicação irá contar através das ações e estados."
+  subtype: presentation
+  speakers: [8]
+  complexity: "Intermediate"
+-
+  id: 105
+  title: "Web Machine Learning - Desbravando a aprendizagem de máquina com Javascript"
+  description: "Já pensou em utilizar inteligência artificial em suas aplicações web? Processando tudo no client-side, nesta palestra irei apresentar o estado da arte dos modelos de inteligência artificial destacando os aspectos práticos, com exemplos reais de aplicações e como isso pode transformar sua aplicação. Reconhecimento de imagens, caracteres, padrões até uma IA que desenha por si só, tudo em Javascript."
+  subtype: presentation
+  speakers: [9]
+  complexity: "Intermediate"
 # -
 #   id: 200
 #   title: "Curso Básico de JavaScript"
