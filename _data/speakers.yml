@@ -24,17 +24,6 @@
 #     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
 #     - {name: "github", link: "https://github.com/juarezpaf"}
 -
-  id: 4
-  name: "Sergio"
-  surname: "Cruz"
-  company: "Code School"
-  title: "Course Developer"
-  bio: "Sérgio Cruz mora na Flórida (EUA) e é Course Developer, Professor e Front-End de uma das maiores empresas de cursos no mundo, a CodeSchool."
-  thumbnailUrl: sergiocruz.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sergiorlcruz"}
--
   id: 5
   name: "Jonata"
   surname: "Weber"
