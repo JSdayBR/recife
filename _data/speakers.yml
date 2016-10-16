@@ -81,3 +81,17 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/bruno.quaresmaa"}
     - {name: "linkedin", link: "https://br.linkedin.com/in/brunoquaresma1"}
+-
+  id: 9
+  name: "João"
+  surname: "Gabriel Lima"
+  company: "Epitrack / Estácio de Sá"
+  title: "Head of Android Development / Professor"
+  bio: "Sou um IT hacker de Belém do Pará, doutorando em computação aplicada e inteligência computacional, professor na Faculdade Estácio de Sá, atualmente sou head de desenvolvimento android na Epitrack. Apaixonado por compartilhar conhecimento, desenvolvimento de software, açaí, javascript e pelo nordeste."
+  thumbnailUrl: joaogabriel.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/jgabriel.lima"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/joaogabriellima"}
+    - {name: "twitter", link: "https://twitter.com/jgabriel_lima"}
+    - {name: "github", link: "https://github.com/jgabriellima"}
