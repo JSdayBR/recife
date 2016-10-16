@@ -85,9 +85,9 @@
   id: 9
   name: "João"
   surname: "Gabriel Lima"
-  company: "Epitrack / Estácio de Sá"
-  title: "Head of Android Development / Professor"
-  bio: "Sou um IT hacker de Belém do Pará, doutorando em computação aplicada e inteligência computacional, professor na Faculdade Estácio de Sá, atualmente sou head de desenvolvimento android na Epitrack. Apaixonado por compartilhar conhecimento, desenvolvimento de software, açaí, javascript e pelo nordeste."
+  company: "Epitrack"
+  title: "Doutor em computação aplicada e inteligência computacional"
+  bio: "IT hacker de Belém do Pará, professor na Faculdade Estácio de Sá, e atualmente é head de desenvolvimento android na Epitrack. Apaixonado por compartilhar conhecimento, desenvolvimento de software, açaí, javascript e pelo nordeste."
   thumbnailUrl: joaogabriel.jpg
   rockstar: true
   social:
