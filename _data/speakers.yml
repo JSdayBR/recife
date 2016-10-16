@@ -69,3 +69,15 @@
     - {name: "twitter", link: "https://twitter.com/lfernandescosta"}
     - {name: "github", link: "https://github.com/lucasfcosta"}
     - {name: "linkedin", link: "https://linkedin.com/in/lucasfdacosta"}
+-
+  id: 8
+  name: "Bruno"
+  surname: "Quaresma"
+  company: "Inloco Media"
+  title: "Engenheiro Front-End"
+  bio: "Desenvolvedor front-end apaixonado por JS e as maravilhas da Web. Entusiasta de tecnologias como React e Redux tem como passa-tempo estudar novas tecnologias e assistir séries e animes."
+  thumbnailUrl: brunoquaresma.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/bruno.quaresmaa"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/brunoquaresma1"}
