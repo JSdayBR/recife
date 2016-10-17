@@ -188,9 +188,10 @@
         });
 
         $('.track-header').each(function() {
-            var slot = $(this).closest('.schedule-table').find('.slot').first();
             var scheduleFirstSlotText;
-            while (scheduleFirstSlotText === undefined) {
+            var slot = $(this).closest('.schedule-table').find('.slot').first();
+            var hasSlot = slot && slot.length > 0;
+            while (hasSlot && scheduleFirstSlotText === undefined) {
                 scheduleFirstSlotText = slot.data('slotDetail');
                 slot = slot.next();
             }
