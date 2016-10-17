@@ -13,4 +13,4 @@
 -
   group: ""
   elements:
-    - {name: "ceweb, nic, cgi", imageUrl: "ceweb_nic_cgi.png", width: "123px"}
+    - {name: "ceweb, nic, cgi", link: "http://ceweb.br/", imageUrl: "ceweb_nic_cgi.png", width: "123px"}
