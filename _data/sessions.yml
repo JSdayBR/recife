@@ -47,7 +47,7 @@
   id: 102
   title: "Workshop: Programação Funcional com Acarajé e Dendê"
   description: "Escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais."
-  subtype: Workshop, 23, 24 e 25 de Novembro
+  subtype: Workshop
   speakers: [5]
 #  complexity: "Intermediate"
 -

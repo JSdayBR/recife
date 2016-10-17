@@ -10,3 +10,7 @@
   group: ""
   elements:
     - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "180px"}
+-
+  group: ""
+  elements:
+    - {name: "ceweb, nic, cgi", imageUrl: "ceweb_nic_cgi.png", width: "123px"}
