@@ -31,57 +31,87 @@
   service: true
 -
   id: 100
+  title: "Robotics for Everyone with JavaScript"
+  description: "Conheça um JavaScript extremamente diferente de qualquer outra coisa que você já imaginou! Nesta apresentação vamos mostrar o poder supremo do JavaScript, usando Node.js para controlar robôs e drones. Acha que isso é impossível? Então vamos te apresentar ao johnny-five.io e você verá com seus próprios olhos!"
+  subtype: presentation
+  speakers: [1]
+  complexity: "Beginner"
+-
+  id: 101
   title: "HTML Acessível: Um guia rápido para melhorar a acessibilidade das suas páginas Web"
   description: "Esta palestra tem como objetivo mostrar como fazer pequenas intervenções no código HTML para torná-lo mais acessível, utilizando as diretrizes WCAG 2.0 e WAI-ARIA do W3C."
+  subtype: presentation
+  speakers: [2]
+  complexity: "Intermediate"
+-
+  id: 102
+  title: "Testes em JS como você nunca viu antes"
+  description: "Se o objetivo dos seus testes é provar que seu software não tem bugs, você está testando da forma errada. Nesta talk eu vou te mostrar não só o melhor mindset e as melhores técnicas para escrever testes, mas também falar sobre como as métricas atuais para avaliar nossos testes são imprecisas e como podemos melhorá-las. E se você ainda não estiver convicto de que bons testes são essenciais para a qualidade do produto, vou mostrar fatos e exemplos que certamente irão te convencer do contrário. Além disso, durante toda a palestra, mostrarei exemplos com as principais ferramentas de testes em JavaScript para que você possa aplicar esse conhecimento o quanto antes. Eu não vou falar só sobre TDD, eu vou falar sobre como fazê-lo da maneira correta!"
+  subtype: presentation
+  speakers: [3]
+  complexity: "Intermediate"
+-
+  id: 103
+  title: "Programação Funcional com Acarajé e Dendê"
+  description: "Escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais."
+  subtype: presentation
+  speakers: [4]
+  complexity: "Intermediate"
+-
+  id: 104
+  title: "Progressive Web Apps: e o JavaScript com isso?"
+  description: "Progressive Web Applications usam as novas tecnologias pra levar até as pessoas as melhores partes da experiência mobile e nativa. Mas e o que o JavaScript tem a ver com isso? Simplesmente tudo! Conheça as APIs que permitem desde coisas simples, como fazer o telefone vibrar, até mais legais, como gravar áudio e vídeo a partir da câmera e microfone. Tudo no browser, usando JavaScript!"
+  subtype: presentation
+  speakers: [5]
+  complexity: "Intermediate"
+-
+  id: 105
+  title: "Contando histórias com Redux"
+  description: "O Redux é um framework relativamente novo e como tudo que é novo, dúvidas sobre qual o melhor caminho seguir surgem frequentemente. Nessa palestra vou te mostrar como você pode se guiar através de histórias que sua aplicação irá contar através das ações e estados."
   subtype: presentation
   speakers: [6]
   complexity: "Intermediate"
 -
-  id: 101
-  title: "Powering Up with React"
-  description: ""
-  subtype: presentation
-  speakers: [4]
-#  complexity: "Beginner"
--
-  id: 102
-  title: "Workshop: Programação Funcional com Acarajé e Dendê"
-  description: "Escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais."
-  subtype: Workshop
-  speakers: [5]
-#  complexity: "Intermediate"
--
-  id: 103
-  title: "Testes em JS como você nunca viu antes"
-  description: "Se o objetivo dos seus testes é provar que seu software não tem bugs, você está testando da forma errada. Nesta talk eu vou te mostrar não só o melhor mindset e as melhores técnicas para escrever testes, mas também falar sobre como as métricas atuais para avaliar nossos testes são imprecisas e como podemos melhorá-las. E se você ainda não estiver convicto de que bons testes são essenciais para a qualidade do produto, vou mostrar fatos e exemplos que certamente irão te convencer do contrário. Além disso, durante toda a palestra, mostrarei exemplos com as principais ferramentas de testes em JavaScript para que você possa aplicar esse conhecimento o quanto antes. Eu não vou falar só sobre TDD, eu vou falar sobre como fazê-lo da maneira correta!"
+  id: 106
+  title: "Web Machine Learning - Desbravando a aprendizagem de máquina com JavaScript"
+  description: "Já pensou em utilizar inteligência artificial em suas aplicações web? Processando tudo no client-side, nesta palestra irei apresentar o estado da arte dos modelos de inteligência artificial destacando os aspectos práticos, com exemplos reais de aplicações e como isso pode transformar sua aplicação. Reconhecimento de imagens, caracteres, padrões e até uma IA que desenha por si só, tudo em JavaScript."
   subtype: presentation
   speakers: [7]
   complexity: "Intermediate"
+# -
+#   id: 107
+#   title: "Angular 2 e Firebase"
+#   description: ""
+#   subtype: presentation
+#   speakers: [8]
+#   complexity: "Intermediate"
 -
-  id: 104
-  title: "Contando histórias com Redux"
-  description: "O Redux é um framework relativamente novo e como tudo que é novo, dúvidas sobre qual o melhor caminho seguir surgem frequentemente. Nessa palestra vou te mostrar como você pode se guiar através de histórias que sua aplicação irá contar através das ações e estados."
-  subtype: presentation
-  speakers: [8]
-  complexity: "Intermediate"
--
-  id: 105
-  title: "Web Machine Learning - Desbravando a aprendizagem de máquina com Javascript"
-  description: "Já pensou em utilizar inteligência artificial em suas aplicações web? Processando tudo no client-side, nesta palestra irei apresentar o estado da arte dos modelos de inteligência artificial destacando os aspectos práticos, com exemplos reais de aplicações e como isso pode transformar sua aplicação. Reconhecimento de imagens, caracteres, padrões até uma IA que desenha por si só, tudo em Javascript."
+  id: 108
+  title: "Talvez você não precise de um framework"
+  description: JavaScript amadurece e ganha mais visibilidade a cada dia. A principal razão disso é a facilidade em desenvolver aplicações modernas usando algum dos vários novos frameworks que existem. Por outro lado, incluir um framework na sua tech stack cria uma dependência que pode custar caro no futuro e comprometer a saúde do seu codebase. É possível desenvolver JS sem ficar refém do React nem se apavorar com a atualização do Angular. Antes de você gritar "blasfêmia!", veja um caso real onde criamos uma interface rápida, fácil de manter e de testar usando boas práticas, Jasmine e algum jQuery.
   subtype: presentation
   speakers: [9]
-  complexity: "Intermediate"
--
-  id: 106
-  title: "Robotics For Every One With JavaScript"
-  description: "Conheça um JavaScript extremamente diferente de qualquer outra coisa que você já imaginou! Nesta presentação vamos mostrar o poder supremo do JavaScript, vamos usar o Node.js para controlar Robôs e Drones. Acha que isso é impossível? Então vamos te apresentar ao Johnny-five.oi e você vera com seus próprios olhos!"
-  subtype: presentation
-  speakers: [1]
-  complexity: "Beginner"
+  complexity: "Advanced"
+
 # -
 #   id: 200
-#   title: "Curso Básico de JavaScript"
-#   description: O Curso Básico de JavaScript ajudará os alunos a darem seus primeiros passos na linguagem mais utilizada do mundo.  Será um momento de muito aprendizado e muita "mão na massa".
+#   title: "Fundamentos do JS"
+#   description: ""
 #   subtype: codelab
 #   speakers: []
-#   complexity: "Beginner"
+#   complexity: ""
+# -
+#   id: 201
+#   title: "React.js"
+#   description: ""
+#   subtype: codelab
+#   speakers: []
+#   complexity: ""
+
+# -
+#   id: 300
+#   title: ""
+#   description: ""
+#   subtype: workshop
+#   speakers: []
+#   complexity: ""
