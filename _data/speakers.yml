@@ -2,8 +2,8 @@
   id: 1
   name: "Felipe"
   surname: "de Albuquerque"
-  company: "CESAR"
-  title: "Front End Engineer"
+  company: "C.E.S.A.R"
+  title: "Front-end Engineer"
   bio: "Web Designer e Front-End Developer com mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile e para Tv Digital. Atualmente trabalha no CESAR Recife, onde participa de projetos relevantes e para clientes de grande porte, como a Samsung, Motorola, Coca-cola, Fiat e atualmente em projetos da HP. Também faz parte do corpo docente do CESAR EDU, entre outras iniciativas acadêmicas e de mentoring. Tem interesse em ciência e tecnologia, arte, música e brinquedos tecnológicos."
   thumbnailUrl: felipealbuquerque.jpg
   rockstar: true
@@ -11,20 +11,32 @@
     - {name: "linkedin", link: "https://br.linkedin.com/in/felipedealbuquerque"}
     - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
     - {name: "github", link: "https://github.com/felipedealbuquerque"}
-# -
-#   id: 2
-#   name: "Juarez"
-#   surname: "Filho"
-#   company: "Google Developer Expert"
-#   bio: "Apaixonado pela Califórnia e pela Web, um explorador que adora contar suas aventuras envolvendo Tecnologias Web e produtos do Google. Já participou de equipes notáveis como Enjoei e madewithlove. Atualmente trabalha remotamente para uma empresa dos Estados Unidos e busca sempre contribuir para o crescimento da comunidade atuando como Google Developer Expert."
-#   thumbnailUrl: juarez-filho.jpg
-#   rockstar: true
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
-#     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
-#     - {name: "github", link: "https://github.com/juarezpaf"}
 -
-  id: 5
+  id: 2
+  name: "Reinaldo"
+  surname: "Ferraz"
+  company: "W3C / Ceweb.br"
+  title: "Web Development Specialist"
+  bio: "Especialista em desenvolvimento web do Ceweb.br e do W3C Brasil. Formado em desenho e computação gráfica e pós graduado em design de hipermídia pela Universidade Anhembi Morumbi em São Paulo. Trabalha há mais de 12 anos com desenvolvimento web. Coordenador do Prêmio Nacional de Acessibilidade na Web e do Grupo de Trabalho em Acessibilidade na Web e representante do W3C Brasil em plenárias técnicas do W3C."
+  thumbnailUrl: reinaldoferraz.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/reinaldoferraz"}
+-
+  id: 3
+  name: "Lucas"
+  surname: "F. Costa"
+  company: "MyTapp"
+  title: "FullStack Developer"
+  bio: "Um desenvolvedor que vive e respira JavaScript. É apaixonado não só por produzir código, mas também por produzir conteúdo original e de qualidade para a comunidade e compartilhar conhecimento. Entusiasta open-source, faz parte do Core Team de um dos maiores projetos do NPM, o Chai.js. Uma library de assertions que está entre as 50 mais estreladas e dependidas do NPM."
+  thumbnailUrl: lucasfcosta.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/lfernandescosta"}
+    - {name: "github", link: "https://github.com/lucasfcosta"}
+    - {name: "linkedin", link: "https://linkedin.com/in/lucasfdacosta"}
+-
+  id: 4
   name: "Jonata"
   surname: "Weber"
   company: "WeberSchool"
@@ -37,48 +49,35 @@
     - {name: "github", link: "https://github.com/jonataa"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/jonata-weber-81a2bb17"}
 -
+  id: 5
+  name: "Jose"
+  surname: "Marcilio"
+  company: "C.E.S.A.R"
+  title: "Software Engineer"
+  bio: "Web Developer apaixonado por tudo que dá pra fazer no client-side, e brinca com isso há cerca de 6 anos. Trabalhou como front-end developer na Avantia, criando interfaces para aplicações distribuídas e atualmente é Engenheiro de Software no CESAR. Nas horas vagas gosta de se engajar em projetos divertidos e que tragam novas experiências."
+  thumbnailUrl: josemarcilio.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/zemarcilio"}
+-
   id: 6
-  name: "Reinaldo"
-  surname: "Ferraz"
-  company: "W3C / Ceweb.br"
-  title: "Web Development Specialist"
-  bio: "Especialista em desenvolvimento web do Ceweb.br e do W3C Brasil. Formado em desenho e computação gráfica e pós graduado em design de hipermídia pela Universidade Anhembi Morumbi em São Paulo. Trabalha há mais de 12 anos com desenvolvimento web. Coordenador do Prêmio Nacional de Acessibilidade na Web e do Grupo de Trabalho em Acessibilidade na Web e representante do W3C Brasil em plenárias técnicas do W3C."
-  thumbnailUrl: reinaldoferraz.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/reinaldoferraz"}
--
-  id: 7
-  name: "Lucas"
-  surname: "F. Costa"
-  company: "MyTapp"
-  title: "FullStack Developer"
-  bio: "Um desenvolvedor que vive e respira JavaScript. É apaixonado não só por produzir código, mas também por produzir conteúdo original e de qualidade para a comunidade e compartilhar conhecimento. Entusiasta open-source, faz parte do Core Team de um dos maiores projetos do NPM, o Chai.js. Uma library de assertions que está entre as 50 libraries mais estreladas e dependidas do NPM."
-  thumbnailUrl: lucasfcosta.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/lfernandescosta"}
-    - {name: "github", link: "https://github.com/lucasfcosta"}
-    - {name: "linkedin", link: "https://linkedin.com/in/lucasfdacosta"}
--
-  id: 8
   name: "Bruno"
   surname: "Quaresma"
-  company: "Inloco Media"
-  title: "Engenheiro Front-End"
-  bio: "Desenvolvedor front-end apaixonado por JS e as maravilhas da Web. Entusiasta de tecnologias como React e Redux tem como passa-tempo estudar novas tecnologias e assistir séries e animes."
+  company: "In Loco Media"
+  title: "Front-end Engineer"
+  bio: "Desenvolvedor front-end apaixonado por JS e as maravilhas da Web. Entusiasta de tecnologias como React e Redux tem como passatempo estudar novas tecnologias e assistir séries e animes."
   thumbnailUrl: brunoquaresma.jpg
   rockstar: true
   social:
-    - {name: "facebook", link: "https://www.facebook.com/bruno.quaresmaa"}
     - {name: "linkedin", link: "https://br.linkedin.com/in/brunoquaresma1"}
+    - {name: "facebook", link: "https://www.facebook.com/bruno.quaresmaa"}
 -
-  id: 9
+  id: 7
   name: "João"
   surname: "Gabriel Lima"
   company: "Epitrack"
   title: "PhD em computação aplicada e inteligência computacional"
-  bio: "IT hacker de Belém do Pará, professor na Faculdade Estácio de Sá, e atualmente é head de desenvolvimento android na Epitrack. Apaixonado por compartilhar conhecimento, desenvolvimento de software, açaí, javascript e pelo nordeste."
+  bio: "IT hacker de Belém do Pará, professor na Faculdade Estácio de Sá, e atualmente é head de desenvolvimento Android na Epitrack. Apaixonado por compartilhar conhecimento, desenvolvimento de software, açaí, JavaScript e pelo nordeste."
   thumbnailUrl: joaogabriel.jpg
   rockstar: true
   social:
@@ -86,3 +85,26 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/joaogabriellima"}
     - {name: "twitter", link: "https://twitter.com/jgabriel_lima"}
     - {name: "github", link: "https://github.com/jgabriellima"}
+# -
+#   id: 8
+#   name: "Juarez"
+#   surname: "Filho"
+#   company: "Google Developer Expert"
+#   bio: "Apaixonado pela Califórnia e pela Web, um explorador que adora contar suas aventuras envolvendo Tecnologias Web e produtos do Google. Já participou de equipes notáveis como Enjoei e madewithlove. Atualmente trabalha remotamente para uma empresa dos Estados Unidos e busca sempre contribuir para o crescimento da comunidade atuando como Google Developer Expert."
+#   thumbnailUrl: juarez-filho.jpg
+#   rockstar: true
+#   social:
+#     - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
+#     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
+#     - {name: "github", link: "https://github.com/juarezpaf"}
+-
+  id: 9
+  name: "Marcelo"
+  surname: "Theodoro"
+  company: "ThoughtWorks"
+  title: "Senior Consultant"
+  bio: "Formado em Ciência da Computação, já foi empreendedor, professor e hoje é consultor na ThoughtWorks Recife. Já trabalhou com tudo quanto é coisa nos últimos 8 anos e ainda não aprendeu a escrever bio."
+  thumbnailUrl: marcelotheodoro.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/marcelotheodorojr"}
