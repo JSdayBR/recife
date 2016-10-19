@@ -92,14 +92,22 @@
   subtype: presentation
   speakers: [9]
   complexity: "Advanced"
-
-# -
-#   id: 200
-#   title: "Fundamentos do JS"
-#   description: ""
-#   subtype: codelab
-#   speakers: []
-#   complexity: ""
+# Codelabs
+-
+  id: 200
+  title: "Fundamentos do JS"
+  description: "O Women Who Code JavaScript Codelab é para as mulheres que querem aprender uma das linguagens mais poderosas para desenvolvimento web. Em 4 horas você vai aprender os fundamentos da linguagem e praticar! Se você não tem experiência com programação, não se preocupe, as atividades práticas serão em dupla ( pair-programing), portanto, meninas,participem!! Experientes e Aspirantes são bem-vindas, traga um laptop e uma amiga!"
+  subtype: codelab
+  speakers: [8,9]
+  complexity: "Beginner"
+# Workshops
+-
+  id: 300
+  title: "Programação Funcional"
+  description: "Esse workshop vai acontecer entre os dias 23, 24 e 25 de Novembro. Descrição: Escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais."
+  subtype: workshop
+  speakers: [4]
+  complexity: "Intermediate"
 # -
 #   id: 201
 #   title: "React.js"

@@ -85,6 +85,31 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/joaogabriellima"}
     - {name: "twitter", link: "https://twitter.com/jgabriel_lima"}
     - {name: "github", link: "https://github.com/jgabriellima"}
+-
+  id: 8
+  name: "Karina"
+  surname: "Machado"
+  company: "WWcode Recife"
+  title: "Director"
+  bio: "Graduada em Gestāo em TI pela Faculdade dos Guararapes - PE, desenvolvedora web, interesse pelas áreas de educação, tecnologia e empreendedorismo e inovação. Director, Women Who Code Recife, Embaixadora Technovation Challenge Recife, Member Women Techmakers, MTAC - Microsoft."
+  thumbnailUrl: karina_machado.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/karinamachado"}
+    - {name: "github", link: "https://github.com/karinamachado"}
+-
+  id: 9
+  name: "Lhaís"
+  surname: "Rodrigues"
+  company: "Ávila Soluções"
+  title: "Desenvolvedora"
+  bio: " Desenvolvedora na Ávila Soluções, Desenvolvedora no Mete a Colher, Microsoft Student Partner Leader Nordeste, Estudante de Engenharia da Computação pelo CIn-UFPE e Criadora do Women Makers."
+  thumbnailUrl: lhais_rodrigues.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/lhaisrs"}
+    - {name: "github", link: "https://github.com/lhaisrs"}
+    - {name: "twitter", link: "https://twitter.com/lhaisrs_"}    
 # -
 #   id: 8
 #   name: "Juarez"
