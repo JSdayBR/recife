@@ -29,7 +29,7 @@ organizerEmail: "jsdaybr@gmail.com"
 # organizerLink: "http://fb.com/caravanaweb"
 
 # Head
-metaKeywords: "event, javascript, js, angularjs, google maps, ionic, firebase, aplicativos híbridos, nodebots"
+metaKeywords: "event, javascript, js, angularjs, reactjs, accessibility, google maps, ionic, firebase, aplicativos híbridos, nodebots"
 twitterAccount: "@jsdaybr"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -71,9 +71,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "participantes", detail: ""}
- - {count: "36", specialCharacter: "+", info: "horas", detail: "de puro código"}
- - {count: "4", specialCharacter: "+", info: "workshop", detail: "foco total em JavaScript"}
- - {count: "1", specialCharacter: "+", info: "trilhas", detail: "com tópicos incríveis"}
+ - {count: "2", specialCharacter: "+", info: "Codelabs", detail: "de puro código"}
+ - {count: "2", specialCharacter: "+", info: "Workshop", detail: "foco total em JavaScript"}
+ - {count: "1", specialCharacter: "+", info: "Trilha", detail: "com tópicos incríveis"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
