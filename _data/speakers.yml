@@ -85,18 +85,18 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/joaogabriellima"}
     - {name: "twitter", link: "https://twitter.com/jgabriel_lima"}
     - {name: "github", link: "https://github.com/jgabriellima"}
-# -
-#   id: 8
-#   name: "Juarez"
-#   surname: "Filho"
-#   company: "Google Developer Expert"
-#   bio: "Apaixonado pela Califórnia e pela Web, um explorador que adora contar suas aventuras envolvendo Tecnologias Web e produtos do Google. Já participou de equipes notáveis como Enjoei e madewithlove. Atualmente trabalha remotamente para uma empresa dos Estados Unidos e busca sempre contribuir para o crescimento da comunidade atuando como Google Developer Expert."
-#   thumbnailUrl: juarez-filho.jpg
-#   rockstar: true
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
-#     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
-#     - {name: "github", link: "https://github.com/juarezpaf"}
+-
+  id: 8
+  name: "Juarez"
+  surname: "Filho"
+  company: "Google Developer Expert"
+  bio: "Apaixonado pela Califórnia e pela Web, um explorador que adora contar suas aventuras envolvendo Tecnologias Web e produtos do Google. Já participou de equipes notáveis como Enjoei e madewithlove. Atualmente trabalha remotamente para uma empresa dos Estados Unidos e busca sempre contribuir para o crescimento da comunidade atuando como Google Developer Expert."
+  thumbnailUrl: juarez-filho.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
+    - {name: "twitter", link: "https://twitter.com/juarezpaf"}
+    - {name: "github", link: "https://github.com/juarezpaf"}
 -
   id: 9
   name: "Marcelo"

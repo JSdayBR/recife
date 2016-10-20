@@ -78,13 +78,13 @@
   subtype: presentation
   speakers: [7]
   complexity: "Intermediate"
-# -
-#   id: 107
-#   title: "Angular 2 e Firebase"
-#   description: ""
-#   subtype: presentation
-#   speakers: [8]
-#   complexity: "Intermediate"
+-
+  id: 107
+  title: "Angular 2 e Firebase"
+  description: ""
+  subtype: presentation
+  speakers: [8]
+  complexity: "Intermediate"
 -
   id: 108
   title: "Talvez você não precise de um framework"
