@@ -139,7 +139,7 @@
   surname: "Silva"
   company: "Accenture"
   title: "Analista"
-  bio: "Formada em Tecnologia em Sistemas para Internet e pós-graduanda em Engenharia de Software. Caí de "paraquedas" na área, pois iria começar a faculdade de Direito, depois que vi lógica de programação, não quis fazer mais nada diferente daquilo e foi amor ao primeiro "Hello World"."
+  bio: 'Formada em Tecnologia em Sistemas para Internet e pós-graduanda em Engenharia de Software. Caí de "paraquedas" na área, pois iria começar a faculdade de Direito, depois que vi lógica de programação, não quis fazer mais nada diferente daquilo e foi amor ao primeiro "Hello World".'
   thumbnailUrl: willany_silva.jpg
   rockstar: true
   social:
