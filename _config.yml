@@ -183,7 +183,7 @@ aboutUs: "Google's services have become synonymous with simple things online. Nu
 cfpTitle: "Espalhe o amor pelo JavaScript"
 cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScript é capaz. Se você já está por dentro das novidades de ES2015 e ES2016, sabe utilizar componentes React ou Angular como ninguém, programa usando JavaScript funcional e reativo ou ainda quer explicar do que se trata esse tal de Babel, clique no link abaixo e envie sua proposta."
 cfpLink: "http://bit.ly/2d0L16t"
-cfpLinkText: "$(form).submit();"
+cfpLinkText: "CALL FOR PAPERS"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
