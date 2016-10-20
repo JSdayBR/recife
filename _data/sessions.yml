@@ -95,7 +95,7 @@
 # Codelabs
 -
   id: 200
-  title: "Women Who Code JavaScript Codelab"
+  title: "Codelab: Women Who Code JavaScript"
   description: "É para as mulheres que querem aprender uma das linguagens mais poderosas para desenvolvimento web. Em 4 horas você vai aprender os fundamentos da linguagem e praticar! Se você não tem experiência com programação, não se preocupe, as atividades práticas serão em dupla ( pair-programing), portanto, meninas,participem!! Experientes e Aspirantes são bem-vindas, traga um laptop e uma amiga!"
   subtype: codelab
   speakers: [10,11]
@@ -103,8 +103,8 @@
 # Workshops
 -
   id: 300
-  title: "Programação Funcional"
-  description: "Esse workshop vai acontecer entre os dias 23, 24 e 25 de Novembro. Descrição: Escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais."
+  title: "workshop: Programação Funcional"
+  description: "Essa atividade vai acontecer entre os dias 23, 24 e 25 de Novembro. Descrição: Escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais."
   subtype: workshop
   speakers: [4]
   complexity: "Intermediate"
