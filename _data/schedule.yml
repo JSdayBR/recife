@@ -3,8 +3,8 @@
   date: "2016-11-26"
   dateReadable: "Tracks"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
-  #tracks:
-  #  - {title: "Crockford", color: "#f7df1e", description: "Sala 6"}
+  tracks:
+   - {title: "Crockford", color: "#f7df1e", description: "Sala 6"}
   #  - {title: "Stefanov", color: "#f7df1e", description: "Sala 5"}
   #  - {title: "Maujor", color: "#f7df1e", description: "Sala 4"}
   timeslots:
@@ -84,21 +84,21 @@
         sessionIds: [005]
     }
 
-# -
-#   title: "JSday Lineup"
-#   date: "2016-11-26"
-#   dateReadable: "CodeLabs"
-#   timeslots:
-#     - {
-#         startTime: "9:15",
-#         endTime: "10:00",
-#         sessionIds: [200,006]
-#     }
-#     - {
-#         startTime: "10:00",
-#         endTime: "10:20",
-#         sessionIds: [003]
-#     }
+-
+  title: "JSday Lineup"
+  date: "2016-11-26"
+  dateReadable: "CodeLabs"
+  timeslots:
+    - {
+        startTime: "9:15",
+        endTime: "10:00",
+        sessionIds: [200,006]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:20",
+        sessionIds: [003]
+    }
 #     - {
 #         startTime: "10:20",
 #         endTime: "12:00",
