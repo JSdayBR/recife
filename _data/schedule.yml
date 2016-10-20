@@ -1,8 +1,8 @@
 -
   title: "JSday Lineup"
   date: "2016-11-26"
-  dateReadable: "Dia 26/11 - Palestras e Codelabs"
-  dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
+  dateReadable: "Palestras e Codelabs - Dia 26/11"
+  dataReadableWarning: "* O conteúdo e/ou horários podem ser modificado sem aviso prévio"
   tracks:
    - {title: "Talks", color: "#f7df1e", description: "Sala 6"}
    - {title: "Code", color: "#f7df1e", description: "Sala 5"}
@@ -87,7 +87,7 @@
 -
   title: "JSday Lineup"
   date: "2016-11-26"
-  dateReadable: "Dias 23, 24 e 25/11 - Workshops"
+  dateReadable: "Workshop - Dias 23, 24 e 25/11"
   timeslots:
     - {
         startTime: "14:15",
