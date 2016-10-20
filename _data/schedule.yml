@@ -1,12 +1,12 @@
 -
   title: "JSday Lineup"
   date: "2016-11-26"
-  dateReadable: "Tracks"
+  dateReadable: "Dia 26/11 - Palestras e Codelabs"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
-   - {title: "Palestas", color: "#f7df1e", description: "Sala 6"}
-   - {title: "Codelab", color: "#f7df1e", description: "Sala 5"}
-   - {title: "Codelab", color: "#f7df1e", description: "Sala 4"}
+   - {title: "Talks", color: "#f7df1e", description: "Sala 6"}
+   - {title: "Code", color: "#f7df1e", description: "Sala 5"}
+   - {title: "Code", color: "#f7df1e", description: "Sala 4"}
   timeslots:
     - {
         startTime: "8:00",
@@ -87,17 +87,12 @@
 -
   title: "JSday Lineup"
   date: "2016-11-26"
-  dateReadable: "Workshops"
+  dateReadable: "Dias 23, 24 e 25/11 - Workshops"
   timeslots:
     - {
-        startTime: "9:15",
-        endTime: "10:00",
-        sessionIds: [200,006]
-    }
-    - {
-        startTime: "10:00",
-        endTime: "10:20",
-        sessionIds: [003]
+        startTime: "14:15",
+        endTime: "17:15",
+        sessionIds: [300,006]
     }
 #     - {
 #         startTime: "10:20",
