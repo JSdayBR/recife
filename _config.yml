@@ -70,7 +70,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "participantes", detail: ""}
+ - {count: "350", specialCharacter: "+", info: "Participantes", detail: "empresas, profissionais, estudantes e curiosos"}
  - {count: "2", specialCharacter: "+", info: "Codelabs", detail: "de puro código"}
  - {count: "2", specialCharacter: "+", info: "Workshop", detail: "foco total em JavaScript"}
  - {count: "1", specialCharacter: "+", info: "Trilha", detail: "com tópicos incríveis"}
