@@ -88,6 +88,8 @@
   title: "JSday Lineup"
   date: "2016-11-26"
   dateReadable: "Workshop - Dias 23, 24 e 25/11"
+  tracks:
+    - {title: "Workshop", color: "#f7df1e", description: "Sala 6"}
   timeslots:
     - {
         startTime: "14:15",
