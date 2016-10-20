@@ -55,7 +55,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "JSday Recife: <typeout>"
 eventDate: "26 de Novembro, 2016"
-typeoutTextValues: '"", "JavaScript", "Robotics for Everyone", "HTML Acessível", "Testes em JS", "Programação Funcional", "Progressive Web Apps", "Redux", "Web Machine Learning", "Angular 2", "reactjs", "Talvez você não precise de um framework"'
+typeoutTextValues: '"", "JavaScript", "Robotics for Everyone", "HTML Acessível", "Testes em JS", "Programação Funcional", "Progressive Web Apps", "Redux", "Web Machine Learning", "Angular 2", "React"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
