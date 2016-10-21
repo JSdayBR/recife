@@ -17,8 +17,8 @@
   dataReadableWarning: "* O conteúdo e/ou horários podem ser modificado sem aviso prévio"
   tracks:
    - {title: "Talks", color: "#f7df1e", description: "Sala 6"}
-   - {title: "Code", color: "#f7df1e", description: "Sala 5"}
-   - {title: "Code", color: "#f7df1e", description: "Sala 4"}
+   - {title: "Codelab", color: "#f7df1e", description: "Sala 5"}
+   - {title: "Codelab", color: "#f7df1e", description: "Sala 4"}
   timeslots:
     - {
         startTime: "8:00",
