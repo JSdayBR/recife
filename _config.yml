@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "JS Experts"}
 # - {permalink: "/schedule/", text: "Lineup"}
 # - {permalink: "/live/", text: "Live"}
- - {link: "http://bit.ly/2d0L16t", text: "Call for Papers"}
+# - {link: "http://bit.ly/2d0L16t", text: "Call for Papers"}
 
 bottomNavigationLinks:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
