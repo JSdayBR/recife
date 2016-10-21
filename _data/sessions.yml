@@ -31,8 +31,8 @@
   service: true
 -
   id: 100
-  title: "JavaScript Robotics for Everyone"
-  description: "Vamos mostrar os nossos protótipos robóticos e como controlar facilmente robôs e drones com JavaScript. Falaremos sobre a plataforma IoT Johnny-five.io, comunidade nodebots e muito mais!"
+  title: "Robotics for Everyone with JavaScript"
+  description: "Conheça um JavaScript extremamente diferente de qualquer outra coisa que você já imaginou! Nesta apresentação vamos mostrar o poder supremo do JavaScript, usando Node.js para controlar robôs e drones. Acha que isso é impossível? Então vamos te apresentar ao johnny-five.io e você verá com seus próprios olhos!"
   subtype: presentation
   speakers: [1]
   complexity: "Beginner"
