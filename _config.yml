@@ -50,6 +50,7 @@ bottomNavigationLinks:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
 rightNavigationButtons:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
+ - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patocinador", text: "Seja um patocinador <3"}
 
 # Hero Block
 heroImage: "hero.jpg"
