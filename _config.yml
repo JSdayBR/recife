@@ -61,6 +61,7 @@ typeoutTextValues: '"", "JavaScript", "Robotics for Everyone", "HTML Acessível"
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
+ - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patocinador", text: "Seja um patocinador <3"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
@@ -184,6 +185,8 @@ aboutUs: "Google's services have become synonymous with simple things online. Nu
 # Call for Papers
 cfpTitle: "Espalhe o amor pelo JavaScript"
 cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScript é capaz. Se você já está por dentro das novidades de ES2015 e ES2016, sabe utilizar componentes React ou Angular como ninguém, programa usando JavaScript funcional e reativo ou ainda quer explicar do que se trata esse tal de Babel, participe do JSDay e ajude a comunidade crescer."
+cfpLink: "https://www.sympla.com.br/jsday-recife-2016__88256"
+cfpLinkText: "Inscreva-se <3"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
