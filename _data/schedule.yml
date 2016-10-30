@@ -1,24 +1,12 @@
 -
   title: "JSday Lineup"
   date: "2016-11-26"
-  dateReadable: "Workshop - Dias 23, 24 e 25/11"
-  tracks:
-    - {title: "Workshop", color: "#f7df1e", description: "Sala 6"}
-  timeslots:
-    - {
-        startTime: "14:15",
-        endTime: "17:15",
-        sessionIds: [300,006]
-    }
--
-  title: "JSday Lineup"
-  date: "2016-11-26"
   dateReadable: "Palestras e Codelabs - Dia 26/11"
-  dataReadableWarning: "* O conteúdo e/ou horários podem ser modificado sem aviso prévio"
+  dataReadableWarning: "*O conteúdo e/ou horários podem ser modificado sem aviso prévio"
   tracks:
    - {title: "Talks", color: "#f7df1e", description: "Sala 6"}
    - {title: "Codelab", color: "#f7df1e", description: "Sala 5"}
-   - {title: "Codelab", color: "#f7df1e", description: "Sala 4"}
+ #  - {title: "Codelab", color: "#f7df1e", description: "Sala 4"}
   timeslots:
     - {
         startTime: "8:00",
@@ -43,12 +31,12 @@
     - {
         startTime: "10:40",
         endTime: "11:15",
-        sessionIds: [102, 200, 006]
+        sessionIds: [102, 200]
     }
     - {
         startTime: "11:15",
         endTime: "12:00",
-        sessionIds: [103, 200,006]
+        sessionIds: [103, 200]
     }
     - {
         startTime: "12:00",
@@ -58,17 +46,17 @@
     - {
         startTime: "13:30",
         endTime: "14:00",
-        sessionIds: [104, 200, 006]
+        sessionIds: [104, 200]
     }
     - {
         startTime: "14:00",
         endTime: "14:30",
-        sessionIds: [105, 200, 006]
+        sessionIds: [105, 200]
     }
     - {
         startTime: "14:30",
         endTime: "15:00",
-        sessionIds: [106, 200, 006]
+        sessionIds: [106, 200]
     }
     - {
         startTime: "15:00",
@@ -89,6 +77,19 @@
         startTime: "16:30",
         endTime: "17:00",
         sessionIds: [005]
+    }
+-
+  title: "JSday Lineup"
+  date: "2016-11-26"
+  dateReadable: "Workshop - Dias 23, 24 e 25/11"
+  dataReadableWarning: "*Período da tarde, 14h às 17h. Grátis um ingresso Bronze para o dia 26/11 e certificado de conclusão"
+  tracks:
+    - {title: "Workshop", color: "#f7df1e", description: "Sala 5"}
+  timeslots:
+    - {
+        startTime: "14:15",
+        endTime: "17:15",
+        sessionIds: [300]
     }
 #     - {
 #         startTime: "10:20",
