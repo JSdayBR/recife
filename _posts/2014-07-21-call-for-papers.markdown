@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Call for Papers"
+title:  "Fundamentos do JS by Women Who Code Recife"
 date:   2015-10-05 09:00:00
 isStaticPost: false
 ---
-Se você tem interesse em mostrar suas habilidades com JavasSript, inscreva-se no nosso [ Call for Papers](http://bit.ly/c4pjsdayrec), algumas sugestões de tema são Frameworks JavaScript, Testes automatizados, Performance, Desenvolvimento Web, Melhores Práticas e Startups.
+Codelab: Se você não tem experiência com programação, não se preocupe, as atividades práticas serão em dupla ( pair-programing) e experientes e iniciantes são bem-vindas, traga um laptop e uma amiga! Portanto, meninas, participem!

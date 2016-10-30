@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "JSDay Recife 2016"
 email: "jsdaybr@gmail.com"
@@ -42,16 +41,16 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2016"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
-# - {permalink: "/schedule/", text: "Lineup"}
+ - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
 # - {link: "http://bit.ly/2d0L16t", text: "Call for Papers"}
 
 bottomNavigationLinks:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
- - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patocinador", text: "Seja um patocinador <3"}
+ - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patocinador", text: "Seja um patocinador!"}
 rightNavigationButtons:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
- - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patocinador", text: "Seja um patocinador <3"}
+ - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patocinador", text: "Seja um patocinador!"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +60,7 @@ typeoutTextValues: '"", "JavaScript", "Robotics for Everyone", "HTML Acessível"
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
- - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patocinador", text: "Seja um patocinador <3"}
+ - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patocinador", text: "Seja um patocinador!"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
@@ -75,7 +74,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "Participantes", detail: "Empresas, profissionais e estudantes"}
  - {count: "2", specialCharacter: "+", info: "Codelabs", detail: "Foco total em JavaScript"}
- - {count: "2", specialCharacter: "+", info: "Workshop", detail: "3 dias de puro código"}
+ - {count: "1", specialCharacter: "+", info: "Workshop", detail: "3 dias de puro código"}
  - {count: "9", specialCharacter: "+", info: "Palestras", detail: "Com tópicos incríveis"}
 
 # Latest News Block
@@ -188,6 +187,20 @@ cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScri
 cfpLink: "https://www.sympla.com.br/jsday-recife-2016__88256"
 cfpLinkText: "Inscreva-se <3"
 
+# O que esperar do JSDay Recife 2016?
+oqjsday2016Title: "O que esperar do JSDay Recife 2016?"
+oqjsday2016Description: "Palestras com alguns dos melhores especialistas da área, trocas de ideias, atividades práticas, sorteios, networking e várias outras surpresas - é isso que os participantes do JSDay encontrarão."
+oqjsday2016Link: "#"
+oqjsday2016LinkText: "Leia mais"
+
+#WTM JavaScript Codelab
+wtmCodelabTitle: "WTM JavaScript Codelab"
+trainingImage: "womentechmakers.jpg"
+trainingTitle: "Instrutora"
+wtmJavaScriptCodelabRows:
+ - {title: "Codelab Gratuito para Mulheres", image: "1.png", details: "O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"}
+ - {title: "Por que JavaScript?", image: "2.png", details: "Uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas.<br><br>Hoje o JavaScript está entrando num processo de evolução, inovação e padronização, com novos desenvolvimentos, como Node.js, permitindo usar o JavaScript no servidor, além de APIs HTML5 para obter dados sobre a localização de dispositivos e características geográficas e muito mais."}
+
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
 findWayDistance: "Distance"
@@ -232,14 +245,6 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-
-#WTM JavaScript Codelab
-wtmCodelabTitle: "WTM JavaScript Codelab"
-trainingImage: "womentechmakers.jpg"
-trainingTitle: "Instrutora"
-wtmJavaScriptCodelabRows:
- - {title: "Codelab Gratuito para Mulheres", image: "1.png", details: "O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"}
- - {title: "Por que JavaScript?", image: "2.png", details: "Uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas.<br><br>Hoje o JavaScript está entrando num processo de evolução, inovação e padronização, com novos desenvolvimentos, como Node.js, permitindo usar o JavaScript no servidor, além de APIs HTML5 para obter dados sobre a localização de dispositivos e características geográficas e muito mais."}
 
 # Hackathon
 hackathonTitle: "Hackathon"

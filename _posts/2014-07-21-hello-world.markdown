@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "WTM JavaScript Codelab"
+title:  "O que esperar do JSDay Recife 2016?"
 date:   2015-10-05 10:00:00
 isStaticPost: false
 ---
-
-O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde.﻿
+Palestras com alguns dos melhores especialistas da área, trocas de ideias, atividades práticas, sorteios, networking e várias outras surpresas - é isso que os participantes do JSDay encontrarão.
