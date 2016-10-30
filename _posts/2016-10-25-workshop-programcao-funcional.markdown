@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Workshop: Programação Funcional"
+title:  "Workshop Programação Funcional"
 date:   2016-11-23 14:00:00
 isStaticPost: false
 ---
-Jonata Weber Software Engineer, WeberSchool
 Escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais.
