@@ -47,10 +47,10 @@ navigationLinks:
 
 bottomNavigationLinks:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
- - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patocinador", text: "Seja um patocinador!"}
+ - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patrocinador", text: "Seja um patrocinador!"}
 rightNavigationButtons:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
- - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patocinador", text: "Seja um patocinador!"}
+ - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patrocinador", text: "Seja um patrocinador!"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -60,7 +60,7 @@ typeoutTextValues: '"", "JavaScript", "Robotics for Everyone", "HTML Acessível"
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "https://www.sympla.com.br/jsday-recife-2016__88256", text: "Inscreva-se <3"}
- - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patocinador", text: "Seja um patocinador!"}
+ - {link: "mailto:jsdaybr@gmail.com?Subject=Quero%20ser%20um%20patrocinador", text: "Seja um patrocinador!"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
