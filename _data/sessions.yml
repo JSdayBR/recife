@@ -92,13 +92,62 @@
   subtype: presentation
   speakers: [9]
   complexity: "Advanced"
+-
+  id: 109
+  title: "WebAssembly: Será que o reinado do JavaScript está com seus dias contados?"
+  description: Com a chegada do WebAssembly será possível programar client-side em várias linguagens como Python, Java, C# e até mesmo C++. Será este o fim do reinado do JavaScript?
+  subtype: presentation
+  speakers: [14]
+  complexity: "Intermediate"
+-
+  id: 110
+  title: "Explore o mundo do IoT com o MATRIX"
+  description: Olá Creator! Você já tentou desenvolver algo para IoT e teve que procurar o sensor certo para resolver o seu problema? Além de tudo, você já teve que aprender algum tipo de linguagem de baixo nível para dar vida a sua ideia? Então, nessa talk venha conhecer o projeto MATRIX. Com ele, é possível prototipar a sua solução de internet das coisas e tornar o seu senho realidade.
+  subtype: presentation
+  speakers: [15]
+  complexity: "Beginner"
+-
+  id: 111
+  title: "API do Facebook com IONIC"
+  description: Mostrar como seus aplicativos híbridos podem ser mais interativos com a API do Facebook.
+  subtype: presentation
+  speakers: [16]
+  complexity: "Advanced"
+-
+  id: 112
+  title: "Como atender a milhões de requests com alta disponibilidade, performance, baixíssimo custo e sem uso de servidor"
+  description: Disponibilidade, performance, resiliência e baixo custo é o sonho de todo desenvolvedor ao colocar uma aplicação no ar. Nesta talk irei apresentar o modelo de arquitetura sem servidores com NodeJS. Desde estrutura de assets e código backend, até a configuração de sua infraestrutura e deploy com a simples execução de um comando.
+  subtype: presentation
+  speakers: [17]
+  complexity: "Intermediate"
+-
+  id: 113
+  title: "Sane Asynchronous Programming with RxJS"
+  description: Programação Assíncrona é difícil por natureza. Controlar o estado de uma aplicação moderna que consome dados de diferentes fontes ao mesmo tempo pode se tornar um problema grande se não for feito de uma maneira sistemática e modular. Essa palestra apresenta o conceito de Programação Reativa usando a biblioteca RxJS. Você vai aprender o que são Observables, que tipo de operações essa primitiva suporta e como ela pode ser utilizada para estruturar comunicações assíncronas em um programa.
+  subtype: presentation
+  speakers: [18]
+  complexity: "Intermediate"
+-
+  id: 114
+  title: "Cases de Sucesso que utilizam JS"
+  description: No contexto atual de tecnologia e dos envolvidos neste ecossistema, é de suma importância fomentar inovação e empreendedorismo para que tais fatores andem de mãos dadas com o progresso de aprendizagem e aplicação das técnicas e capacitações aprendidas durante a jornada de um developer. É importante lembrar diariamente que além do conhecimento técnico, existe uma gama de outras características que devem estar intrínsecas para que haja motivação profissional. O objetivo da palestra é demonstrar cases de sucesso (startups e projetos) que durante seus percursos utilizaram/utilizam JS, o porque eles se diferenciaram de seus competitors e como o JS contribuiu para isso. A palestra arcabouça o participante em um ambiente acolhedor e prende a atenção do mesmo quantificando suas experiências próprias e desejos atuais.
+  subtype: presentation
+  speakers: [19]
+  complexity: "Intermediate"
+-
+  id: 115
+  title: "Testando UI com Snapshot Testing"
+  description: Testar elementos de UI sempre é uma tarefa difícil. Selecionar os elementos através de tags / ids / class mostra a fragilidade dos testes tradicionais. Snapshot testing é veio para nos ajudar. Vamos conversar sobre esta nova forma de testar UI de maneira produtiva.
+  subtype: presentation
+  speakers: [20]
+  complexity: "Intermediate"
 # Codelabs
 -
   id: 200
   title: "Fundamentos do JavaScript by Women Who Code Recife"
   description: "É para as mulheres que querem aprender uma das linguagens mais poderosas para desenvolvimento web. Em 4 horas você vai aprender os fundamentos da linguagem e praticar! Se você não tem experiência com programação, não se preocupe, as atividades práticas serão em dupla ( pair-programing), portanto, meninas,participem!! Experientes e Aspirantes são bem-vindas, traga um laptop e uma amiga!"
   subtype: codelab
-  speakers: [10,11,12]
+  speakers: [10,11,12,13]
   complexity: "Beginner"
 # Workshops
 -

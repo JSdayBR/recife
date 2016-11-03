@@ -141,7 +141,7 @@
   title: "Analista"
   bio: "Formada em Tecnologia em Sistemas para Internet e pós-graduanda em Engenharia de Software. Caí de paraquedas na área, pois iria começar a faculdade de Direito, depois que vi lógica de programação, não quis fazer mais nada diferente daquilo e foi amor ao primeiro Hello World."
   thumbnailUrl: willany_silva.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "facebook", link: "https://www.facebook.com/willany.lp"}
     - {name: "github", link: "https://github.com/willany"}
@@ -152,9 +152,97 @@
   surname: "Souza"
   company: "SimplifiqueGP"
   title: "Desenvolvedora .NET"
-  bio: "formada em Análise e Desenvolvimento de Sistemas na Unibratec-PE, atuando na área desde 2014. Entusiasta e agitadora da comunidade de mulheres empreendedoras em Recife através da rede Winspiration e Startup Weekend Women, busca sempre contribuir e devolver conhecimento, e ver o resultado deste trabalho é o que mais a motiva. Praiera, metaleira e lutadora de muay thai quando sobra tempo!"
+  bio: "Formada em Análise e Desenvolvimento de Sistemas na Unibratec-PE, atuando na área desde 2014. Entusiasta e agitadora da comunidade de mulheres empreendedoras em Recife através da rede Winspiration e Startup Weekend Women, busca sempre contribuir e devolver conhecimento, e ver o resultado deste trabalho é o que mais a motiva. Praiera, metaleira e lutadora de muay thai quando sobra tempo!"
   thumbnailUrl: liv_souza.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "linkedin", link: "https://br.linkedin.com/in/lívia-souza-547b02104"}
     - {name: "github", link: "https://github.com/TigerRobocop"}
+-
+  id: 14
+  name: "Henri"
+  surname: "Cavalcante"
+  company: "Conta Systemer"
+  title: "Full stack developer"
+  bio: "Google Developer Organizer e Desenvolvedor há mais de 10 anos. Atualmente focado na linguagem JavaScript e tecnologias IoT. CTO na plataforma de ensino hibrido Wiquadro e Full Stack Developer na empresa de gestão financeira na Noruega chamada ContaSystemer."
+  thumbnailUrl: henri.jpg
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://fb.me/henricavalcante"}
+    - {name: "twitter", link: "twitter.com/henricavalcante"}
+    - {name: "github", link: "https://github.com/henricavalcante"}
+-
+  id: 15
+  name: "Diego"
+  surname: "Leite"
+  company: "AdMobilize"
+  title: "Software Developer"
+  bio: "Apaixonado por software livre, em especial JavaScript. Graduando em Engenharia de Computação pela UEFS. Trabalha no time de visão computacional de uma startup norte-americana, a AdMobilize. Também é fundador e desenvolvedor full stack em uma startup de mobilidade urbana de Feira de Santana - Bahia, o Tamse."
+  thumbnailUrl: diego_leite.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://fb.me/henricavalcante"}
+    - {name: "twitter", link: "http://twitter.com/di3goleite"}
+    - {name: "github", link: "http://github.com/di3goleite"}
+    - {name: "linkedin", link: "http://linkedin.com/di3goleite"}
+-
+  id: 16
+  name: "Thiago"
+  surname: "Prazeres"
+  company: "NTI / UFPE"
+  title: "Webdesigner"
+  bio: "Webdesigner do NTI da UFPE desde 2014"
+  thumbnailUrl: thiago_prazeres.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/thbezerra"}
+-
+  id: 17
+  name: "Dayvson"
+  surname: "Lima"
+  company: "Klickpages"
+  title: "Software Architect"
+  bio: "Dayvson é Arquiteto de Software e desenvolvedor Full Stack na Ignição Digital, mais especificamente do projeto Klickpages. Maluco por performance e ativo em várias comunidades focadas em desenvolvimento web, incluindo tecnologias como Javascript, Ruby, Elixir e  Node.js"
+  thumbnailUrl: dayvson.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/dayvsonlima"}
+    - {name: "facebook", link: "https://www.facebook.com/dayvson.lima"}
+    - {name: "github", link: "https://github.com/dayvsonlima/"}
+-
+  id: 18
+  name: "Luís Gabriel"
+  surname: "Lima"
+  company: "CIn / UFPE"
+  title: "Mestrando"
+  bio: "Entusiasta de programação funcional. Trabalhou por quatro anos no Instituto Nokia de Tecnologia (INDT) desenvolvendo software para plataformas móveis nos mais variados níveis de abstração. Atualmente está concluindo o mestrado em Ciência da Computação no CIn/UFPE."
+  thumbnailUrl: luis_gabriel.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/luisgabrielnfl"}
+    - {name: "twitter", link: "https://twitter.com/_luisgabriel"}
+    - {name: "github", link: "https://github.com/luisgabriel"}
+-
+  id: 19
+  name: "Durval"
+  surname: "Pereira"
+  company: "QuantoGastei"
+  title: "Gerente de Projeto"
+  bio: "Durval Pereira é graduado em Ciência da Computação pela Universidade Federal de Alagoas. Atualmente é Gerente de Projeto e sócio proprietário do QuantoGastei, startup vencedora do Startup Brasil + Inovativa Brasil, campeã do DEMO DAY AL 2015 e finalista do DEMO BRASIL 2015. Trabalha/ou com grandes empresas do mercado, como: BlackBerry; EPSON; Odebrecht; Banco do Brasil; Itau ; MyLaps. Realiza atividades de pesquisa e desenvolvimento com notáveis laboratórios, como: COMPELab (Laboratório de Computação Móvel e Pervasiva); LaTIM – HUPAA (Laboratório de Telemedicina e Informática Médica do Hospital Universitário Prof. Alberto Antunes); NEES (Núcleo de Excelência em Tecnologias Sociais); TIPS (Tecnologias Inteligentes e Personalizadas Sociais). É parceiro de instituições e organizações internacionais, como Universidade de Coimbra (Portugal) e Songs for Smiles Inc. (New York - EUA)."
+  thumbnailUrl: durval.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/durvalpcn"}
+    - {name: "github", link: "http://www.github.com/DurvalPCN"}
+-
+  id: 20
+  name: "Francisco"
+  surname: "Gileno"
+  company: "C.E.S.A.R"
+  title: "Engenheiro de Software"
+  bio: "Engenheiro de software aprendiz com mais de 15 anos de experiência com passagem pela Nova Zelândia. Na maioria das vezes, ajudo pessoas através de tecnologias web. Gosto do processo de desaprender / aprender, e compartilhar experiências."
+  thumbnailUrl: francisco_gileno.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/gilenooliveira"}
+    - {name: "github", link: "https://br.linkedin.com/in/gileno"}
