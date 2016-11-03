@@ -4,8 +4,8 @@
   dateReadable: "Palestras e Codelabs - Dia 26/11"
   dataReadableWarning: "*O conteúdo e/ou horários podem ser modificado sem aviso prévio"
   tracks:
-   - {title: "Trilha 1", color: "#000000", description: "Sala 6"}
-   - {title: "Trilha 2", color: "#f7df1e", description: "Sala 5"}
+   - {title: "Trilha Black", color: "#000000", description: "Sala 6"}
+   - {title: "Trilha Yellow", color: "#f7df1e", description: "Sala 5"}
   timeslots:
     - {
         startTime: "8:00",
