@@ -146,3 +146,15 @@
     - {name: "facebook", link: "https://www.facebook.com/willany.lp"}
     - {name: "github", link: "https://github.com/willany"}
     - {name: "twitter", link: "https://twitter.com/willanySilva"}
+-
+  id: 13
+  name: "Liv"
+  surname: "Souza"
+  company: "SimplifiqueGP"
+  title: "Desenvolvedora .NET"
+  bio: "formada em Análise e Desenvolvimento de Sistemas na Unibratec-PE, atuando na área desde 2014. Entusiasta e agitadora da comunidade de mulheres empreendedoras em Recife através da rede Winspiration e Startup Weekend Women, busca sempre contribuir e devolver conhecimento, e ver o resultado deste trabalho é o que mais a motiva. Praiera, metaleira e lutadora de muay thai quando sobra tempo!"
+  thumbnailUrl: liv_souza.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/lívia-souza-547b02104"}
+    - {name: "github", link: "https://github.com/TigerRobocop"}
