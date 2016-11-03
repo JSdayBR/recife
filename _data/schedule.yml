@@ -1,7 +1,7 @@
 -
   title: "JSday Lineup"
   date: "2016-11-26"
-  dateReadable: "Palestras e Codelabs - Dia 26/11"
+  dateReadable: "Palestras - Dia 26/11"
   dataReadableWarning: "*O conteúdo e/ou horários podem ser modificado sem aviso prévio"
   tracks:
    - {title: "Trilha Black", color: "#000000", description: "Sala 6"}
