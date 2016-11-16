@@ -9,7 +9,8 @@
 -
   group: ""
   elements:
-    - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "180px"}
+#    - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "180px"}
+    - {name: "In loco Media", description: "A Maior Rede de Anúncios Mobile do Brasil!", link: "https://www.inlocomedia.com/", imageUrl: "inlocomedia-master-logo-blue.png", width: "180px"}
 -
   group: ""
   elements:
