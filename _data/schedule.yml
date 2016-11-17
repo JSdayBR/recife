@@ -13,32 +13,27 @@
         sessionIds: [001]
     }
     - {
-        startTime: "9:00",
-        endTime: "9:10",
-        sessionIds: [002]
-    }
-    - {
-        startTime: "9:15",
-        endTime: "9:45",
+        startTime: "9:05",
+        endTime: "9:20",
         sessionIds: [100, 115]
     }
     - {
-        startTime: "9:45",
-        endTime: "10:30",
+        startTime: "9:20",
+        endTime: "10:00",
         sessionIds: [101, 113]
     }
     - {
-        startTime: "10:30",
-        endTime: "11:00",
+        startTime: "10:00",
+        endTime: "10:40",
         sessionIds: [003]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:30",
+        startTime: "10:45",
+        endTime: "11:25",
         sessionIds: [102,112]
     }
     - {
-        startTime: "11:30",
+        startTime: "11:25",
         endTime: "12:00",
         sessionIds: [103,111]
     }
