@@ -72,10 +72,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "Participantes", detail: "Empresas, profissionais e estudantes"}
- - {count: "2", specialCharacter: "+", info: "Codelabs", detail: "Foco total em JavaScript"}
- - {count: "1", specialCharacter: "+", info: "Workshop", detail: "3 dias de puro código"}
- - {count: "9", specialCharacter: "+", info: "Palestras", detail: "Com tópicos incríveis"}
+ - {count: "250", specialCharacter: "+", info: "Participantes", detail: "Empresas, profissionais e estudantes"}
+ - {count: "36", specialCharacter: "+", info: "Horas", detail: "4 dias de puro código"}
+ - {count: "16", specialCharacter: "+", info: "Palestras", detail: "Duas trilhas com tópicos incríveis"}
+ - {count: "1", specialCharacter: "+", info: "Workshop e Codelab", detail: "Foco total em JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
