@@ -9,7 +9,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "JSDay Recife 2016"
+title: "JSDay Recife 2017"
 email: "jsdaybr@gmail.com"
 description: "O JSday é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2016"
+c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2017"
 
 # Navigation
 navigationLinks:
@@ -54,7 +54,7 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "JSday Recife: <typeout>"
-eventDate: "26 de Novembro, 2016"
+eventDate: "16 de Dezembro, 2017"
 typeoutTextValues: '"", "JavaScript", "Robotics for Everyone", "HTML Acessível", "Testes em JS", "Programação Funcional", "Progressive Web Apps", "Redux", "Web Machine Learning", "Angular 2", "React"'
 typeoutFallback: "JavaScript"
 #heroButtons:
@@ -133,7 +133,7 @@ ticketsOffers:
 #  name: ""
 #  price: ""
 #  priceCurrency: ""
-  buyButtonLink: "https://www.sympla.com.br/jsday-recife-2016__88256"
+  buyButtonLink: "https://www.sympla.com.br/jsday-recife-2017__108032"
   buyButtonText: "{{Comprar}}"
 #  validFrom: "YYYY-MM-DDThh:mm"
 #  validThrough: "YYYY-MM-DDThh:mm"
@@ -182,11 +182,11 @@ aboutUs: "Google's services have become synonymous with simple things online. Nu
 # Call for Papers
 cfpTitle: "Espalhe o amor pelo JavaScript"
 cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScript é capaz. Se você já está por dentro das novidades de ES2015 e ES2016, sabe utilizar componentes React ou Angular como ninguém, programa usando JavaScript funcional e reativo ou ainda quer explicar do que se trata esse tal de Babel, participe do JSDay e ajude a comunidade crescer."
-cfpLink: "https://www.sympla.com.br/jsday-recife-2016__88256"
+cfpLink: "https://www.sympla.com.br/jsday-recife-2017__108032"
 cfpLinkText: "Inscreva-se <3"
 
-# O que esperar do JSDay Recife 2016?
-oqjsday2016Title: "O que esperar do JSDay Recife 2016?"
+# O que esperar do JSDay Recife 2017?
+oqjsday2016Title: "O que esperar do JSDay Recife 2017?"
 oqjsday2016Description: "Palestras com alguns dos melhores especialistas da área, trocas de ideias, atividades práticas, sorteios, networking e várias outras surpresas - é isso que os participantes do JSDay encontrarão."
 oqjsday2016Link: "#"
 oqjsday2016LinkText: "Leia mais"
