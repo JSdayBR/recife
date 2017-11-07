@@ -86,28 +86,28 @@ rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "CESAR.EDU"
-eventLocationLink: "http://www.cesar.edu.br/"
-eventStreetAddress: "Rua do Brum, 77, Bairro do Recife"
+eventLocationName: "Faculdade Imaculada Conceição do Recife (FICR)"
+eventLocationLink: "https://www.ficr.edu.br/"
+eventStreetAddress: "Rua Jorge Tasso Neto, 318, Apipucos"
 eventAddressLocality: "Recife"
 eventAddressLocalityRegion: "PE"
-eventPostalCode: "50030-260"
+eventPostalCode: "52071-420"
 eventAddressCountry: "Brasil"
-eventStartTime: "2015-12-12T08:00"
+eventStartTime: "2017-12-16T08:00"
 eventDoorTime: "08:00"
-eventEndTime: "2015-12-12T18:00"
-eventPlaceCoordinates: "-8.0599489,-34.8719353"
-mapCenterCoordinates: "-8.0599489,-34.8719353"
-mapMobileCenterCoordinates: "-8.0599489,-34.8719353"
+eventEndTime: "2017-12-16T18:00"
+eventPlaceCoordinates: "-8.0191395,-34.939734"
+mapCenterCoordinates: "-8.0191395,-34.939734"
+mapMobileCenterCoordinates: "-8.0191395,-34.939734"
 
 # Venue Block
 venueBlockTitle: "Local"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
+venueBigImage: "fachada.jpg"
+venueSmallImage1: "auditorio.jpg"
+venueSmallImage2: "laboratorio.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "CESAR.EDU"
-venueFeatures: ["Localizado no centro histórico do Recife", "Estrutura moderna e acessível", "Em pleno Porto Digital"]
+venueTitle: "FICR"
+venueFeatures: ["Uma área de 140 mil m², onde estava instalada a antiga Casa Provincial", "Zona Norte do Recife"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
