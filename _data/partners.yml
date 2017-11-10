@@ -9,10 +9,10 @@
 #   group: "Silver"
 #   elements:
 #     - {name: "", description: "", link: "", imageUrl: "", width: ""}
-#-
-#  group: ""
-#  elements:
-#    - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "180px"}
+-
+  group: ""
+  elements:
+    - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
 #    - {name: "In loco Media", description: "A Maior Rede de Anúncios Mobile do Brasil!", link: "https://www.inlocomedia.com/", imageUrl: "inlocomedia-master-logo-blue.png", width: "360px"}
 #    - {name: "ceweb, nic, cgi", link: "http://ceweb.br/", imageUrl: "ceweb_nic_cgi.png", width: "160px"}
 #-
