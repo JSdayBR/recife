@@ -55,7 +55,7 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "JSday Recife: <typeout>"
 eventDate: "16 de Dezembro, 2017"
-typeoutTextValues: '"", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
+typeoutTextValues: '"JSday Recife", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
 typeoutFallback: "JavaScript"
 #heroButtons:
 # - {link: "", text: ""}
