@@ -45,8 +45,8 @@
   complexity: "Intermediate"
 -
   id: 102
-  title: "Testes em JS como você nunca viu antes"
-  description: "Se o objetivo dos seus testes é provar que seu software não tem bugs, você está testando da forma errada. Nesta talk eu vou te mostrar não só o melhor mindset e as melhores técnicas para escrever testes, mas também falar sobre como as métricas atuais para avaliar nossos testes são imprecisas e como podemos melhorá-las. E se você ainda não estiver convicto de que bons testes são essenciais para a qualidade do produto, vou mostrar fatos e exemplos que certamente irão te convencer do contrário. Além disso, durante toda a palestra, mostrarei exemplos com as principais ferramentas de testes em JavaScript para que você possa aplicar esse conhecimento o quanto antes. Eu não vou falar só sobre TDD, eu vou falar sobre como fazê-lo da maneira correta!"
+  title: "PolymerRedux - State Management Made Simple"
+  description: "Libraries como React e polyfills como Polymer, trazem a tona os grandes benefícios de se desenvolver um projeto baseado em componentes e por quê devemos trabalhar com estados. Neste cenário, temos vivenciado o aumento de aplicações web que fazem uso de Gerenciamento de Estado, e como este tipo de ferramenta auxilia bastante em diversas tarefas. Mas o que houve com o MVC? Ele morreu? Nesta palestra, iremos aprender como funciona a arquitetura Flux, seus princípios, descobrir em quais cenários utilizar este tipo de arquitetura, vamos utilizar o Redux (uma das implementações do Flux mais famosas e utilizadas) para gerenciar o estado de nossas aplicações em nossos projetos client side, utilizando Polymer."
   subtype: presentation
   speakers: [3]
   complexity: "Intermediate"
