@@ -19,6 +19,19 @@
   thumbnailUrl: felipealbuquerque.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/felipedealbuquerque"}
-    - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
-    - {name: "github", link: "https://github.com/felipedealbuquerque"}
+    # - {name: "linkedin", link: "https://br.linkedin.com/in/felipedealbuquerque"}
+    # - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
+    # - {name: "github", link: "https://github.com/felipedealbuquerque"} 
+ -
+  id: 3
+  name: "Caio"
+  surname: "Alcantara"
+  company: "VML Brasi"
+  title: "JavaScript Engineer"
+  bio: "Baiano, em SP, sofrendo um amor puro ❤️ com o React Native. Mobile First thinking and UX addicted. Aspirante a mochileiro e JavaScript Engineer na VML Brasil"
+  thumbnailUrl: felipealbuquerque.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/clucasalcantara"}
+    - {name: "twitter", link: "https://twitter.com/clucasalcantara"}
+    - {name: "github", link: "https://github.com/clucasalcantara"}
