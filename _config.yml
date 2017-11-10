@@ -53,7 +53,7 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "JSday Recife: <typeout>"
+heroTitle: "<typeout>"
 eventDate: "16 de Dezembro, 2017"
 typeoutTextValues: '"JSday Recife", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
 typeoutFallback: "JavaScript"
