@@ -52,7 +52,7 @@ rightNavigationButtons:
  - {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Garantir minha vaga"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "bg-hd-2017.jpg"
 heroTitle: "<typeout>"
 eventDate: "16 de Dezembro, 2017"
 typeoutTextValues: '"JSday Recife", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
