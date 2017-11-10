@@ -56,7 +56,7 @@ heroImage: "hero.jpg"
 heroTitle: "<typeout>"
 eventDate: "16 de Dezembro, 2017"
 typeoutTextValues: '"JSday Recife", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
-typeoutFallback: "JavaScript"
+typeoutFallback: "JSday Recife"
 #heroButtons:
 # - {link: "", text: ""}
 
@@ -70,10 +70,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "250", specialCharacter: "+", info: "Participantes", detail: "Empresas, profissionais e estudantes"}
- - {count: "36", specialCharacter: "+", info: "Horas", detail: "4 dias de puro código"}
- - {count: "16", specialCharacter: "+", info: "Palestras", detail: "Duas trilhas com tópicos incríveis"}
- - {count: "1", specialCharacter: "+", info: "Workshop e Codelab", detail: "Foco total em JavaScript"}
+ - {count: "350", specialCharacter: "+", info: "Participantes", detail: "Empresas, profissionais e estudantes"}
+ - {count: "+16", specialCharacter: "+", info: "Palestras", detail: "Palestras com tópicos incríveis"}
+ - {count: "8", specialCharacter: "+", info: "Horas", detail: "de puro código"}
+ # - {count: "1", specialCharacter: "+", info: "Workshop e Codelab", detail: "Foco total em JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
