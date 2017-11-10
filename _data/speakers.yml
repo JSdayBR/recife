@@ -9,16 +9,3 @@
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/paulopaquielli"}
- -
-  id: 2
-  name: "Eric"
-  surname: "Cavalcanti"
-  company: ""
-  title: ""
-  bio: "Engenheiro de Software com mais de 20 anos de experiência, dedicados ao desenvolvimento de aplicações web, móveis e desktop. Mestre em Engenharia de Software pelo CESAR School. Professor da Especialização em Tecnologias para Desenvolvimento de Aplicações Móveis do CESAR/FG e da Especialização em Programação de Dispositivos Móveis do IBRATEC, onde ministra disciplinas como React Native e Titanium Mobile. "
-  thumbnailUrl: felipealbuquerque.jpg
-  rockstar: true
-  social:
-    # - {name: "linkedin", link: "https://br.linkedin.com/in/felipedealbuquerque"}
-    # - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
-    # - {name: "github", link: "https://github.com/felipedealbuquerque"} 
