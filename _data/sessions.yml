@@ -153,9 +153,9 @@
 -
   id: 300
   title: "Programação Funcional"
-  description: "Essa atividade vai acontecer entre os dias 23, 24 e 25 de novembro. Descrição: escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais."
+  description: "Escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais."
   subtype: workshop
-  speakers: [4]
+  speakers: [5]
   complexity: "Intermediate"
 # -
 #   id: 201
