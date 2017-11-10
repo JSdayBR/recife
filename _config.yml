@@ -58,7 +58,7 @@ eventDate: "16 de Dezembro, 2017"
 typeoutTextValues: '"JSday Recife", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
 typeoutFallback: "JSday Recife"
 heroButtons:
-- {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Ingressos"}
+- {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Garanta sua vaga!"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
