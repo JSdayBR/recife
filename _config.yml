@@ -57,8 +57,8 @@ heroTitle: "<typeout>"
 eventDate: "16 de Dezembro, 2017"
 typeoutTextValues: '"JSday Recife", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
 typeoutFallback: "JSday Recife"
-#heroButtons:
-# - {link: "", text: ""}
+heroButtons:
+- {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Ingressos"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
@@ -71,7 +71,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "Participantes", detail: "Empresas, profissionais e estudantes"}
- - {count: "+16", specialCharacter: "+", info: "Palestras", detail: "Palestras com tópicos incríveis"}
+ - {count: "+16", specialCharacter: "+", info: "Palestras", detail: "Duas trilhas com tópicos incríveis"}
  - {count: "8", specialCharacter: "+", info: "Horas", detail: "de puro código"}
  # - {count: "1", specialCharacter: "+", info: "Workshop e Codelab", detail: "Foco total em JavaScript"}
 
@@ -130,7 +130,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Inscreva-se.now()"
 ticketsOffers:
  -
-#  name: ""
+name: "teste"
 #  price: ""
 #  priceCurrency: ""
   buyButtonLink: "https://www.sympla.com.br/jsday-recife-2017__108032"
