@@ -59,8 +59,8 @@
   complexity: "Beginner"
 -
   id: 104
-  title: "Progressive Web Apps: e o JavaScript com isso?"
-  description: "Progressive Web Applications usam as novas tecnologias pra levar até as pessoas as melhores partes da experiência mobile e nativa. Mas e o que o JavaScript tem a ver com isso? Simplesmente tudo! Conheça as APIs que permitem desde coisas simples, como fazer o telefone vibrar, até mais legais, como gravar áudio e vídeo a partir da câmera e microfone. Tudo no browser, usando JavaScript!"
+  title: "Programação Funcional"
+  description: "Escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais."
   subtype: presentation
   speakers: [5]
   complexity: "Intermediate"
@@ -155,7 +155,7 @@
   title: "Programação Funcional"
   description: "Escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais."
   subtype: workshop
-  speakers: [5]
+  speakers: [999]
   complexity: "Intermediate"
 # -
 #   id: 201
