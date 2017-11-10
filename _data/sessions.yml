@@ -52,11 +52,11 @@
   complexity: "Intermediate"
 -
   id: 103
-  title: "Programação Funcional com Acarajé e Dendê"
-  description: "Escreva códigos JavaScript mais elegantes e reutilizáveis utilizando conceitos de programação funcional. Vou mostrar tudo o que precisa saber para tirar o máximo proveito desse paradigma que vem se tornando cada vez mais importante para os problemas atuais."
+  title: "React Native"
+  description: "Venha conhecer nesta palestra o framework que está mudando o mercado de desenvolvimento de aplicativos móveis nativos, e que já foi adotado por grandes produtos como Airbnb,  Uber, Instagram, Skype, Wallmart e Wix."
   subtype: presentation
   speakers: [4]
-  complexity: "Intermediate"
+  complexity: "Beginner"
 -
   id: 104
   title: "Progressive Web Apps: e o JavaScript com isso?"
