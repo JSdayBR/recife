@@ -5,17 +5,17 @@
   company: "Jusbrasil"
   title: "Front-end Developer"
   bio: "É desenvolvedor front-end no Jusbrasil, trabalhou em diversos projetos em empresas como Oi, Vivo, Telebrás, Itaú, Hstern. É certificado Scrum Master, Product Owner e Developer pela Scrum Alliance e adora metodologias ágeis. Atualmente trabalha com Javascript utilizando a stack React, Relay e Graphql."
-  thumbnailUrl: felipealbuquerque.jpg
+  thumbnailUrl: Paulo-Duarte.jpg
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/paulopaquielli"}
 -
   id: 2
-  name: "Paulo"
-  surname: "Duarte"
-  company: "Jusbrasil"
-  title: "Front-end Developer"
-  bio: "É desenvolvedor front-end no Jusbrasil, trabalhou em diversos projetos em empresas como Oi, Vivo, Telebrás, Itaú, Hstern. É certificado Scrum Master, Product Owner e Developer pela Scrum Alliance e adora metodologias ágeis. Atualmente trabalha com Javascript utilizando a stack React, Relay e Graphql."
+  name: "Caio"
+  surname: "Alcantara"
+  company: "VML Brasil"
+  title: "JavaScript Engineer"
+  bio: "Baiano, em SP, sofrendo um amor puro ❤️ com o React Native. Mobile First thinking and UX addicted. Aspirante a mochileiro e JavaScript Engineer na VML Brasil"
   thumbnailUrl: felipealbuquerque.jpg
   rockstar: true
   social:
