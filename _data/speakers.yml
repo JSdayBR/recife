@@ -1,22 +1,248 @@
 -
   id: 1
-  name: "Paulo"
-  surname: "Duarte"
-  company: "Jusbrasil"
-  title: "Front-end Developer"
-  bio: "É desenvolvedor front-end no Jusbrasil, trabalhou em diversos projetos em empresas como Oi, Vivo, Telebrás, Itaú, Hstern. É certificado Scrum Master, Product Owner e Developer pela Scrum Alliance e adora metodologias ágeis. Atualmente trabalha com Javascript utilizando a stack React, Relay e Graphql."
-  thumbnailUrl: reinaldoferraz.jpg
+  name: "Felipe"
+  surname: "de Albuquerque"
+  company: "C.E.S.A.R"
+  title: "Front-end Engineer"
+  bio: "Web Designer e Front-End Developer com mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile e para Tv Digital. Atualmente trabalha no CESAR Recife, onde participa de projetos relevantes e para clientes de grande porte, como a Samsung, Motorola, Coca-cola, Fiat e atualmente em projetos da HP. Também faz parte do corpo docente do CESAR EDU, entre outras iniciativas acadêmicas e de mentoring. Tem interesse em ciência e tecnologia, arte, música e brinquedos tecnológicos."
+  thumbnailUrl: felipealbuquerque.jpg
   rockstar: true
   social:
-    - {name: "github", link: "https://github.com/paulopaquielli"}
- -
+    - {name: "linkedin", link: "https://br.linkedin.com/in/felipedealbuquerque"}
+    - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
+    - {name: "github", link: "https://github.com/felipedealbuquerque"}
+-
   id: 2
-  name: "Paulo"
-  surname: "Duarte"
-  company: "Jusbrasil"
-  title: "Front-end Developer"
-  bio: "É desenvolvedor front-end no Jusbrasil, trabalhou em diversos projetos em empresas como Oi, Vivo, Telebrás, Itaú, Hstern. É certificado Scrum Master, Product Owner e Developer pela Scrum Alliance e adora metodologias ágeis. Atualmente trabalha com Javascript utilizando a stack React, Relay e Graphql."
+  name: "Reinaldo"
+  surname: "Ferraz"
+  company: "W3C / Ceweb.br"
+  title: "Web Development Specialist"
+  bio: "Especialista em desenvolvimento web do Ceweb.br e do W3C Brasil. Formado em desenho e computação gráfica e pós graduado em design de hipermídia pela Universidade Anhembi Morumbi em São Paulo. Trabalha há mais de 12 anos com desenvolvimento web. Coordenador do Prêmio Nacional de Acessibilidade na Web e do Grupo de Trabalho em Acessibilidade na Web e representante do W3C Brasil em plenárias técnicas do W3C."
   thumbnailUrl: reinaldoferraz.jpg
   rockstar: true
   social:
-    - {name: "github", link: "https://github.com/paulopaquielli"}
+    - {name: "twitter", link: "https://twitter.com/reinaldoferraz"}
+-
+  id: 3
+  name: "Lucas"
+  surname: "F. Costa"
+  company: "MyTapp"
+  title: "FullStack Developer"
+  bio: "Um desenvolvedor que vive e respira JavaScript. É apaixonado não só por produzir código, mas também por produzir conteúdo original e de qualidade para a comunidade e compartilhar conhecimento. Entusiasta open-source, faz parte do Core Team de um dos maiores projetos do NPM, o Chai.js. Uma library de assertions que está entre as 50 mais estreladas e dependidas do NPM."
+  thumbnailUrl: lucasfcosta.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/lfernandescosta"}
+    - {name: "github", link: "https://github.com/lucasfcosta"}
+    - {name: "linkedin", link: "https://linkedin.com/in/lucasfdacosta"}
+-
+  id: 4
+  name: "Jonata"
+  surname: "Weber"
+  company: "WeberSchool"
+  title: "Software Engineer"
+  bio: "Além de empreendedor, programador e fã do Raul Seixas, Jonata acredita que a tecnologia pode mudar positivamente a vida das pessoas. Ele está sempre envolvido com comunidade e participa ativamente dos grupos DEVFSA, PHPBA e #horaextra. É bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software pela UNIFACS. É um apaixonado pelo trabalho home office, já trabalhou com equipes distribuídas em Portugal e Estados Unidos. Além disso, trabalha com PHP desde 2009 e recentemente ganhou o título de Zend Certified PHP Engineer."
+  thumbnailUrl: jonataweber.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jonataweber"}
+    - {name: "github", link: "https://github.com/jonataa"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jonata-weber-81a2bb17"}
+-
+  id: 5
+  name: "Jose"
+  surname: "Marcilio"
+  company: "C.E.S.A.R"
+  title: "Software Engineer"
+  bio: "Web Developer apaixonado por tudo que dá pra fazer no client-side, e brinca com isso há cerca de 6 anos. Trabalhou como front-end developer na Avantia, criando interfaces para aplicações distribuídas e atualmente é Engenheiro de Software no CESAR. Nas horas vagas gosta de se engajar em projetos divertidos e que tragam novas experiências."
+  thumbnailUrl: josemarcilio.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/zemarcilio"}
+-
+  id: 6
+  name: "Bruno"
+  surname: "Quaresma"
+  company: "In Loco Media"
+  title: "Front-end Engineer"
+  bio: "Desenvolvedor front-end apaixonado por JS e as maravilhas da Web. Entusiasta de tecnologias como React e Redux tem como passatempo estudar novas tecnologias e assistir séries e animes."
+  thumbnailUrl: brunoquaresma.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/brunoquaresma1"}
+    - {name: "facebook", link: "https://www.facebook.com/bruno.quaresmaa"}
+-
+  id: 7
+  name: "João"
+  surname: "Gabriel Lima"
+  company: "Epitrack"
+  title: "PhD Cadidate em computação aplicada e inteligência computacional"
+  bio: "IT hacker de Belém do Pará, professor na Faculdade Estácio de Sá, e atualmente é head de desenvolvimento Android na Epitrack. Apaixonado por compartilhar conhecimento, desenvolvimento de software, açaí, JavaScript e pelo nordeste."
+  thumbnailUrl: joaogabriel.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/jgabriel.lima"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/joaogabriellima"}
+    - {name: "twitter", link: "https://twitter.com/jgabriel_lima"}
+    - {name: "github", link: "https://github.com/jgabriellima"}
+-
+  id: 8
+  name: "Juarez"
+  surname: "Filho"
+  company: "Google Developer Expert"
+  bio: "Apaixonado pela Califórnia e pela Web, um explorador que adora contar suas aventuras envolvendo Tecnologias Web e produtos do Google. Já participou de equipes notáveis como Enjoei e madewithlove. Atualmente trabalha remotamente para uma empresa dos Estados Unidos e busca sempre contribuir para o crescimento da comunidade atuando como Google Developer Expert."
+  thumbnailUrl: juarez-filho.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
+    - {name: "twitter", link: "https://twitter.com/juarezpaf"}
+    - {name: "github", link: "https://github.com/juarezpaf"}
+-
+  id: 9
+  name: "Marcelo"
+  surname: "Theodoro"
+  company: "ThoughtWorks"
+  title: "Senior Consultant"
+  bio: "Formado em Ciência da Computação, já foi empreendedor, professor e hoje é consultor na ThoughtWorks Recife. Já trabalhou com tudo quanto é coisa nos últimos 8 anos e ainda não aprendeu a escrever bio."
+  thumbnailUrl: marcelotheodoro.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/marcelotheodorojr"}
+-
+  id: 10
+  name: "Karina"
+  surname: "Machado"
+  company: "WWcode Recife"
+  title: "Director"
+  bio: "Graduada em Gestāo em TI pela Faculdade dos Guararapes - PE, desenvolvedora web, interesse pelas áreas de educação, tecnologia e empreendedorismo e inovação. Director, Women Who Code Recife, Embaixadora Technovation Challenge Recife, Member Women Techmakers, MTAC - Microsoft."
+  thumbnailUrl: karina_machado.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/karinamachado"}
+    - {name: "github", link: "https://github.com/karinamachado"}
+-
+  id: 11
+  name: "Lhaís"
+  surname: "Rodrigues"
+  company: "Ávila Soluções"
+  title: "Desenvolvedora"
+  bio: "Desenvolvedora na Ávila Soluções, Desenvolvedora no Mete a Colher, Microsoft Student Partner Leader Nordeste, Estudante de Engenharia da Computação pelo CIn-UFPE e Criadora do Women Makers."
+  thumbnailUrl: lhais_rodrigues.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/lhaisrs"}
+    - {name: "github", link: "https://github.com/lhaisrs"}
+    - {name: "twitter", link: "https://twitter.com/lhaisrs_"}
+-
+  id: 12
+  name: "Willany"
+  surname: "Silva"
+  company: "Accenture"
+  title: "Analista"
+  bio: "Formada em Tecnologia em Sistemas para Internet e pós-graduanda em Engenharia de Software. Caí de paraquedas na área, pois iria começar a faculdade de Direito, depois que vi lógica de programação, não quis fazer mais nada diferente daquilo e foi amor ao primeiro Hello World."
+  thumbnailUrl: willany_silva.jpg
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/willany.lp"}
+    - {name: "github", link: "https://github.com/willany"}
+    - {name: "twitter", link: "https://twitter.com/willanySilva"}
+-
+  id: 13
+  name: "Liv"
+  surname: "Souza"
+  company: "SimplifiqueGP"
+  title: "Desenvolvedora .NET"
+  bio: "Formada em Análise e Desenvolvimento de Sistemas na Unibratec-PE, atuando na área desde 2014. Entusiasta e agitadora da comunidade de mulheres empreendedoras em Recife através da rede Winspiration e Startup Weekend Women, busca sempre contribuir e devolver conhecimento, e ver o resultado deste trabalho é o que mais a motiva. Praiera, metaleira e lutadora de muay thai quando sobra tempo!"
+  thumbnailUrl: liv_souza.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/lívia-souza-547b02104"}
+    - {name: "github", link: "https://github.com/TigerRobocop"}
+-
+  id: 14
+  name: "Henri"
+  surname: "Cavalcante"
+  company: "Conta Systemer"
+  title: "Full stack developer"
+  bio: "Google Developer Organizer e Desenvolvedor há mais de 10 anos. Atualmente focado na linguagem JavaScript e tecnologias IoT. CTO na plataforma de ensino hibrido Wiquadro e Full Stack Developer na empresa de gestão financeira na Noruega chamada ContaSystemer."
+  thumbnailUrl: henri.jpg
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://fb.me/henricavalcante"}
+    - {name: "twitter", link: "https://twitter.com/henricavalcante"}
+    - {name: "github", link: "https://github.com/henricavalcante"}
+-
+  id: 15
+  name: "Diego"
+  surname: "Leite"
+  company: "AdMobilize"
+  title: "Software Developer"
+  bio: "Apaixonado por software livre, em especial JavaScript. Graduando em Engenharia de Computação pela UEFS. Trabalha no time de visão computacional de uma startup norte-americana, a AdMobilize. Também é fundador e desenvolvedor full stack em uma startup de mobilidade urbana de Feira de Santana - Bahia, o Tamse."
+  thumbnailUrl: diego_leite.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://fb.me/henricavalcante"}
+    - {name: "twitter", link: "http://twitter.com/di3goleite"}
+    - {name: "github", link: "http://github.com/di3goleite"}
+    - {name: "linkedin", link: "http://linkedin.com/di3goleite"}
+-
+  id: 16
+  name: "Thiago"
+  surname: "Prazeres"
+  company: "NTI / UFPE"
+  title: "Webdesigner"
+  bio: "Webdesigner do NTI da UFPE desde 2014"
+  thumbnailUrl: thiago_prazeres.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/thbezerra"}
+-
+  id: 17
+  name: "Dayvson"
+  surname: "Lima"
+  company: "Klickpages"
+  title: "Software Architect"
+  bio: "Dayvson é Arquiteto de Software e desenvolvedor Full Stack na Ignição Digital, mais especificamente do projeto Klickpages. Maluco por performance e ativo em várias comunidades focadas em desenvolvimento web, incluindo tecnologias como Javascript, Ruby, Elixir e  Node.js"
+  thumbnailUrl: dayvson.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/dayvsonlima"}
+    - {name: "facebook", link: "https://www.facebook.com/dayvson.lima"}
+    - {name: "github", link: "https://github.com/dayvsonlima/"}
+-
+  id: 18
+  name: "Luís Gabriel"
+  surname: "Lima"
+  company: "CIn / UFPE"
+  title: "Mestrando"
+  bio: "Entusiasta de programação funcional. Trabalhou por quatro anos no Instituto Nokia de Tecnologia (INDT) desenvolvendo software para plataformas móveis nos mais variados níveis de abstração. Atualmente está concluindo o mestrado em Ciência da Computação no CIn/UFPE."
+  thumbnailUrl: luis_gabriel.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/luisgabrielnfl"}
+    - {name: "twitter", link: "https://twitter.com/_luisgabriel"}
+    - {name: "github", link: "https://github.com/luisgabriel"}
+-
+  id: 19
+  name: "Durval"
+  surname: "Pereira"
+  company: "QuantoGastei"
+  title: "Gerente de Projeto"
+  bio: "Durval Pereira é graduado em Ciência da Computação pela Universidade Federal de Alagoas. Atualmente é Gerente de Projeto e sócio proprietário do QuantoGastei, startup vencedora do Startup Brasil + Inovativa Brasil, campeã do DEMO DAY AL 2015 e finalista do DEMO BRASIL 2015. Trabalha/ou com grandes empresas do mercado, como: BlackBerry; EPSON; Odebrecht; Banco do Brasil; Itau ; MyLaps. Realiza atividades de pesquisa e desenvolvimento com notáveis laboratórios, como: COMPELab (Laboratório de Computação Móvel e Pervasiva); LaTIM – HUPAA (Laboratório de Telemedicina e Informática Médica do Hospital Universitário Prof. Alberto Antunes); NEES (Núcleo de Excelência em Tecnologias Sociais); TIPS (Tecnologias Inteligentes e Personalizadas Sociais). É parceiro de instituições e organizações internacionais, como Universidade de Coimbra (Portugal) e Songs for Smiles Inc. (New York - EUA)."
+  thumbnailUrl: durval.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/durvalpcn"}
+    - {name: "github", link: "http://www.github.com/DurvalPCN"}
+-
+  id: 20
+  name: "Francisco"
+  surname: "Gileno"
+  company: "C.E.S.A.R"
+  title: "Engenheiro de Software"
+  bio: "Engenheiro de software aprendiz com mais de 15 anos de experiência com passagem pela Nova Zelândia. Na maioria das vezes, ajudo pessoas através de tecnologias web. Gosto do processo de desaprender / aprender, e compartilhar experiências."
+  thumbnailUrl: francisco_gileno.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/gilenooliveira"}
+    - {name: "github", link: "https://br.linkedin.com/in/gileno"}
