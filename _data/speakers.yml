@@ -1,24 +1,24 @@
 -
   id: 1
-  name: "Felipe"
-  surname: "de Albuquerque"
-  company: "C.E.S.A.R"
-  title: "Front-end Engineer"
-  bio: "Web Designer e Front-End Developer com mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile e para Tv Digital. Atualmente trabalha no CESAR Recife, onde participa de projetos relevantes e para clientes de grande porte, como a Samsung, Motorola, Coca-cola, Fiat e atualmente em projetos da HP. Também faz parte do corpo docente do CESAR EDU, entre outras iniciativas acadêmicas e de mentoring. Tem interesse em ciência e tecnologia, arte, música e brinquedos tecnológicos."
+  name: "Paulo"
+  surname: "Duarte"
+  company: "Jusbrasil"
+  title: "Front-end Developer"
+  bio: "É desenvolvedor front-end no Jusbrasil, trabalhou em diversos projetos em empresas como Oi, Vivo, Telebrás, Itaú, Hstern. É certificado Scrum Master, Product Owner e Developer pela Scrum Alliance e adora metodologias ágeis. Atualmente trabalha com Javascript utilizando a stack React, Relay e Graphql."
+  thumbnailUrl: reinaldoferraz.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/paulopaquielli"}
+ -
+  id: 2
+  name: "Eric"
+  surname: "Cavalcanti"
+  company: ""
+  title: ""
+  bio: "Engenheiro de Software com mais de 20 anos de experiência, dedicados ao desenvolvimento de aplicações web, móveis e desktop. Mestre em Engenharia de Software pelo CESAR School. Professor da Especialização em Tecnologias para Desenvolvimento de Aplicações Móveis do CESAR/FG e da Especialização em Programação de Dispositivos Móveis do IBRATEC, onde ministra disciplinas como React Native e Titanium Mobile. "
   thumbnailUrl: felipealbuquerque.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://br.linkedin.com/in/felipedealbuquerque"}
     - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
     - {name: "github", link: "https://github.com/felipedealbuquerque"}
--
-  id: 2
-  name: "Reinaldo"
-  surname: "Ferraz"
-  company: "W3C / Ceweb.br"
-  title: "Web Development Specialist"
-  bio: "Especialista em desenvolvimento web do Ceweb.br e do W3C Brasil. Formado em desenho e computação gráfica e pós graduado em design de hipermídia pela Universidade Anhembi Morumbi em São Paulo. Trabalha há mais de 12 anos com desenvolvimento web. Coordenador do Prêmio Nacional de Acessibilidade na Web e do Grupo de Trabalho em Acessibilidade na Web e representante do W3C Brasil em plenárias técnicas do W3C."
-  thumbnailUrl: reinaldoferraz.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/reinaldoferraz"}
