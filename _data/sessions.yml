@@ -31,15 +31,15 @@
   service: true
 -
   id: 100
-  title: "JavaScript Robotics for Everyone"
-  description: "Vamos mostrar os nossos protótipos robóticos e como controlar facilmente robôs e drones com JavaScript. Falaremos sobre a plataforma IoT Johnny-five.io, comunidade nodebots e muito mais!"
+  title: "What is WebAssembly?"
+  description: "O futuro da web parece mais promissor do que nunca!"
   subtype: presentation
   speakers: [1]
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 101
-  title: "HTML Acessível: Um guia rápido para melhorar a acessibilidade das suas páginas Web"
-  description: "Esta palestra tem como objetivo mostrar como fazer pequenas intervenções no código HTML para torná-lo mais acessível, utilizando as diretrizes WCAG 2.0 e WAI-ARIA do W3C."
+  title: "How to React"
+  description: "Uma série de dicas e boas práticasde como iniciar no desenvolvimento usando React do jeito certo :) Vamos aprender as dicas de organização, estrutura e limpeza de código usando apenas React e ES6"
   subtype: presentation
   speakers: [2]
   complexity: "Intermediate"
