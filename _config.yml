@@ -48,8 +48,8 @@ navigationLinks:
 
 #bottomNavigationLinks:
 # - {link: "", text: ""}
-#rightNavigationButtons:
-# - {link: "", text: ""}
+rightNavigationButtons:
+ - {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Garantir minha vaga"}
 
 # Hero Block
 heroImage: "hero.jpg"
