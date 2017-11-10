@@ -44,3 +44,16 @@
   thumbnailUrl: eric.jpg
   rockstar: true
   social:
+-
+  id: 5
+  name: "Romualdo"
+  surname: "André"
+  company: "UFRB"
+  title: "Analista de TI"
+  bio: "Analista de TI na UFRB, organizador do GDG Feira de Santana e motociclista viajante"
+  thumbnailUrl: romualdo.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/romualdoandre"}
+    - {name: "linkedin", link: "https://linkedin.com/in/romualdo-andre-3072237"}
+    - {name: "github", link: "https://github.com/romualdoandre"}
