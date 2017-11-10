@@ -130,7 +130,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Inscreva-se.now()"
 ticketsOffers:
  -
-name: "teste"
+#  name: "teste"
 #  price: ""
 #  priceCurrency: ""
   buyButtonLink: "https://www.sympla.com.br/jsday-recife-2017__108032"
