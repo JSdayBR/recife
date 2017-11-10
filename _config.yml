@@ -26,7 +26,7 @@ organizerName: "JSday Recife"
 organizerDescription: "O JSday é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 organizerEmail: "jsdaybr@gmail.com"
 # organizerLogo: "/img/seo/organizer-logo.png"
-# organizerLink: "http://fb.com/caravanaweb"
+# organizerLink: "#"
 
 # Head
 metaKeywords: "event, javascript, js, angularjs, reactjs, accessibility, google maps, ionic, firebase, aplicativos híbridos, nodebots"
@@ -41,10 +41,10 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2017"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/speakers/", text: "JS Experts"}
+ - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
-# - {link: "http://bit.ly/2d0L16t", text: "Call for Papers"}
+ - {link: "https://t.co/SNReTTNTbN", text: "Call for Papers"}
 
 #bottomNavigationLinks:
 # - {link: "", text: ""}
