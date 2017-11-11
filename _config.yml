@@ -42,7 +42,7 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2017"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
  - {link: "https://t.co/SNReTTNTbN", text: "Call for Papers"}
 
