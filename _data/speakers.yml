@@ -10,19 +10,6 @@
   social:
     - {name: "github", link: "https://github.com/paulopaquielli"}
 -
-  id: 2
-  name: "Caio"
-  surname: "Alcantara"
-  company: "VML Brasil"
-  title: "JavaScript Engineer"
-  bio: "Baiano, em SP, sofrendo um amor puro ❤️ com o React Native. Mobile First thinking and UX addicted. Aspirante a mochileiro e JavaScript Engineer na VML Brasil"
-  thumbnailUrl: caioalcantra.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/clucasalcantara"}
-    - {name: "linkedin", link: "https://linkedin.com/in/clucasalcantara"}
-    - {name: "github", link: "https://github.com/clucasalcantara"}
--
   id: 3
   name: "Yan"
   surname: "Magalhães"
