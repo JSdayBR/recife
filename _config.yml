@@ -107,7 +107,7 @@ venueSmallImage1: "auditorio.jpg"
 venueSmallImage2: "laboratorio.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "FICR"
-venueFeatures: ["Infraestrutura de qualidade! São 3 auditórios e mais de 30 salas todas climatizadas e com tratamento acústico, laboratórios de informática, cantina, elevador, rampas de acessibilidade e um amplo estacionamento."]
+venueFeatures: ["Infraestrutura de qualidade! São 3 auditórios e mais de 30 salas climatizadas e com tratamento acústico, labs de informática, cantina, elevador, rampas de acessibilidade e um amplo estacionamento."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
