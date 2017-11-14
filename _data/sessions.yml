@@ -66,15 +66,15 @@
   complexity: "Beginner"
 -
   id: 105
-  title: "Contando histórias com Redux"
-  description: "O Redux é um framework relativamente novo e como tudo que é novo, dúvidas sobre qual o melhor caminho seguir surgem frequentemente. Nessa palestra vou te mostrar como você pode se guiar através de histórias que sua aplicação irá contar através das ações e estados."
+  title: "Front-End Development in less than 12 parsecs"
+  description: "Porque usamos bibliotecas como React, Angular ou Vue para criar nossas telas? Vamos entender de uma vez por todas os problemas que esses caras resolvem (e geram)! Nada de Black Magic a aqui, vamos partir dos Baby Steps até não precisarmos mais deles! Spoiler: Criaremos nosso Virtual DOM do zero!"
   subtype: presentation
   speakers: [6]
   complexity: "Intermediate"
 -
   id: 106
-  title: "Web Machine Learning - Desbravando a aprendizagem de máquina com JavaScript"
-  description: "Já pensou em utilizar inteligência artificial em suas aplicações web? Processando tudo no client-side, nesta palestra irei apresentar o estado da arte dos modelos de inteligência artificial destacando os aspectos práticos, com exemplos reais de aplicações e como isso pode transformar sua aplicação. Reconhecimento de imagens, caracteres, padrões e até uma IA que desenha por si só, tudo em JavaScript."
+  title: "Manipulando as novas especificações de CSS em produção com JS"
+  description: "Se você já ouviu falar de em novas funcionalidades do CSS como custom properties(variáveis), grid layout, etc, provavelmente você imaginou que elas afetam apenas o mundo dos estilos, pois é, você está errado. O CSS do presente quando combinado com Javascript abre um leque de possibilidades jamais vista no mundo Front-End. Durante a palestra vamos explorar esses poderes na prática, aplicando tudo de novo sem medo de ser feliz."
   subtype: presentation
   speakers: [7]
   complexity: "Intermediate"

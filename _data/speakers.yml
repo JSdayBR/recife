@@ -39,8 +39,34 @@
   title: "Analista de TI"
   bio: "Analista de TI na UFRB, organizador do GDG Feira de Santana e motociclista viajante"
   thumbnailUrl: romualdo.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/romualdoandre"}
     - {name: "linkedin", link: "https://linkedin.com/in/romualdo-andre-3072237"}
     - {name: "github", link: "https://github.com/romualdoandre"}
+-
+  id: 6
+  name: "Afonso"
+  surname: "Pacifer"
+  company: ""
+  title: "Web Platform Evangelist / Front-End consultant"
+  bio: "Co-fundador e criador de conteúdo no CSShortcut e apresentador do CSS CastShow, Afonso defende do uso da plataforma nativa para a criação de aplicações Web. Hoje seu trabalho não é ir contra frameworks e bibliotecas, mas sim, tentar evitar que os mesmo não deixem os desenvolvedores cegos perante as maravilhas que a plataforma nativa tem a oferecer."
+  thumbnailUrl: afonso.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/afonsopacifer"}
+    - {name: "github", link: "https://github.com/afonsopacifer"}
+-
+  id: 7
+  name: "Simone"
+  surname: "Amorim"
+  company: "Epitrack"
+  title: "CSS Evangelist / Front-End developer"
+  bio: "Software engineer que largou tudo em prol do amor pelo desenvolvimento Front-End em especial CSS. Atualmente vem atuando como CSS Evangelist e mesmo com pouco tempo de estudo já consegue impactar milhares de pessoal no Brasil. Além disso é uma WWCode Leader, organização mundial com a missão de fomentar o conhecimento de tecnologia para mulheres e incentivá-las a ingressar nessa área."
+  thumbnailUrl: simone.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/samorim02"}
+    - {name: "github", link: "https://github.com/simoneas02"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/simone-amorim-311a3a87/"}
+    - {name: "facebook", link: "https://www.facebook.com/simone.amorim.33"}
