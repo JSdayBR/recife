@@ -1,6 +1,6 @@
 -
   id: 001
-  title: "Abertura / Credenciamento / Café com tapiocas"
+  title: "Abertura / Credenciamento e café da manhã"
   place: "Lounge"
   service: true
 -
@@ -59,7 +59,7 @@
   complexity: "Beginner"
 -
   id: 104
-  title: "Workshop: Iniciando com JavaScript"
+  title: "Iniciando com JavaScript"
   description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript."
   subtype: workshop
   speakers: [5]
