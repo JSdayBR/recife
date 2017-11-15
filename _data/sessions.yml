@@ -74,7 +74,7 @@
 -
   id: 106
   title: "Manipulando CSS em produção com JS"
-  description: "Se você já ouviu falar de em novas funcionalidades do CSS como custom properties(variáveis), grid layout, etc, provavelmente você imaginou que elas afetam apenas o mundo dos estilos, pois é, você está errado. O CSS do presente quando combinado com Javascript abre um leque de possibilidades jamais vista no mundo Front-End. Durante a palestra vamos explorar esses poderes na prática, aplicando tudo de novo sem medo de ser feliz."
+  description: "Se você já ouviu falar em novas funcionalidades do CSS, como custom properties(variáveis), grid layout e etc. Provavelmente você imaginou que elas afetam apenas o mundo dos estilos, pois é, você está errado! Quando as novas especificações do CSS são combinadas com o Javascript, abrem um poderoso leque de possibilidades no mundo do Front-End. Durante essa palestra vamos explorar na prática e sem medo de ser feliz."
   subtype: presentation
   speakers: [7]
   complexity: "Intermediate"
