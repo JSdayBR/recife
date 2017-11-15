@@ -1,7 +1,7 @@
 -
   title: "JSday Lineup"
-  date: "2016-11-26"
-  dateReadable: "Palestras - Dia 26/11"
+  date: "2017-12-16"
+  dateReadable: "Palestras - Dia 16/12"
   dataReadableWarning: "*O conteúdo e/ou horários podem ser modificado sem aviso prévio"
   tracks:
    - {title: "Trilha Black", color: "#000000", description: "Sala 6"}
@@ -72,42 +72,42 @@
         endTime: "17:40",
         sessionIds: [005]
     }
--
-  title: "JSday Lineup"
-  date: "2016-11-26"
-  dateReadable: "Codelab - 26/11"
-  dataReadableWarning: "*Não precisa ter experiência. Acontecerá em paralelo as trilhas com palestras e os participantes do codelab poderão ver as palestras que não sejam no mesmo horário. Certificado de conclusão."
-  tracks:
-    - {title: "Codelab", color: "#ff4da6", description: "Sala 4"}
-  timeslots:
-    - {
-        startTime: "11:00",
-        endTime: "12:00",
-        sessionIds: [200]
-    }
-    - {
-        startTime: "12:00",
-        endTime: "14:00",
-        sessionIds: [004]
-    }
-    - {
-        startTime: "14:00",
-        endTime: "15:30",
-        sessionIds: [200]
-    }
--
-  title: "JSday Lineup"
-  date: "2016-11-26"
-  dateReadable: "Workshop - Dias 23, 24 e 25/11"
-  dataReadableWarning: "*Período da tarde, 14h às 17h. Grátis um ingresso Bronze para o dia 26/11 e certificado de conclusão."
-  tracks:
-    - {title: "Workshop", color: "#f7df1e", description: "Sala 5"}
-  timeslots:
-    - {
-        startTime: "14:15",
-        endTime: "17:15",
-        sessionIds: [300]
-    }
+#-
+#  title: "JSday Lineup"
+#  date: "2016-11-26"
+#  dateReadable: "Codelab - 26/11"
+#  dataReadableWarning: "*Não precisa ter experiência. Acontecerá em paralelo as trilhas com palestras e os participantes do codelab poderão ver as palestras que não sejam no mesmo horário. Certificado de conclusão."
+#  tracks:
+#    - {title: "Codelab", color: "#ff4da6", description: "Sala 4"}
+#  timeslots:
+#    - {
+#        startTime: "11:00",
+#        endTime: "12:00",
+#        sessionIds: [200]
+#    }
+#    - {
+#        startTime: "12:00",
+#        endTime: "14:00",
+#        sessionIds: [004]
+#    }
+#    - {
+#        startTime: "14:00",
+#        endTime: "15:30",
+#        sessionIds: [200]
+#   }
+#-
+#  title: "JSday Lineup"
+#  date: "2016-11-26"
+#  dateReadable: "Workshop - Dias 23, 24 e 25/11"
+#  dataReadableWarning: "*Período da tarde, 14h às 17h. Grátis um ingresso Bronze para o dia 26/11 e certificado de conclusão."
+#  tracks:
+#    - {title: "Workshop", color: "#f7df1e", description: "Sala 5"}
+#  timeslots:
+#    - {
+#        startTime: "14:15",
+#        endTime: "17:15",
+#       sessionIds: [300]
+#    }
 #     - {
 #         startTime: "10:20",
 #         endTime: "12:00",
