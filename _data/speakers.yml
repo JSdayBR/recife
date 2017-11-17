@@ -10,6 +10,20 @@
   social:
     - {name: "github", link: "https://github.com/paulopaquielli"}
 -
+  id: 2
+  name: "Maria"
+  surname: "Clara"
+  company: "Udacity Brasil"
+  title: "Instrutor"
+  bio: "Maria começou a escrever código aos 13 anos e desde então nunca parou, apaixonada por front-end, ela já trabalhou para startups no Brasil, Estados Unidos e Europa. Também é Auth0 Ambassador e Live Coding Instructor na Udacity, já palestrou em conferências como Campus Party Brasil e Thunderplains Conf (USA), pode sempre ser encontrada no Twitter dando RT em fotos de cachorros."
+  thumbnailUrl: mariaclara.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/olarclara"}
+    - {name: "github", link: "https://github.com/olarclara"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mariaclarasantana/"}
+  #  - {name: "medium", link: "https://medium.com/@mariaclarasantana"}
+-
   id: 3
   name: "Yan"
   surname: "Magalhães"
@@ -70,17 +84,3 @@
     - {name: "github", link: "https://github.com/simoneas02"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/simone-amorim-311a3a87/"}
     - {name: "facebook", link: "https://www.facebook.com/simone.amorim.33"}
--
-  id: 8
-  name: "Maria"
-  surname: "Clara"
-  company: "Udacity Brasil"
-  title: "Instrutor"
-  bio: "Maria começou a escrever código aos 13 anos e desde então nunca parou, apaixonada por front-end, ela já trabalhou para startups no Brasil, Estados Unidos e Europa. Também é Auth0 Ambassador e Live Coding Instructor na Udacity, já palestrou em conferências como Campus Party Brasil e Thunderplains Conf (USA), pode sempre ser encontrada no Twitter dando RT em fotos de cachorros."
-  thumbnailUrl: mariaclara.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/olarclara"}
-    - {name: "github", link: "https://github.com/olarclara"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mariaclarasantana/"}
-  #  - {name: "medium", link: "https://medium.com/@mariaclarasantana"}
