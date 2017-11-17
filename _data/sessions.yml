@@ -83,7 +83,7 @@
   title: "Testes efetivos em React usando Jest + Enzyme + Sinon"
   description: "Já se perguntou o que faz um teste ser efetivo? Stubs, mocks, spies, fakers, dummies parecem uma grande sopa de letrinhas? Nessa talk, você vai aprender o que são esses conceitos e como utilizá-los com Jest, Enzyme e Sinon para testar corretamente sua aplicação React."
   subtype: presentation
-  speakers: [8]
+  speakers: [2]
   complexity: "Intermediate"
   
 # Codelabs
