@@ -85,6 +85,13 @@
   subtype: presentation
   speakers: [2]
   complexity: "Intermediate"
+-
+  id: 108
+  title: "Cache, não é só na minha máquina!"
+  description: "Você já teve problemas com cache? Sabia que existem diferentes estratégias para cachear? E que se feita da maneira correta, impacta na utilização do seu produto? Nesta talk iremos bater um papo sobre como realizar o cache do jeito certo no frontend e entender suas diferentes estratégias."
+  subtype: presentation
+  speakers: [8]
+  complexity: "Intermediate"  
   
 # Codelabs
 -
