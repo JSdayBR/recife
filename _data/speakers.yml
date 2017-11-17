@@ -84,3 +84,16 @@
     - {name: "github", link: "https://github.com/simoneas02"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/simone-amorim-311a3a87/"}
     - {name: "facebook", link: "https://www.facebook.com/simone.amorim.33"}
+-
+  id: 8
+  name: "Thulio"
+  surname: "Philipe"
+  company: "Labcodes"
+  title: "Web Developer"
+  bio: "Web Developer na Labcodes, possui graduação em Design Gráfico e pós em desenvolvimento de Web Apps. É entusiasta e extremamente interessado por Open-Source, WebApps e Segurança. Nas horas vagas, vem se especializando em beer sommelier."
+  thumbnailUrl: thuliofelipe.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/thulioph_"}
+    - {name: "github", link: "https://github.com/sthulioph"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thulioph/"}
