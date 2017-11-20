@@ -39,9 +39,9 @@
   id: 4
   name: "Eric"
   surname: "Cavalcanti"
-  company: ""
+  company: "Tempest"
   title: "Full Stack Developer"
-  bio: "Engenheiro de Software com mais de 20 anos de experiência, dedicados ao desenvolvimento de aplicações web, móveis e desktop. Mestre em Engenharia de Software pelo CESAR School. Professor da Especialização em Tecnologias para Desenvolvimento de Aplicações Móveis do CESAR/FG e da Especialização em Programação de Dispositivos Móveis do IBRATEC, onde ministra disciplinas como React Native e Titanium Mobile."
+  bio: "É Engenheiro de Software na Tempest Security Intelligence, com mais de 20 anos de experiência, dedicados ao desenvolvimento de aplicações web, móveis e desktop. Mestre em Engenharia de Software pelo CESAR School. Professor da Especialização em Tecnologias para Desenvolvimento de Aplicações Móveis do CESAR/FG e da Especialização em Programação de Dispositivos Móveis do IBRATEC, onde ministra disciplinas como React Native e Titanium Mobile."
   thumbnailUrl: eric.jpg
   rockstar: true
   social:
