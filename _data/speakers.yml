@@ -120,7 +120,7 @@
 Pesquisador, escritor, professor universitário em cursos presenciais e a distância. Também é Consultor Educacional e Organizacional. 
 Atualmente é Vice-Diretor Acadêmico da Faculdade Imaculada Conceição do Recife e pesquisa sobre uso das tecnologias digitais no ensino superior e sobre o uso de metodologias inovadoras para uma aprendizagem significativa."
   thumbnailUrl: ernandesrodrigues.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/ernandesrodrigues"}
     - {name: "site", link: "http://lattes.cnpq.br/9318415678197836"}
