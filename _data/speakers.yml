@@ -97,3 +97,45 @@
     - {name: "twitter", link: "https://twitter.com/thulioph_"}
     - {name: "github", link: "https://github.com/sthulioph"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/thulioph/"}
+-
+  id: 9
+  name: "Caio"
+  surname: "Alcantara"
+  company: "VML Brasil"
+  title: "JavaScript Engineer"
+  bio: "Baiano, em SP, sofrendo um amor puro ❤️ com o React Native. Mobile First thinking and UX addicted. Aspirante a mochileiro e JavaScript Engineer na VML Brasil."
+  thumbnailUrl: caioalcantra.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/clucasalcantara"}
+    - {name: "github", link: "https://github.com/clucasalcantara"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/clucasalcantara/"}
+-
+  id: 10
+  name: "Ernandes"
+  surname: "Nascimento"
+  company: "FICR"
+  title: "Vice-diretor acadêmico"
+  bio: "Mestre em Administração (UFPE) e em Educação (ULE). Especialista em Formação Docente para atuação em EAD. Bacharel em Administração.
+Pesquisador, escritor, professor universitário em cursos presenciais e a distância. Também é Consultor Educacional e Organizacional. 
+Atualmente é Vice-Diretor Acadêmico da Faculdade Imaculada Conceição do Recife e pesquisa sobre uso das tecnologias digitais no ensino superior e sobre o uso de metodologias inovadoras para uma aprendizagem significativa."
+  thumbnailUrl: ernandesrodrigues.jpg
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ernandesrodrigues"}
+    - {name: "site", link: "http://lattes.cnpq.br/9318415678197836"}
+-
+  id: 11
+  name: "Joselito"
+  surname: "Júnior"
+  company: "Tampa Works"
+  title: "Instrutor"
+  bio: "Joselito Júnior é front-ender, community manager no GDG Recife, instrutor na Tampa Works, youtuber, podcaster, pernambucano e recifense.
+
+Sempre que sobra um tempinho, cria alguns projetos open source e contribuiu em outros, como o Brave Browser e o Ionic. É entrusiasta e usa no seu dia-a-dia PWA, Angular, Ionic, Preact, Next.js, Firebase, AMP e muitos outros pormenores. Já palestrou, organizou e contribuiu em eventos como DevFest, Campus Party, Code in the Dark, JSDay e Front Ins."
+  thumbnailUrl: joselito.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/joselitojunior1"}
+    - {name: "site", link: "https://joseli.to"}
+    - {name: "github", link: "https://github.com/joselitojunior1"}

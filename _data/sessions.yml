@@ -58,13 +58,6 @@
   speakers: [4]
   complexity: "Beginner"
 -
-  id: 104
-  title: "Iniciando com JavaScript"
-  description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript."
-  subtype: workshop
-  speakers: [5]
-  complexity: "Beginner"
--
   id: 105
   title: "Front-End Development in less than 12 parsecs"
   description: "Porque usamos bibliotecas como React, Angular ou Vue para criar nossas telas? Vamos entender de uma vez por todas os problemas que esses caras resolvem (e geram)! Nada de Black Magic a aqui, vamos partir dos Baby Steps até não precisarmos mais deles! Spoiler: Criaremos nosso Virtual DOM do zero!"
@@ -91,15 +84,35 @@
   description: "Você já teve problemas com cache? Sabia que existem diferentes estratégias para cachear? E que se feita da maneira correta, impacta na utilização do seu produto? Nesta talk iremos bater um papo sobre como realizar o cache do jeito certo no frontend e entender suas diferentes estratégias."
   subtype: presentation
   speakers: [8]
-  complexity: "Intermediate"  
-  
+  complexity: "Intermediate"
+-
+  id: 109
+  title: "How to React"
+  description: "Uma série de dicas e boas práticasde como iniciar no desenvolvimento usando React do jeito certo :) Vamos aprender as dicas de organização, estrutura e limpeza de código usando apenas React e ES6."
+  subtype: presentation
+  speakers: [9]
+  complexity: "Advanced"  
+-
+  id: 110
+  title: "Metodologias ativas aplicadas na formação Full Stack"
+  description: "Front ou Back? qual caminho seguir? O que o mercado tem de expectativa e exigências na hora de contratar um profissional de tecnologia? Quem é esse profissional Full Stack de que tanto se ouve falar? Ele é realidade ou mito? O que preciso fazer para me tornar um? Como as metodologias ativas podem me ajudar a desenvolver esse perfil profissional tão desejado? Esses e muitos outros questionamentos aguardam vocês no JS Day."
+  subtype: presentation
+  speakers: [10]
+  complexity: "Beginner"
+-
+  id: 111
+  title: "Progressive Web Mitos"
+  description: "Progressive Web Apps já estão deixando de ser novidade e já está mais do que na hora de você começar a fazer os seus. Porém ainda há muitas dúvidas do que pode, não pode, deve, não deve, se fazer quando a gente está desenvolvendo um PWA. Assista essa talk e fuja das #fakenews!"
+  subtype: presentation
+  speakers: [11]
+  complexity: "Intermediate"    
 # Codelabs
 -
   id: 200
   title: "Fundamentos do JavaScript by Women Who Code Recife"
   description: "É para as mulheres que querem aprender uma das linguagens mais poderosas para desenvolvimento web. Em 4 horas você vai aprender os fundamentos da linguagem e praticar! Se você não tem experiência com programação, não se preocupe, as atividades práticas serão em dupla (pair-programming). Portanto, meninas, participem!! Experientes e aspirantes são bem-vindas, traga um laptop e uma amiga!"
   subtype: codelab
-  speakers: [10,11,12,13]
+  speakers: [12,13]
   complexity: "Beginner"
 # Workshops
 -
@@ -109,6 +122,13 @@
   subtype: workshop
   speakers: [999]
   complexity: "Intermediate"
+-
+  id: 104
+  title: "Iniciando com JavaScript"
+  description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript."
+  subtype: workshop
+  speakers: [5]
+  complexity: "Beginner"
 # -
 #   id: 201
 #   title: "React.js"
