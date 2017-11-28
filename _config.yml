@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
- - {link: "https://t.co/SNReTTNTbN", text: "Call for Papers"}
+# - {link: "https://t.co/SNReTTNTbN", text: "Call for Papers"}
 
 #bottomNavigationLinks:
 # - {link: "", text: ""}
