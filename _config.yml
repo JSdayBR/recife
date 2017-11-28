@@ -49,7 +49,7 @@ navigationLinks:
 #bottomNavigationLinks:
 # - {link: "", text: ""}
 rightNavigationButtons:
- - {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Garantir minha vaga"}
+ - {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Últimos ingressos"}
 
 # Hero Block
 heroImage: "bg-hd-2017.jpg"
@@ -58,7 +58,7 @@ eventDate: "16 de Dezembro, 2017"
 typeoutTextValues: '"JSday Recife", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
 typeoutFallback: "JSday Recife"
 heroButtons:
-- {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Garanta sua vaga!"}
+- {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Últimos ingressos"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
