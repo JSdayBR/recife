@@ -13,6 +13,9 @@
   group: ""
   elements:
     - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
+    - {name: "Stone Pagamentos", description: "Stone - Porque tudo evolui", link: "http://www.stone.com.br/", imageUrl: "stone.png", width: "250px"}
+    - {name: "Max Milhas", description: "Um novo jeito de voar com milhas aéreas", link: "http://www.maxmilhas.com.br/", imageUrl: "maxmilhas.png", width: "250px"}
+    - {name: "Udacity", description: "Udacity", link: "http://www.udacity.com/", imageUrl: "udacity.png", width: "250px"}
 #    - {name: "In loco Media", description: "A Maior Rede de Anúncios Mobile do Brasil!", link: "https://www.inlocomedia.com/", imageUrl: "inlocomedia-master-logo-blue.png", width: "360px"}
 #    - {name: "ceweb, nic, cgi", link: "http://ceweb.br/", imageUrl: "ceweb_nic_cgi.png", width: "160px"}
 #-
