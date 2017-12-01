@@ -139,3 +139,15 @@ Sempre que sobra um tempinho, cria alguns projetos open source e contribuiu em o
     - {name: "twitter", link: "http://twitter.com/joselitojunior1"}
     - {name: "site", link: "https://joseli.to"}
     - {name: "github", link: "https://github.com/joselitojunior1"}
+-
+  id: 12
+  name: "Leonardo"
+  surname: "Almeida"
+  company: "Maxmilhas"
+  title: "Front-end Developer"
+  bio: "Front-end há 10 anos, entusiasta de temas atemporais da programação e devOps. Recentemente, tem como hobby temas envolvendo educação, filosofia e programação funcional;"
+  thumbnailUrl: leonardoAlmeida.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lalmeida1985/"}
+ 
