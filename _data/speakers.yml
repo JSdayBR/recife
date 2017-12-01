@@ -162,4 +162,17 @@ Sempre que sobra um tempinho, cria alguns projetos open source e contribuiu em o
   social:
     - {name: "facebook", link: "https://www.facebook.com/lucas.trindade.71697"} 
     - {name: "twitter", link: "https://twitter.com/lucasktrindade"} 
-    - {name: "github", link: "https://github.com/Lucasktrindade/"} 
+    - {name: "github", link: "https://github.com/Lucasktrindade/"}
+ -
+  id: 14
+  name: "Hugo"
+  surname: "Bessa"
+  company: "Vinta"
+  title: "Full-Stack Developer"
+  bio: "Consultor na Vinta, desenvolve aplicações para web à 7 anos, e desde 2013 começou um relacionamento sério com single page applications utilizando angularjs, Angular ^2, Ionic ^2 e ReactJS, sendo o último o que utiliza no seu dia-à-dia. Hugo adora design patterns, design de interação, guitarra e cerveja gelada."
+  thumbnailUrl: hugoBessa.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bessahugo/"} 
+    - {name: "twitter", link: "https://twitter.com/hugoabessa/"} 
+    - {name: "github", link: "http://github.com/hugobessa/"}
