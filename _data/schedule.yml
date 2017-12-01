@@ -84,7 +84,7 @@
     #- {title: "Workshop 4", color: "#f7df1e", description: "Laboratório 4"}
   timeslots:
     - {
-        startTime: "08:30",
+        startTime: "09:05",
         endTime: "12:00",
         sessionIds: [104]
     }
