@@ -150,4 +150,16 @@ Sempre que sobra um tempinho, cria alguns projetos open source e contribuiu em o
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/lalmeida1985/"}
- 
+-
+  id: 13
+  name: "Lucas"
+  surname: "Trindade"
+  company: "Stone Pagamentos"
+  title: "Front-end Developer"
+  bio: "Sou desenvolvedor Front-end na Stone Pagamentos, graduando da Universidade Unigranrio e organizador do GDG Duque de Caxias. Sempre estou em busca de compartilhar e aprender novos conteúdos."
+  thumbnailUrl: lucasTrindade.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/lucas.trindade.71697"} 
+    - {name: "twitter", link: "https://twitter.com/lucasktrindade"} 
+    - {name: "github", link: "https://github.com/Lucasktrindade/"} 
