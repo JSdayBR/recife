@@ -105,7 +105,14 @@
   description: "Progressive Web Apps já estão deixando de ser novidade e já está mais do que na hora de você começar a fazer os seus. Porém ainda há muitas dúvidas do que pode, não pode, deve, não deve, se fazer quando a gente está desenvolvendo um PWA. Assista essa talk e fuja das #fakenews!"
   subtype: presentation
   speakers: [11]
-  complexity: "Intermediate"    
+  complexity: "Intermediate"
+-
+  id: 112
+  title: "Case: de Angular para React em 45 dias"
+  description: "Confira a trajetória e as lições aprendidas de um refactor de Angular para React em pouco tempo e que obteve grandes conquistas."
+  subtype: presentation
+  speakers: [12]
+  complexity: "Advanced" 
 # Codelabs
 -
   id: 200
