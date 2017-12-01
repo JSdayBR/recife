@@ -119,6 +119,13 @@
   description: "Nem sempre os usuários possuem sinal ou dados para acessar a internet e nem todas as aplicações estão preparadas para esses casos, oferecendo em geral suporte apenas para quem está com uma boa conexão, e na maioria das vezes acontece do usuário estar com conexão ruim sendo assim não consegue visualizar o conteúdo, por consequência ele tem uma experiência ruim na sua aplicação. Com isso, pretendo mostrar como melhorar isso pensando em estratégias offline para sua aplicação, e como devemos sempre pensar no pior caso do usuário com pouca conexão."
   subtype: presentation
   speakers: [13]
+  complexity: "Intermediate"
+-
+  id: 114
+  title: "Lidando com operações assíncronas no Redux com Redux-saga"
+  description: "O Redux é uma ferramenta comumente usada em aplicações React para melhor gestão do fluxo de informação, porém, por padrão, ela não lida muito bem com operações assíncronas, fazendo necessário o uso de middlewares como redux-promises, redux-thunk, e o redux-saga. Nesse talk irei falar um pouco sobre o redux-saga, os principais motivos para usá-lo, e mostrar na prática como usamos aqui na Vinta."
+  subtype: presentation
+  speakers: [14]
   complexity: "Intermediate"  
 # Codelabs
 -
