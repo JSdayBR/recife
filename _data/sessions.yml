@@ -112,7 +112,14 @@
   description: "Confira a trajetória e as lições aprendidas de um refactor de Angular para React em pouco tempo e que obteve grandes conquistas."
   subtype: presentation
   speakers: [12]
-  complexity: "Advanced" 
+  complexity: "Advanced"
+-
+  id: 113
+  title: "Offline First em aplicações web"
+  description: "Nem sempre os usuários possuem sinal ou dados para acessar a internet e nem todas as aplicações estão preparadas para esses casos, oferecendo em geral suporte apenas para quem está com uma boa conexão, e na maioria das vezes acontece do usuário estar com conexão ruim sendo assim não consegue visualizar o conteúdo, por consequência ele tem uma experiência ruim na sua aplicação. Com isso, pretendo mostrar como melhorar isso pensando em estratégias offline para sua aplicação, e como devemos sempre pensar no pior caso do usuário com pouca conexão."
+  subtype: presentation
+  speakers: [13]
+  complexity: "Intermediate"  
 # Codelabs
 -
   id: 200
