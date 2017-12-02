@@ -126,7 +126,14 @@
   description: "O Redux é uma ferramenta comumente usada em aplicações React para melhor gestão do fluxo de informação, porém, por padrão, ela não lida muito bem com operações assíncronas, fazendo necessário o uso de middlewares como redux-promises, redux-thunk, e o redux-saga. Nesse talk irei falar um pouco sobre o redux-saga, os principais motivos para usá-lo, e mostrar na prática como usamos aqui na Vinta."
   subtype: presentation
   speakers: [14]
-  complexity: "Intermediate"  
+  complexity: "Intermediate"
+-
+  id: 115
+  title: "Praticidade do desenvolvimento mobile com Ionic"
+  description: "O Ionic é um framework open source para desenvolvimento de aplicativo mobile híbrido que tem tem tido um crescimento incrível ao permitir que Desenvolvedores mobile usem HTML5, CSS e JS, façam acesso nativo usando essas tecnologias, compilem o app para diferentes plataformas como iOS, Android e Windows Phone e publiquem nas respectivas app stores."
+  subtype: presentation
+  speakers: [15]
+  complexity: "Beginner"
 # Codelabs
 -
   id: 200
