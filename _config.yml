@@ -49,7 +49,7 @@ navigationLinks:
 #bottomNavigationLinks:
 # - {link: "", text: ""}
 rightNavigationButtons:
- - {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Últimos ingressos"}
+ - {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Participe!"}
 
 # Hero Block
 heroImage: "bg-hd-2017.jpg"
@@ -58,7 +58,7 @@ eventDate: "16 de Dezembro, 2017"
 typeoutTextValues: '"JSday Recife", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
 typeoutFallback: "JSday Recife"
 heroButtons:
-- {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Últimos ingressos"}
+- {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Participe!"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
@@ -147,15 +147,17 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://cesar.edu.br", text: "CESAR.EDU"}
-   - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
+   - {link: "https://www.ficr.edu.br/", text: "FICR - Faculdade Imaculada Conceição do Recife"}
+   - {link: "https://www.udacity.com/", text: "Udacity"}
+   - {link: "https://www.maxmilhas.com.br/", text: "MaxMilhas"}  
+   - {link: "http://www.stone.com.br/", text: "Stone"}  
+   - {link: "http://artics.com.br/", text: "Artics"} 
  -
   title: "Edições Anteriores"
   links:
    - {link: "http://cg.jsday.com.br", text: "JSday Campina Grande"}
    - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
-   - {link: "http://mcz.jsday.com.br/wtm-javascript-codelab/", text: "JSday Maceió Codelab WTM JavaScript"}
    - {link: "http://rec.jsday.com.br/2015", text: "JSday Recife 2015"}
  -
   title: "Contato"
