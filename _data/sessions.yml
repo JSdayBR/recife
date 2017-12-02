@@ -134,6 +134,13 @@
   subtype: presentation
   speakers: [15]
   complexity: "Beginner"
+-
+  id: 116
+  title: "Let’s think outside the box!"
+  description: "Especialistas convidados vão promover uma conversa aberta sobre o futuro do JavaScript, carreira profissional e muito mais"
+  subtype: presentation
+  speakers: []
+  complexity: "Beginner"
 # Codelabs
 -
   id: 200
