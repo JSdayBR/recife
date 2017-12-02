@@ -176,12 +176,12 @@ Sempre que sobra um tempinho, cria alguns projetos open source e contribuiu em o
     - {name: "linkedin", link: "https://www.linkedin.com/in/bessahugo/"} 
     - {name: "twitter", link: "https://twitter.com/hugoabessa"} 
     - {name: "github", link: "https://github.com/hugoabessa/"}
- -
+-
   id: 15
   name: "Emmanuelle"
   surname: "Richard"
-  company: ""
-  title: ""
+  company: " "
+  title: " "
   bio: "Desenvolvi meu primeiro aplicativo aos 12 anos e desde então minha vida mudou. Já palestrei em diversos eventos como a Campus Party, Flisol, PhP Experience, RubyConf, DevFest Nordeste, Roadsec e outros, mostrando a todos que programar é divertido além de ser uma atividade fascinante, e, graças à programação, tenho conhecido muitas pessoas inspiradoras fascinando-me cada vez mais com este novo mundo que surgiu à minha frente."
   thumbnailUrl: emmanuelle-richard.jpg
   rockstar: false
