@@ -147,7 +147,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.ficr.edu.br/", text: "FICR - Faculdade Imaculada Conceição do Recife"}
+   - {link: "https://www.ficr.edu.br/", text: "Faculdade Imaculada Conceição do Recife - FICR"}
    - {link: "https://www.udacity.com/", text: "Udacity"}
    - {link: "https://www.maxmilhas.com.br/", text: "MaxMilhas"}  
    - {link: "http://www.stone.com.br/", text: "Stone"}  
