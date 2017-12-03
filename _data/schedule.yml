@@ -78,7 +78,7 @@
   dateReadable: "Workshops 16/12"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
-    - {title: "Workshop 1", color: "#f7df1e", description: "Laboratório 102"}
+    - {title: "Workshop iniciando com JavaScript", color: "#f7df1e", description: "Laboratório 102"}
     #- {title: "Workshop 2", color: "#f7df1e", description: "Laboratório 2"}
     #- {title: "Workshop 3", color: "#f7df1e", description: "Laboratório 3"}
     #- {title: "Workshop 4", color: "#f7df1e", description: "Laboratório 4"}
