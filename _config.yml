@@ -159,6 +159,7 @@ footerBlocks:
    - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
    - {link: "http://rec.jsday.com.br/2015", text: "JSday Recife 2015"}
+   - {link: "http://rec.jsday.com.br/2016", text: "JSday Recife 2016"}
  -
   title: "Contato"
   links:
