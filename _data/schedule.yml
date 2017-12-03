@@ -4,8 +4,8 @@
   dateReadable: "Palestras - Dia 16/12"
   dataReadableWarning: "*O conteúdo e/ou horários podem ser modificado sem aviso prévio"
   tracks:
-   - {title: "Trilha Champagnat", color: "#000000", description: "Auditório Champagnat"}
-   - {title: "Trilha Apipucos", color: "#f7df1e", description: "Auditório Apipucos"}
+   - {title: "Champagnat", color: "#f7df1e", description: "Auditório Champagnat"}
+   - {title: "Apipucos", color: "#000000", description: "Auditório Apipucos"}
   timeslots:
     - {
         startTime: "8:00",
