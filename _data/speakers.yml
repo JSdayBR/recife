@@ -62,8 +62,8 @@
   id: 6
   name: "Afonso"
   surname: "Pacifer"
-  company: " "
-  title: "Web Platform Evangelist / Front-End consultant"
+  company: "Web Platform Evangelist / Front-End consultant"
+  title: " "
   bio: "Co-fundador e criador de conteúdo no CSShortcut e apresentador do CSS CastShow, Afonso defende do uso da plataforma nativa para a criação de aplicações Web. Hoje seu trabalho não é ir contra frameworks e bibliotecas, mas sim, tentar evitar que os mesmo não deixem os desenvolvedores cegos perante as maravilhas que a plataforma nativa tem a oferecer."
   thumbnailUrl: afonso.jpg
   rockstar: false
