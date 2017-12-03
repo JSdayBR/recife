@@ -2,7 +2,7 @@
   title: "JSday Lineup"
   date: "2017-12-16"
   dateReadable: "Palestras - Dia 16/12"
-  dataReadableWarning: "*O conteúdo e/ou horários podem ser modificado sem aviso prévio"
+  dataReadableWarning: "*Serão dois auditórios com palestras simultâneas e um laboratório com um Workshop para quem quer iniciar com o JavaScript. Teremos intervalos, provavelmente com comidas, bebidas e aquele cafezinho ;) sorteios de brindes e muito mais."
   tracks:
    - {title: "Champagnat", color: "#f7df1e", description: "Auditório Champagnat"}
    - {title: "Apipucos", color: "#000000", description: "Auditório Apipucos"}
