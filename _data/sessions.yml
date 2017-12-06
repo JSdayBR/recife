@@ -80,7 +80,7 @@
   complexity: "Intermediate"
 -
   id: 109
-  title: "How to React"
+  title: "How to React?"
   description: "Uma série de dicas e boas práticas de como iniciar no desenvolvimento usando React do jeito certo :) Vamos aprender as dicas de organização, estrutura e limpeza de código usando apenas React e ES6."
   subtype: presentation
   speakers: [9]
