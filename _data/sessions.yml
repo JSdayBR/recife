@@ -129,10 +129,10 @@
   complexity: "Beginner"
 -
   id: 116
-  title: "Let’s think outside the box!"
-  description: "Especialistas convidados vão promover uma conversa aberta sobre o futuro do JavaScript, carreira profissional e muito mais"
+  title: "Aplicações client-side híbridas com React.js e React Native"
+  description: "O objetivo desta palestra é mostrar como implementar aplicações JavaScript utilizando React.js e React Native que possam se apresentar como extensões de navegador, aplicações móveis ou aplicações web convencionais."
   subtype: presentation
-  speakers: []
+  speakers: [16]
   complexity: "Beginner"
 # Codelabs
 -
