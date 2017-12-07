@@ -134,6 +134,13 @@
   subtype: presentation
   speakers: [16]
   complexity: "Beginner"
+-
+  id: 117
+  title: "GraphQL: Como começar a usar no seu projeto AGORA"
+  description: "GraphQL é uma nova forma de produzir e consumir APIs que vem crescendo cada vez mais em popularidade. Nessa apresentação serão mostradas suas muitas vantagens com relação a outras abordagens como REST, além de como já é fácil de aplicar em projetos hoje em dia."
+  subtype: presentation
+  speakers: [17]
+  complexity: "Intermediate"
 # Codelabs
 -
   id: 200
