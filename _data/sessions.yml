@@ -164,6 +164,13 @@
   subtype: workshop
   speakers: [5]
   complexity: "Beginner"
+-
+  id: 118
+  title: "TemDenDê - JS a moda baiana"
+  description: "Já imaginou programar com mais agilidade e menos bugs? É isso que se propõe a metodologia TDD (Test Driven Development). Durante esse workshop serão apresentados conceitos básicos, casos reais, suites de testes em Javascript e muita mão na massa. A ideia é repetir o ciclo diversas vezes para que você adquira consistência e aplique de forma adequado a metodologia."
+  subtype: workshop
+  speakers: [18]
+  complexity: "Intermediate"
 # -
 #   id: 201
 #   title: "React.js"

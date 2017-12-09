@@ -78,8 +78,7 @@
   dateReadable: "Workshops 16/12"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
-    - {title: "Workshop iniciando com JavaScript", color: "#f7df1e", description: "Laboratório 102"}
-    #- {title: "Workshop 2", color: "#f7df1e", description: "Laboratório 2"}
+    - {title: "Workshops", color: "#f7df1e", description: "Laboratório 102"}
     #- {title: "Workshop 3", color: "#f7df1e", description: "Laboratório 3"}
     #- {title: "Workshop 4", color: "#f7df1e", description: "Laboratório 4"}
   timeslots:
@@ -87,6 +86,11 @@
         startTime: "09:05",
         endTime: "12:00",
         sessionIds: [104]
+    }
+    - {
+        startTime: "14:05",
+        endTime: "17:30",
+        sessionIds: [118]
     }
 #-
 #  title: "JSday Lineup"

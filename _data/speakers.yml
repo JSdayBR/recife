@@ -213,4 +213,17 @@ Sempre que sobra um tempinho, cria alguns projetos open source e contribuiu em o
     - {name: "linkedin", link: "https://www.linkedin.com/in/maira-bello-06b17067/"}
     - {name: "github", link: "http://github.com/mairatma"}
     - {name: "twitter", link: "https://twitter.com/mairatma"}
-
+-
+  id: 18
+  name: "Jonata"
+  surname: "Weber"
+  company: "Weber Labs"
+  title: "Software Engineer"
+  bio: "Jonata Weber é empreendedor, programador e inquieto por novas tecnologias. Tem como propósito de vida transformar a tecnologia através das pessoas e, por essa razão, está sempre envolvido com comunidades de software, organizando eventos e compartilhando conhecimento. Trabalha com desenvolvimento Web desde 2009, remotamente com empresas distribuídas em Portugal, Estados Unidos e Alemanha. Formou em Sistemas de Informação pela UNIFACS e possui o título de Zend Certified PHP Engineer. Atualmente está empreendendo na área de educação através da WeberSchool, uma escola de programação que forma e transforma pessoas para atuarem no mercado digital."
+  thumbnailUrl: jonataweber.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jonataweber/"}
+    - {name: "github", link: "http://github.com/jonataa"}
+    - {name: "twitter", link: "https://twitter.com/jonataweber"}
+    - {name: "facebook", link: "https://fb.com/jonata.weber"}
