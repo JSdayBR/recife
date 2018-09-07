@@ -56,7 +56,7 @@ rightNavigationButtons:
 heroImage: ""
 heroTitle: "<typeout>"
 eventDate: "01 de Dezembro, 2018"
-typeoutTextValues: '"JSday Recife", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
+typeoutTextValues: '"JSday Recife", "Angular", "ReactJS", "Programação Funcional", "PolymerRedux"'
 typeoutFallback: "JSday Recife"
 heroButtons:
 - {link: "https://goo.gl/6grj38", text: "Ingressos"}
@@ -105,9 +105,9 @@ mapMobileCenterCoordinates: "-8.0191395,-34.939734"
 
 # Venue Block
 venueBlockTitle: "Local"
-venueBigImage: "marista.jpg"
-venueSmallImage1: "auditorio.jpg"
-venueSmallImage2: "laboratorio.jpg"
+venueBigImage: "ficr2018.jpg"
+venueSmallImage1: "auditorio2018.jpg"
+venueSmallImage2: "sala2018.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "FICR"
 venueFeatures: ["Infraestrutura de qualidade! São 3 auditórios e mais de 30 salas climatizadas e com tratamento acústico, labs de informática, cantina, elevador e um amplo estacionamento."]
@@ -151,18 +151,19 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://www.ficr.edu.br/", text: "Faculdade Imaculada Conceição do Recife - FICR"}
-   - {link: "https://www.udacity.com/", text: "Udacity"}
-   - {link: "https://www.maxmilhas.com.br/", text: "MaxMilhas"}
-   - {link: "http://www.stone.com.br/", text: "Stone"}
-   - {link: "http://artics.com.br/", text: "Artics"}
+   #- {link: "https://www.udacity.com/", text: "Udacity"}
+   #- {link: "https://www.maxmilhas.com.br/", text: "MaxMilhas"}
+   #- {link: "http://www.stone.com.br/", text: "Stone"}
+   #- {link: "http://artics.com.br/", text: "Artics"}
  -
   title: "Edições Anteriores"
   links:
    - {link: "http://cg.jsday.com.br", text: "JSday Campina Grande"}
    - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
-   - {link: "http://rec.jsday.com.br/2015", text: "JSday Recife 2015"}
-   - {link: "http://rec.jsday.com.br/2016", text: "JSday Recife 2016"}
+   - {link: "http://rec.jsday.com.br/2017", text: "Recife 2017"}
+   - {link: "http://rec.jsday.com.br/2016", text: "Recife 2016"}
+   - {link: "http://rec.jsday.com.br/2015", text: "Recife 2015"}
  -
   title: "Contato"
   links:
@@ -191,8 +192,8 @@ cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScri
 cfpLink: "https://www.sympla.com.br/jsday-recife-2017__108032"
 cfpLinkText: "Inscreva-se <3"
 
-# O que esperar do JSDay Recife 2017?
-oqjsday2016Title: "O que esperar do JSDay Recife 2017?"
+# O que esperar do JSDay Recife 2018?
+oqjsday2016Title: "O que esperar do JSDay Recife 2018?"
 oqjsday2016Description: "Palestras com alguns dos melhores especialistas da área, trocas de ideias, atividades práticas, sorteios, networking e várias outras surpresas - é isso que os participantes do JSDay encontrarão."
 oqjsday2016Link: "#"
 oqjsday2016LinkText: "Leia mais"
