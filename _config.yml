@@ -44,12 +44,12 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
-# - {link: "https://t.co/SNReTTNTbN", text: "Call for Papers"}
+ - {link: "https://goo.gl/forms/6kiJlTmUivVu9SVE3", text: "Call for Papers"}
 
 #bottomNavigationLinks:
 # - {link: "", text: ""}
 rightNavigationButtons:
- - {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Participe!"}
+ - {link: "https://goo.gl/6grj38", text: "Participe!"}
 
 # Hero Block
 heroImage: "bg-hd-2017.jpg"
