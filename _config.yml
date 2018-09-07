@@ -158,16 +158,18 @@ footerBlocks:
  -
   title: "Edições Anteriores"
   links:
-   - {link: "http://cg.jsday.com.br", text: "JSday Campina Grande"}
-   - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
+   - {link: "http://fsa.jsday.com.br", text: "Feira de Santana 2018"}
+   - {link: "http://fsa.jsday.com.br/2017", text: "Feira de Santana 2017"}
    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
    - {link: "http://rec.jsday.com.br/2017", text: "Recife 2017"}
    - {link: "http://rec.jsday.com.br/2016", text: "Recife 2016"}
    - {link: "http://rec.jsday.com.br/2015", text: "Recife 2015"}
+   - {link: "http://cg.jsday.com.br", text: "Campina Grande 2016"}
  -
   title: "Contato"
   links:
    - {link: "mailto:jsdaybr@gmail.com", text: "jsdaybr@gmail.com"}
+   - {link: "mailto:felipealbuquerque81@gmail.com", text: "felipealbuquerque81@gmail.com"}
  -
   title: "FAQ"
   links:
