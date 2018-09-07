@@ -43,7 +43,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#about", text: "Sobre"}
  - {permalink: "/#venue", text: "Local"}
- - {permalink: "/#sponsors", text: "Patrocinadores"}
+ - {permalink: "/#partners", text: "Patrocinadores"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
@@ -52,7 +52,7 @@ navigationLinks:
 #bottomNavigationLinks:
 # - {link: "", text: ""}
 rightNavigationButtons:
- - {link: "https://goo.gl/6grj38", text: "&#9829; Inscrições"}
+ - {link: "https://goo.gl/6grj38", text: "Inscreva-se.now(&#9829;)"}
 
 # Hero Block
 heroImage: ""
@@ -61,9 +61,9 @@ eventDate: "01 de Dezembro, 2018"
 typeoutTextValues: '"JSday Recife", "Angular", "ReactJS", "Programação Funcional", "PolymerRedux"'
 typeoutFallback: "JSday Recife"
 heroButtons:
-- {link: "https://goo.gl/6grj38", text: "Ingressos"}
-- {link: "https://goo.gl/forms/6kiJlTmUivVu9SVE3", text: "Sua palestra no JSDay"}
-- {link: "https://goo.gl/forms/YrQgSmaYEODYnj333", text: "Seja um voluntário"}
+- {link: "https://goo.gl/6grj38", text: "Inscreva-se.now(&#9829;)"}
+#- {link: "https://goo.gl/forms/6kiJlTmUivVu9SVE3", text: "Sua palestra no JSDay"}
+#- {link: "https://goo.gl/forms/YrQgSmaYEODYnj333", text: "Seja um voluntário"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
@@ -152,6 +152,9 @@ footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "https://goo.gl/forms/YrQgSmaYEODYnj333", text: "Seja um voluntário"}
+   - {link: "https://goo.gl/forms/6kiJlTmUivVu9SVE3", text: "Inscreva sua palestra"}
+   - {link: "https://goo.gl/FkZGNL", text: "Nosso Midiakit"}
    - {link: "https://www.ficr.edu.br/", text: "Faculdade Imaculada Conceição do Recife - FICR"}
    #- {link: "https://www.udacity.com/", text: "Udacity"}
    #- {link: "https://www.maxmilhas.com.br/", text: "MaxMilhas"}
