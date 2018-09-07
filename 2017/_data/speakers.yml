@@ -1,0 +1,229 @@
+-
+  id: 1
+  name: "Paulo"
+  surname: "Duarte"
+  company: "Jusbrasil"
+  title: "Front-end Developer"
+  bio: "É desenvolvedor front-end no Jusbrasil, trabalhou em diversos projetos em empresas como Oi, Vivo, Telebrás, Itaú, Hstern. É certificado Scrum Master, Product Owner e Developer pela Scrum Alliance e adora metodologias ágeis. Atualmente trabalha com Javascript utilizando a stack React, Relay e Graphql."
+  thumbnailUrl: Paulo-Duarte.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/paulopaquielli"}
+-
+  id: 2
+  name: "Maria"
+  surname: "Clara"
+  company: "Udacity Brasil"
+  title: "Instrutor"
+  bio: "Maria começou a escrever código aos 13 anos e desde então nunca parou, apaixonada por front-end, ela já trabalhou para startups no Brasil, Estados Unidos e Europa. Também é Auth0 Ambassador e Live Coding Instructor na Udacity, já palestrou em conferências como Campus Party Brasil e Thunderplains Conf (USA), pode sempre ser encontrada no Twitter dando RT em fotos de cachorros."
+  thumbnailUrl: mariaclara.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/olarclara"}
+    - {name: "github", link: "https://github.com/olarclara"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mariaclarasantana/"}
+  #  - {name: "medium", link: "https://medium.com/@mariaclarasantana"}
+-
+  id: 3
+  name: "Yan"
+  surname: "Magalhães"
+  company: "4YouSee Digital Signage"
+  title: "Full Stack Web Developer"
+  bio: "Yan Magalhães é full stack developer e graduado em Ciências da Computação. Apaixonado pela web, está sempre acompanhando as novas tecnologias e tendências. Participa sempre que pode dos eventos e encontros promovidos pela comunidade, e é um dos organizadores do GDG-BH e do FEMUG-MG. Procura contribuir em projetos Open Source e acredita muito no poder que as soluções desenvolvidas por nós, desenvolvedores, que podem mudar o dia-a-dia das pessoas. Adora uma boa conversa acompanhada de café e pão de queijo."
+  thumbnailUrl: yanmagale.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/yaanmagale"}
+    - {name: "github", link: "https://github.com/yanmagale"}
+-
+  id: 4
+  name: "Eric"
+  surname: "Cavalcanti"
+  company: "Tempest"
+  title: "Full Stack Developer"
+  bio: "É Engenheiro de Software na Tempest Security Intelligence, com mais de 20 anos de experiência, dedicados ao desenvolvimento de aplicações web, móveis e desktop. Mestre em Engenharia de Software pelo CESAR School. Professor da Especialização em Tecnologias para Desenvolvimento de Aplicações Móveis do CESAR/FG e da Especialização em Programação de Dispositivos Móveis do IBRATEC, onde ministra disciplinas como React Native e Titanium Mobile."
+  thumbnailUrl: eric.jpg
+  rockstar: true
+  social:
+-
+  id: 5
+  name: "Romualdo"
+  surname: "André"
+  company: "UFRB"
+  title: "Analista de TI"
+  bio: "Analista de TI na UFRB, organizador do GDG Feira de Santana e motociclista viajante"
+  thumbnailUrl: romualdo.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/romualdoandre"}
+    - {name: "linkedin", link: "https://linkedin.com/in/romualdo-andre-3072237"}
+    - {name: "github", link: "https://github.com/romualdoandre"}
+-
+  id: 6
+  name: "Afonso"
+  surname: "Pacifer"
+  company: "Web Platform Evangelist / Front-End consultant"
+  title: " "
+  bio: "Co-fundador e criador de conteúdo no CSShortcut e apresentador do CSS CastShow, Afonso defende do uso da plataforma nativa para a criação de aplicações Web. Hoje seu trabalho não é ir contra frameworks e bibliotecas, mas sim, tentar evitar que os mesmo não deixem os desenvolvedores cegos perante as maravilhas que a plataforma nativa tem a oferecer."
+  thumbnailUrl: afonso.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/afonsopacifer"}
+    - {name: "github", link: "https://github.com/afonsopacifer"}
+-
+  id: 7
+  name: "Simone"
+  surname: "Amorim"
+  company: "Epitrack"
+  title: "CSS Evangelist / Front-End developer"
+  bio: "Software engineer que largou tudo em prol do amor pelo desenvolvimento Front-End em especial CSS. Atualmente vem atuando como CSS Evangelist e mesmo com pouco tempo de estudo já consegue impactar milhares de pessoal no Brasil. Além disso é uma WWCode Leader, organização mundial com a missão de fomentar o conhecimento de tecnologia para mulheres e incentivá-las a ingressar nessa área."
+  thumbnailUrl: simone.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/samorim02"}
+    - {name: "github", link: "https://github.com/simoneas02"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/simone-amorim-311a3a87/"}
+    - {name: "facebook", link: "https://www.facebook.com/simone.amorim.33"}
+-
+  id: 8
+  name: "Thulio"
+  surname: "Philipe"
+  company: "Labcodes"
+  title: "Web Developer"
+  bio: "Web Developer na Labcodes, possui graduação em Design Gráfico e pós em desenvolvimento de Web Apps. É entusiasta e extremamente interessado por Open-Source, WebApps e Segurança. Nas horas vagas, vem se especializando em beer sommelier."
+  thumbnailUrl: thuliofelipe.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/thulioph_"}
+    - {name: "github", link: "https://github.com/sthulioph"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thulioph/"}
+-
+  id: 9
+  name: "Caio"
+  surname: "Alcantara"
+  company: "VML Brasil"
+  title: "JavaScript Engineer"
+  bio: "Baiano, em SP, sofrendo um amor puro ❤️ com o React Native. Mobile First thinking and UX addicted. Aspirante a mochileiro e JavaScript Engineer na VML Brasil."
+  thumbnailUrl: caioalcantra.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/clucasalcantara"}
+    - {name: "github", link: "https://github.com/clucasalcantara"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/clucasalcantara/"}
+-
+  id: 10
+  name: "Ernandes"
+  surname: "Nascimento"
+  company: "FICR"
+  title: "Vice-diretor acadêmico"
+  bio: "Mestre em Administração (UFPE) e em Educação (ULE). Especialista em Formação Docente para atuação em EAD. Bacharel em Administração.
+Pesquisador, escritor, professor universitário em cursos presenciais e a distância. Também é Consultor Educacional e Organizacional. 
+Atualmente é Vice-Diretor Acadêmico da Faculdade Imaculada Conceição do Recife e pesquisa sobre uso das tecnologias digitais no ensino superior e sobre o uso de metodologias inovadoras para uma aprendizagem significativa."
+  thumbnailUrl: ernandesrodrigues.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ernandesrodrigues"}
+    - {name: "site", link: "http://lattes.cnpq.br/9318415678197836"}
+-
+  id: 11
+  name: "Joselito"
+  surname: "Júnior"
+  company: "Tampa Works"
+  title: "Instrutor"
+  bio: "Joselito Júnior é front-ender, community manager no GDG Recife, instrutor na Tampa Works, youtuber, podcaster, pernambucano e recifense.
+
+Sempre que sobra um tempinho, cria alguns projetos open source e contribuiu em outros, como o Brave Browser e o Ionic. É entrusiasta e usa no seu dia-a-dia PWA, Angular, Ionic, Preact, Next.js, Firebase, AMP e muitos outros pormenores. Já palestrou, organizou e contribuiu em eventos como DevFest, Campus Party, Code in the Dark, JSDay e Front Ins."
+  thumbnailUrl: joselito.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/joselitojunior1"}
+    - {name: "site", link: "https://joseli.to"}
+    - {name: "github", link: "https://github.com/joselitojunior1"}
+-
+  id: 12
+  name: "Leonardo"
+  surname: "Almeida"
+  company: "Maxmilhas"
+  title: "Front-end Developer"
+  bio: "Front-end há 10 anos, entusiasta de temas atemporais da programação e devOps. Recentemente, tem como hobby temas envolvendo educação, filosofia e programação funcional;"
+  thumbnailUrl: leonardoAlmeida.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lalmeida1985/"}
+-
+  id: 13
+  name: "Lucas"
+  surname: "Trindade"
+  company: "Stone Pagamentos"
+  title: "Front-end Developer"
+  bio: "Sou desenvolvedor Front-end na Stone Pagamentos, graduando da Universidade Unigranrio e organizador do GDG Duque de Caxias. Sempre estou em busca de compartilhar e aprender novos conteúdos."
+  thumbnailUrl: lucasTrindade.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/lucas.trindade.71697"} 
+    - {name: "twitter", link: "https://twitter.com/lucasktrindade"} 
+    - {name: "github", link: "https://github.com/Lucasktrindade/"}
+-
+  id: 14
+  name: "Hugo"
+  surname: "Bessa"
+  company: "Vinta"
+  title: "Full-Stack Developer"
+  bio: "Consultor na Vinta, desenvolve aplicações para web à 7 anos e desde 2013 começou um relacionamento sério com single page applications utilizando angularjs, Angular ^2, Ionic ^2 e ReactJS, sendo o último o que utiliza no seu dia a dia. Hugo adora design patterns, design de interação, guitarra e cerveja gelada."
+  thumbnailUrl: hugoBessa.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bessahugo/"} 
+    - {name: "twitter", link: "https://twitter.com/hugoabessa"} 
+    - {name: "github", link: "https://github.com/hugoabessa/"}
+-
+  id: 15
+  name: "Emmanuelle"
+  surname: "Richard"
+  company: "The little big developer"
+  title: " "
+  bio: "Desenvolvi meu primeiro aplicativo aos 12 anos e desde então minha vida mudou. Já palestrei em diversos eventos como a Campus Party, Flisol, PhP Experience, RubyConf, DevFest Nordeste, Roadsec e outros, mostrando a todos que programar é divertido além de ser uma atividade fascinante, e, graças à programação, tenho conhecido muitas pessoas inspiradoras fascinando-me cada vez mais com este novo mundo que surgiu à minha frente."
+  thumbnailUrl: emmanuelle-richard.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/EmmaaRichard"} 
+    - {name: "github", link: "https://github.com/EmmanuelleRichard"}
+    - {name: "facebook", link: "https://www.facebook.com/emmanuelle.richard.0"}
+-
+  id: 16
+  name: "Caio"
+  surname: "Almeida"
+  company: "Meedan"
+  title: "Engenheiro de Software Senior"
+  bio: "Caio é bacharel e mestre em Ciência da Computação pelo Universidade Federal da Bahia. É engenheiro de software desde quando JavaScript era utilizado basicamente para validação de formulários. Desde 2012 é engenheiro de software sênior do Meedan, uma empresa de software localizada em São Francisco, Califórnia, Estados Unidos, de onde tem trabalhado para grandes empresas do Vale do Silício, utilizando Ruby On Rails, JavaScript e todo tipo de diferentes ferramentas que façam o trabalho. Além disso, mantém e contribui com alguns projetos de software livre e fala sobre isso em conferências, como o Fórum Internacional Software Livre, o RubyConf Brasil e o RubyConf Portugal."
+  thumbnailUrl: caioAlmeida.jpg
+  rockstar: false
+  social: 
+    - {name: "link", link: "http://ca.ios.ba/"}
+-
+  id: 17
+  name: "Maira"
+  surname: "Bello"
+  company: "VTEX"
+  title: "Software Engineer"
+  bio: "Maíra é engenheira de software na VTEX, tendo se apaixonado por desenvolvimento web logo cedo. Trabalhou no Facebook bem na época em que tecnologias como React, Jest e GraphQL estavam começando a ser desenvolvidas por lá. Hoje, de volta em Recife, adora trabalhar com essas e outras novas possibilidades que têm tornado o mundo web ainda melhor."
+  thumbnailUrl: maira-bello.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maira-bello-06b17067/"}
+    - {name: "github", link: "http://github.com/mairatma"}
+    - {name: "twitter", link: "https://twitter.com/mairatma"}
+-
+  id: 18
+  name: "Jonata"
+  surname: "Weber"
+  company: "Weber Labs"
+  title: "Software Engineer"
+  bio: "Jonata Weber é empreendedor, programador e inquieto por novas tecnologias. Tem como propósito de vida transformar a tecnologia através das pessoas e, por essa razão, está sempre envolvido com comunidades de software, organizando eventos e compartilhando conhecimento. Trabalha com desenvolvimento Web desde 2009, remotamente com empresas distribuídas em Portugal, Estados Unidos e Alemanha. Formou em Sistemas de Informação pela UNIFACS e possui o título de Zend Certified PHP Engineer. Atualmente está empreendendo na área de educação através da WeberSchool, uma escola de programação que forma e transforma pessoas para atuarem no mercado digital."
+  thumbnailUrl: jonataweber.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jonataweber/"}
+    - {name: "github", link: "http://github.com/jonataa"}
+    - {name: "twitter", link: "https://twitter.com/jonataweber"}
+    - {name: "facebook", link: "https://fb.com/jonata.weber"}

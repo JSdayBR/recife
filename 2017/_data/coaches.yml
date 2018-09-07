@@ -1,0 +1,11 @@
+-
+  id: 0
+  name: "Maria Clara"
+  surname: "Santana"
+  company: "Clip"
+  title: "Front-end Developer"
+  thumbnailUrl: clarasantana.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MariaClaraSantana1"}
+    - {name: "twitter", link: "https://twitter.com/olarclara"}
+    - {name: "github", link: "https://github.com/clarasantana"}
