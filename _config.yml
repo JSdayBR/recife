@@ -42,6 +42,8 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2018"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#about", text: "Sobre"}
+ - {permalink: "/#venue", text: "Local"}
+ - {permalink: "/#sponsors", text: "Patrocinadores"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
@@ -50,7 +52,7 @@ navigationLinks:
 #bottomNavigationLinks:
 # - {link: "", text: ""}
 rightNavigationButtons:
- - {link: "https://goo.gl/6grj38", text: "Participe!"}
+ - {link: "https://goo.gl/6grj38", text: "&#9829; Inscrições"}
 
 # Hero Block
 heroImage: ""
@@ -158,13 +160,14 @@ footerBlocks:
  -
   title: "Edições Anteriores"
   links:
+   - {link: "http://rio.jsday.com.br", text: "Rio 2018"}
    - {link: "http://fsa.jsday.com.br", text: "Feira de Santana 2018"}
    - {link: "http://fsa.jsday.com.br/2017", text: "Feira de Santana 2017"}
-   - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
    - {link: "http://rec.jsday.com.br/2017", text: "Recife 2017"}
    - {link: "http://rec.jsday.com.br/2016", text: "Recife 2016"}
    - {link: "http://rec.jsday.com.br/2015", text: "Recife 2015"}
    - {link: "http://cg.jsday.com.br", text: "Campina Grande 2016"}
+   - {link: "http://mcz.jsday.com.br", text: "Maceió 2015"}
  -
   title: "Contato"
   links:
@@ -173,6 +176,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
+   - {link: "https://goo.gl/FkZGNL", text: "Como patrocinar? Leia o nosso Midiakit!"}
    - {link: "http://pt-br.confcodeofconduct.com/", text: "Código de Conduta"}
 #   - {link: "http://womentechmakers.com", text: "WTM (Women Techmakers)"}
 
