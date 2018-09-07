@@ -3,7 +3,7 @@
   elements:
     - {name: "FICR", description: "Faculdade Imaculada Conceição do Recife", link: "https://www.ficr.edu.br/", imageUrl: "ficr.png", width: "410px"}
     #- {name: "CESAR.EDU", description: "O CESAR, premiado centro de inovação, traz para a comunidade a sua unidade educacional, o CESAR.EDU.", link: "http://www.faculdadecesar.com.br/", imageUrl: "faculdade-cesar.png", width: "410px"}
-    
+
 #    - {name: "ThoughtWorks", description: "Uma comunidade de pessoas apaixonadas com o propósito de revolucionar o design e a criação de software, enquanto defendemos uma mudança social positiva.", link: "https://www.thoughtworks.com/pt/", imageUrl: "tw-logo.png", width: "430px"}
 # -
 #   group: "Silver"
@@ -12,10 +12,10 @@
 -
   group: ""
   elements:
-    - {name: "Udacity", description: "Udacity", link: "http://www.udacity.com/", imageUrl: "udacity.png", width: "250px"}
-    - {name: "Max Milhas", description: "Um novo jeito de voar com milhas aéreas", link: "http://www.maxmilhas.com.br/", imageUrl: "maxmilhas.png", width: "250px"}
-    - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
-    - {name: "Stone Pagamentos", description: "Stone - Porque tudo evolui", link: "http://www.stone.com.br/", imageUrl: "stone.png", width: "250px"}
+#    - {name: "Udacity", description: "Udacity", link: "http://www.udacity.com/", imageUrl: "udacity.png", width: "250px"}
+#    - {name: "Max Milhas", description: "Um novo jeito de voar com milhas aéreas", link: "http://www.maxmilhas.com.br/", imageUrl: "maxmilhas.png", width: "250px"}
+#    - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
+#    - {name: "Stone Pagamentos", description: "Stone - Porque tudo evolui", link: "http://www.stone.com.br/", imageUrl: "stone.png", width: "250px"}
 #    - {name: "In loco Media", description: "A Maior Rede de Anúncios Mobile do Brasil!", link: "https://www.inlocomedia.com/", imageUrl: "inlocomedia-master-logo-blue.png", width: "360px"}
 #    - {name: "ceweb, nic, cgi", link: "http://ceweb.br/", imageUrl: "ceweb_nic_cgi.png", width: "160px"}
 #-

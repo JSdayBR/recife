@@ -41,6 +41,7 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2018"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/#about", text: "Sobre"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
@@ -52,7 +53,7 @@ rightNavigationButtons:
  - {link: "https://goo.gl/6grj38", text: "Participe!"}
 
 # Hero Block
-heroImage: "bg-hd-2017.jpg"
+heroImage: ""
 heroTitle: "<typeout>"
 eventDate: "01 de Dezembro, 2018"
 typeoutTextValues: '"JSday Recife", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
@@ -60,6 +61,7 @@ typeoutFallback: "JSday Recife"
 heroButtons:
 - {link: "https://goo.gl/6grj38", text: "Ingressos"}
 - {link: "https://goo.gl/forms/6kiJlTmUivVu9SVE3", text: "Sua palestra no JSDay"}
+- {link: "https://goo.gl/forms/YrQgSmaYEODYnj333", text: "Seja um voluntário"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
