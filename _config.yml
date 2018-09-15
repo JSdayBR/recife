@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: ""
 heroTitle: "<typeout>"
 eventDate: "01 de Dezembro, 2018"
-typeoutTextValues: '"JSday Recife", "Angular", "ReactJS", "Programação Funcional", "PolymerRedux"'
+typeoutTextValues: '"JSday Recife", "ReactJS", "Watson API's via Node.js em Cloud functions", "Angular", "Experiências incríveis utilizando P5.js"'
 typeoutFallback: "JSday Recife"
 heroButtons:
 - {link: "https://goo.gl/6grj38", text: "Inscreva-se.now(&#9829;)"}
