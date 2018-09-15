@@ -1,0 +1,43 @@
+-
+  id: 1
+  name: "Thiago"
+  surname: "Augusto"
+  company: "LIVE"
+  title: "Pesquisador"
+  bio: "Graduando em Engenharia da Computação pelo CIn - UFPE e Técnico em Eletrônica pelo IFPE - Campus Recife. Atualmente pesquisador do LIVE - Laboratório de Inovação Veicular. Apaixonado por educação e desenvolvimento tátil. Uso das ferramentas de IoT, desenvolvimento mobile/web e interfaces conversacionais para validar e trazer novas experiências para as pessoas."
+  thumbnailUrl: thiago2018.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "LIVE", title: "Laboratório de Inovação Veicular", url: "http://www2.cin.ufpe.br/site/lerNoticia.php?s=1&c=94&id=1364"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thiagoaugustosm/"}
+    - {name: "github", link: "https://github.com/ThiagoAugustoSM/"}
+    - {name: "facebook", link: "https://www.facebook.com/thiagoaugustosm"}
+-
+  id: 2
+  name: "Sergio"
+  surname: "Gama"
+  company: "IBM"
+  title: "Senior Developer Advocate Leader for Latin America"
+  bio: "Engenheiro mecatrônico com mais de 25 anos de experiência em TI, apaixonado por tecnologia e inovação. Participou de projetos para banco e seguradoras no Brasil, China e Índia. Atualmente é Developer Advocate, especialista em desenvolvimento de software, inteligência artificial, Big Data e IoT."
+  thumbnailUrl: sergio.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "IBM", title: "IBM Advocate Leader for Latin America", url: ""}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/sergiogama1967"}
+    - {name: "twitter", link: "https://www.twitter.com/sergiorggama"}
+    - {name: "youtube", link: "https://www.youtube.com/c/sergiogama"}
+-
+  id: 3
+  name: "Alexandre"
+  surname: "Araújo"
+  company: "Liferay"
+  title: "Front-End"
+  bio: "Front-end na Liferay e desenvolvendo aplicações web há 10 anos. Começando com uma simples validação de formulário e sem saber onde vai parar."
+  thumbnailUrl: alex.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Liferay", title: "Front-End at Liferay", url: "https://www.liferay.com/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alexandre-araujo-535229a6"}

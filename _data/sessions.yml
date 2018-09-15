@@ -31,116 +31,25 @@
   service: true
 -
   id: 100
-  title: "What is WebAssembly?"
-  description: "O futuro da web parece mais promissor do que nunca!"
+  title: "Como criar experiências incríveis utilizando P5.js"
+  description: "Com o foco em acessibilidade de desenvolvimento para artistas, designers, educadores e iniciantes no mundo de programação, P5.js se mostra como uma das principais bibliotecas para interação gráfica, de áudio, texto, entre outras. Utilize do seu browser, como um pintor utiliza de uma tela em branco, e crie experiências incríveis para os usuários."
   subtype: presentation
   speakers: [1]
-  complexity: "Intermediate"
--
-  id: 102
-  title: "PolymerRedux - State Management Made Simple"
-  description: "Libraries como React e polyfills como Polymer, trazem a tona os grandes benefícios de se desenvolver um projeto baseado em componentes e por quê devemos trabalhar com estados. Neste cenário, temos vivenciado o aumento de aplicações web que fazem uso de Gerenciamento de Estado, e como este tipo de ferramenta auxilia bastante em diversas tarefas. Mas o que houve com o MVC? Ele morreu? Nesta palestra, iremos aprender como funciona a arquitetura Flux, seus princípios, descobrir em quais cenários utilizar este tipo de arquitetura, vamos utilizar o Redux (uma das implementações do Flux mais famosas e utilizadas) para gerenciar o estado de nossas aplicações em nossos projetos client side, utilizando Polymer."
-  subtype: presentation
-  speakers: [3]
-  complexity: "Intermediate"
--
-  id: 103
-  title: "React Native"
-  description: "Venha conhecer nesta palestra o framework que está mudando o mercado de desenvolvimento de aplicativos móveis nativos, e que já foi adotado por grandes produtos como Airbnb,  Uber, Instagram, Skype, Wallmart e Wix."
-  subtype: presentation
-  speakers: [4]
   complexity: "Beginner"
 -
-  id: 105
-  title: "Front-End Development in less than 12 parsecs"
-  description: "Porque usamos bibliotecas como React, Angular ou Vue para criar nossas telas? Vamos entender de uma vez por todas os problemas que esses caras resolvem (e geram)! Nada de Black Magic a aqui, vamos partir dos Baby Steps até não precisarmos mais deles! Spoiler: Criaremos nosso Virtual DOM do zero!"
-  subtype: presentation
-  speakers: [6]
-  complexity: "Intermediate"
--
-  id: 106
-  title: "Manipulando CSS em produção com JS"
-  description: "Se você já ouviu falar em novas funcionalidades do CSS, como custom properties(variáveis), grid layout e etc. Provavelmente você imaginou que elas afetam apenas o mundo dos estilos, pois é, você está errado! Quando as novas especificações do CSS são combinadas com o Javascript, abrem um poderoso leque de possibilidades no mundo do Front-End. Durante essa palestra vamos explorar na prática e sem medo de ser feliz."
-  subtype: presentation
-  speakers: [7]
-  complexity: "Intermediate"
--
-  id: 107
-  title: "Testes efetivos em React usando Jest + Enzyme + Sinon"
-  description: "Já se perguntou o que faz um teste ser efetivo? Stubs, mocks, spies, fakers, dummies parecem uma grande sopa de letrinhas? Nessa talk, você vai aprender o que são esses conceitos e como utilizá-los com Jest, Enzyme e Sinon para testar corretamente sua aplicação React."
+  id: 101
+  title: "Watson API's integrados via Node.js em Cloud functions"
+  description: "Será mostrado como desenvolver soluções com Inteligência Artificial utilizando as principais API's do Watson, e como integrá-las utilizando Node.js em Cloud Functions"
   subtype: presentation
   speakers: [2]
   complexity: "Intermediate"
 -
-  id: 108
-  title: "Cache, não é só na minha máquina!"
-  description: "Você já teve problemas com cache? Sabia que existem diferentes estratégias para cachear? E que se feita da maneira correta, impacta na utilização do seu produto? Nesta talk iremos bater um papo sobre como realizar o cache do jeito certo no frontend e entender suas diferentes estratégias."
+  id: 102
+  title: "Destructuring is a form of creation!"
+  description: "Um estudo sobre Destructuring javascript e alguns exemplos de uso prático."
   subtype: presentation
-  speakers: [8]
-  complexity: "Intermediate"
--
-  id: 109
-  title: "How to React?"
-  description: "Uma série de dicas e boas práticas de como iniciar no desenvolvimento usando React do jeito certo :) Vamos aprender as dicas de organização, estrutura e limpeza de código usando apenas React e ES6."
-  subtype: presentation
-  speakers: [9]
-  complexity: "Advanced"  
--
-  id: 110
-  title: "Metodologias ativas aplicadas na formação Full Stack"
-  description: "Front ou Back? qual caminho seguir? O que o mercado tem de expectativa e exigências na hora de contratar um profissional de tecnologia? Quem é esse profissional Full Stack de que tanto se ouve falar? Ele é realidade ou mito? O que preciso fazer para me tornar um? Como as metodologias ativas podem me ajudar a desenvolver esse perfil profissional tão desejado? Esses e muitos outros questionamentos aguardam vocês no JS Day."
-  subtype: presentation
-  speakers: [10]
+  speakers: [3]
   complexity: "Beginner"
--
-  id: 111
-  title: "Progressive Web Mitos"
-  description: "Progressive Web Apps já estão deixando de ser novidade e já está mais do que na hora de você começar a fazer os seus. Porém ainda há muitas dúvidas do que pode, não pode, deve, não deve, se fazer quando a gente está desenvolvendo um PWA. Assista essa talk e fuja das #fakenews!"
-  subtype: presentation
-  speakers: [11]
-  complexity: "Intermediate"
--
-  id: 112
-  title: "Case: de Angular para React em 45 dias"
-  description: "Confira a trajetória e as lições aprendidas de um refactor de Angular para React em pouco tempo e que obteve grandes conquistas."
-  subtype: presentation
-  speakers: [12]
-  complexity: "Advanced"
--
-  id: 113
-  title: "Offline First em aplicações web"
-  description: "Nem sempre os usuários possuem sinal ou dados para acessar a internet e nem todas as aplicações estão preparadas para esses casos, oferecendo em geral suporte apenas para quem está com uma boa conexão, e na maioria das vezes acontece do usuário estar com conexão ruim sendo assim não consegue visualizar o conteúdo, por consequência ele tem uma experiência ruim na sua aplicação. Com isso, pretendo mostrar como melhorar isso pensando em estratégias offline para sua aplicação, e como devemos sempre pensar no pior caso do usuário com pouca conexão."
-  subtype: presentation
-  speakers: [13]
-  complexity: "Intermediate"
--
-  id: 114
-  title: "Lidando com operações assíncronas no Redux com Redux-saga"
-  description: "O Redux é uma ferramenta comumente usada em aplicações React para melhor gestão do fluxo de informação, porém, por padrão, ela não lida muito bem com operações assíncronas, fazendo necessário o uso de middlewares como redux-promises, redux-thunk, e o redux-saga. Nesse talk irei falar um pouco sobre o redux-saga, os principais motivos para usá-lo, e mostrar na prática como usamos aqui na Vinta."
-  subtype: presentation
-  speakers: [14]
-  complexity: "Intermediate"
--
-  id: 115
-  title: "Praticidade do desenvolvimento mobile com Ionic"
-  description: "O Ionic é um framework open source para desenvolvimento de aplicativo mobile híbrido que tem tem tido um crescimento incrível ao permitir que Desenvolvedores mobile usem HTML5, CSS e JS, façam acesso nativo usando essas tecnologias, compilem o app para diferentes plataformas como iOS, Android e Windows Phone e publiquem nas respectivas app stores."
-  subtype: presentation
-  speakers: [15]
-  complexity: "Beginner"
--
-  id: 116
-  title: "Aplicações client-side híbridas com React.js e React Native"
-  description: "O objetivo desta palestra é mostrar como implementar aplicações JavaScript utilizando React.js e React Native que possam se apresentar como extensões de navegador, aplicações móveis ou aplicações web convencionais."
-  subtype: presentation
-  speakers: [16]
-  complexity: "Beginner"
--
-  id: 117
-  title: "GraphQL: Como começar a usar no seu projeto AGORA"
-  description: "GraphQL é uma nova forma de produzir e consumir APIs que vem crescendo cada vez mais em popularidade. Nessa apresentação serão mostradas suas muitas vantagens com relação a outras abordagens como REST, além de como já é fácil de aplicar em projetos hoje em dia."
-  subtype: presentation
-  speakers: [17]
-  complexity: "Intermediate"
 # Codelabs
 -
   id: 200
