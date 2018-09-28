@@ -36,8 +36,48 @@
   title: "Front-End"
   bio: "Front-end na Liferay e desenvolvendo aplicações web há 10 anos. Começando com uma simples validação de formulário e sem saber onde vai parar."
   thumbnailUrl: alex.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "Liferay", title: "Front-End at Liferay", url: "https://www.liferay.com/"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/alexandre-araujo-535229a6"}
+-
+  id: 4
+  name: "Manuella"
+  surname: "Oliveira"
+  company: "Accenture"
+  title: "UX Analyst"
+  bio: "Apaixonada por UX, atualmente trabalhando na Accenture e sonhando em como o Design e a Tecnologia podem se unir para mudar o mundo. É formada em Design pela UFPE, e atualmente se especializando em Design de Interação."
+  thumbnailUrl: manuella.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Accenture", title: "UX Analyst at Accenture", url: "https://www.accenture.com/br-pt/new-applied-now"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/manuellaos/"}
+-
+  id: 5
+  name: "Maíra"
+  surname: "Bello"
+  company: "In Loco"
+  title: "Engenheira de Software"
+  bio: "Maíra é engenheira de software na In Loco, tendo se apaixonado por desenvolvimento web logo cedo. Trabalhou no Facebook bem na época em que tecnologias como React, Jest e GraphQL estavam começando a ser desenvolvidas por lá. Hoje, de volta em Recife, adora trabalhar com essas e outras novas possibilidades que têm tornado o mundo web ainda melhor."
+  thumbnailUrl: maira-bello.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "In Loco", title: "Engenheira de Software", url: "https://www.inlocomedia.com/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maira-bello-06b17067"}
+    - {name: "github", link: "github.com/mairatma"}
+-
+  id: 6
+  name: "Otacilio"
+  surname: "Maia"
+  company: "GitHub / Cesar"
+  title: "GitHub Campus Expert"
+  bio: "Técnico em eletrônica, Estudante de Cências da Computação no Cesar School, Co-fundador do ReciHub, FilipeFlop Maker Hero e GitHub Campus Expert, mantenedor Open Source e apaixonado por novas tecnologias. Sou apaixonado por pessoas e máquinas, mas não necessariamente nessa ordem..."
+  thumbnailUrl: otacilio.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GitHub", title: "GitHub Campus Expert", url: "https://education.github.com/"}
+  social:
+    - {name: "github", link: "https://github.com/OtacilioN"}

@@ -50,6 +50,27 @@
   subtype: presentation
   speakers: [3]
   complexity: "Beginner"
+-
+  id: 103
+  title: "Data Viz - Boas práticas de UX"
+  description: "Data Viz é a forma de organizar e distribuir dados de maneira inteligente e criativa. UX e Data Visualization precisam andar de mãos dadas para que essas representações gráficas realmente funcionem."
+  subtype: presentation
+  speakers: [4]
+  complexity: "Beginner"
+-
+  id: 104
+  title: "Web Performance - como deixar seu site mais rápido!"
+  description: "Serão apresentadas dicas e técnicas para melhorar a performance de um web app. Olharemos o problema por diversos ângulos, levando em conta como o browser renderiza páginas para detectarmos os maiores gargalos a serem atacados. Vamos falar de ferramentas para investigação, da diferença entre performance percebida e performance real, além de técnicas para melhorar ambas."
+  subtype: presentation
+  speakers: [5]
+  complexity: "Intermediate"
+-
+  id: 105
+  title: "Git & GitHub Essentials"
+  description: "Aprenda a versionar códigos em JavaScript com Git desde o básico até conceitos mais avançados, além de entender mais sobre o workflow de um desenvolvimento de software e como contribuir em projetos Open Source no GitHub."
+  subtype: presentation
+  speakers: [6]
+  complexity: "Beginner"
 # Codelabs
 -
   id: 200
