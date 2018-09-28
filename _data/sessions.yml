@@ -71,6 +71,13 @@
   subtype: presentation
   speakers: [6]
   complexity: "Beginner"
+-
+  id: 106
+  title: "Homeworking & Freelancing: Ganhando Dinheiro em Casa"
+  description: "O ramo de tecnologia possui a imensa vantagem de permitir o acesso remoto às ferramentas de trabalho, como servidores, hospedagens, arquivos e contato direto com sua hierarquia de trabalho e/ou seus clientes. Aliando isso à crescente necessidade do mercado de desenvolver soluções de inovação e tecnologia, existe uma carreira que obtém cada vez mais uma fatia de mercado e que possui uma infinidade de possibilidades em seu plano: freelance homeworking."
+  subtype: presentation
+  speakers: [7]
+  complexity: "Intermediate"
 # Codelabs
 -
   id: 200

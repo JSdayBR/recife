@@ -81,3 +81,17 @@
     - {abbr: "GitHub", title: "GitHub Campus Expert", url: "https://education.github.com/"}
   social:
     - {name: "github", link: "https://github.com/OtacilioN"}
+-
+  id: 7
+  name: "Durval"
+  surname: "Pereira"
+  company: "Bigu"
+  title: "CEO"
+  bio: "Engenheiro de Software e Desenvolvedor Web, trabalha com desenvolvimento há mais de dez anos (lá na época do mIRC e MSN. É, faz tempo). Cientista da Computação pela UFAL, empreende na Bigu Soluções, uma fábrica de software e plataformas inteligentes e personalizadas. Também é CTO do QuantoGastei, startup fintech premiada pelo Startup Brasil e Programa Samsung de Inovação e CTO da FMX Sports, empresa do ramo de tecnologia esportiva."
+  thumbnailUrl: durval.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "Bigu", title: "CEO", url: ""}
+  social:
+    - {name: "github", link: "https://github.com/DurvalPCN"}
+    - {name: "twitter", link: "https://twitter.com/durvalpcn"}
