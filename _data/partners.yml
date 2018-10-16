@@ -1,12 +1,12 @@
 -
-  group: "Gold"
+  group: ""
   elements:
     - {name: "FICR", description: "Faculdade Imaculada Conceição do Recife", link: "https://www.ficr.edu.br/", imageUrl: "ficr.png", width: "410px"}
     #- {name: "CESAR.EDU", description: "O CESAR, premiado centro de inovação, traz para a comunidade a sua unidade educacional, o CESAR.EDU.", link: "http://www.faculdadecesar.com.br/", imageUrl: "faculdade-cesar.png", width: "410px"}
 
 #    - {name: "ThoughtWorks", description: "Uma comunidade de pessoas apaixonadas com o propósito de revolucionar o design e a criação de software, enquanto defendemos uma mudança social positiva.", link: "https://www.thoughtworks.com/pt/", imageUrl: "tw-logo.png", width: "430px"}
-# -
-  group: "Silver"
+-
+  group: ""
   elements:
     - {name: "Labcodes", description: "Labcodes Software Studio - We build the ideal software for your company.", link: "https://www.labcodes.com.br/", imageUrl: "labcode.png", width: "320px"}
 -
