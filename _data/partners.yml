@@ -6,9 +6,9 @@
 
 #    - {name: "ThoughtWorks", description: "Uma comunidade de pessoas apaixonadas com o propósito de revolucionar o design e a criação de software, enquanto defendemos uma mudança social positiva.", link: "https://www.thoughtworks.com/pt/", imageUrl: "tw-logo.png", width: "430px"}
 # -
-#   group: "Silver"
-#   elements:
-#     - {name: "", description: "", link: "", imageUrl: "", width: ""}
+   group: "Silver"
+   elements:
+     - {name: "Labcode", description: "We build unique software, meeting precisely your demand.", link: "https://www.labcodes.com.br/", imageUrl: "file:///C:/Users/melow/Desktop/jsday%20shirt/logo500x216.svg", width: "250px"}
 -
   group: ""
   elements:
