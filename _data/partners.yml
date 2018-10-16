@@ -12,7 +12,7 @@
 -
   group: ""
   elements:
-#    - {name: "Udacity", description: "Udacity", link: "http://www.udacity.com/", imageUrl: "udacity.png", width: "250px"}
+   - {name: "Labcodes", description: "Labcodes Software Studio - We build the ideal software for your company.", link: "https://www.labcodes.com.br/", imageUrl: "labcode.png", width: "250px"}
 #    - {name: "Max Milhas", description: "Um novo jeito de voar com milhas aéreas", link: "http://www.maxmilhas.com.br/", imageUrl: "maxmilhas.png", width: "250px"}
 #    - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
 #    - {name: "Stone Pagamentos", description: "Stone - Porque tudo evolui", link: "http://www.stone.com.br/", imageUrl: "stone.png", width: "250px"}
