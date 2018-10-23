@@ -78,6 +78,13 @@
   subtype: presentation
   speakers: [7]
   complexity: "Intermediate"
+-
+  id: 107
+  title: "Can you tell if your Node app is healthy?"
+  description: "Do you know what is the definition of healthy for your Node app? Is only measured by CPU consumption or memory usage? Number of requests per second? What is *tick frequency* or *event loop latency* and what does it means if these metrics are going haywire? We will talk about different metrics you can look at to define whether your application is ok or not and we will try to debunk some mysteries of the event loop and threads along the way."
+  subtype: presentation
+  speakers: [9]
+  complexity: "Intermediate"
 # Codelabs
 -
   id: 200
