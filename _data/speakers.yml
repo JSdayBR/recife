@@ -124,4 +124,17 @@
   social:
     - {name: "twitter", link: "https://twitter.com/a0viedo"}
     - {name: "github", link: "https://github.com/a0viedo"}
+-
+  id: 10
+  name: "Wendel" 
+  surname: "Nascimento"
+  company: "Shawee"
+  title: "CTO"
+  bio: "CTO na Shawee, jogador de LoL nas horas vagas e fanático por tudo que é bleeding edge no mundo de JS. Desenvolve desde os 16 anos e já passou por grandes empresas no Brasil. Atualmente trabalhando com React, Apollo, GraphQL, Jest e uma stack com milhares de ferramentas."
+  thumbnailUrl: wendel.jpg 
+  rockstar: true
+  ribbon:
+    - {abbr: "React", title: "React Apollo e GraphQL", url: ""}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wnascimentow/"}
 
