@@ -85,6 +85,13 @@
   subtype: presentation
   speakers: [9]
   complexity: "Intermediate"
+-
+  id: 108
+  title: "React Apollo, GraphQL e a solução para o data fetching e state management"
+  description: "Não é novidade para ninguém que fazer todo o trabalho de state management e data fetching em aplicações react pode se tornar algo muito complexo e dar muitas dores de cabeça para um desenvolvedor. Com React Apollo e GraphQL vamos solucionar esse problema de forma extremamente simples."
+  subtype: presentation
+  speakers: [10]
+  complexity: "Advanced"
 # Codelabs
 -
   id: 200
