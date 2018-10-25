@@ -146,8 +146,6 @@
   bio: "Comecei minha carreira como palhaço de festas aos 14 anos, sai da periferia de Santo André para realizar o sonho de ter uma família. Demorou mas achei uma doida pra a estar ao meu lado, hoje tenho ela, Joviane minha parceira de vida, juntos temos o pequeno Henri e a pequena Luna. É o sonho virou realidade, não só por causa da minha primeira carreira como palhaço, sem dúvida a minha mudança de carreira pra Desenvolvedor FrontEnd foi o que torno eu sonho possível. Hoje tenho foco o mundo JavaScript, uso no meu dia a dia React no Front e AdonisJS, Express ou Restify no Back, mas pra mim nenhum desses frameworks tem valor se não soubermos JavaScript 😋"
   thumbnailUrl: marco.png 
   rockstar: true
-  ribbon:
-    - {abbr: "React", title: "React Apollo e GraphQL", url: ""}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/marcobrunobr/"}
     - {name: "facebook", link: "https://www.facebook.com/marco.bruno.br"}
