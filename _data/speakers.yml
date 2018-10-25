@@ -150,4 +150,30 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/marcobrunobr/"}
     - {name: "facebook", link: "https://www.facebook.com/marco.bruno.br"}
     - {name: "youtube", link: "https://www.youtube.com/c/collabcode"}
+-
+  id: 12
+  name: "Simone" 
+  surname: "Amorim"
+  company: "Thoughtworks"
+  title: "DEV"
+  bio: "Mãe, guerreira e mulher que não mede esforços pra correr atrás de seus objetivos! Apaixonada pelo mundo Front-End e se auto-proclama como CSS Evangelist onde seu principal objetivo é impactar pessoas através do compartilhamento de aprendizado. Além disso é uma WWCode Leader, organização mundial com a missão de fomentar o conhecimento de tecnologia para mulheres e incentivá-las a ingressar nessa área."
+  thumbnailUrl: simone.jpg 
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/simoneas02"}
+    - {name: "twitter", link: "https://twitter.com/samorim02"}
+-
+  id: 13
+  name: "Talita" 
+  surname: "Oliveira"
+  company: "Accenture"
+  title: "Application Development Analyst"
+  bio: "Desenvolvedora web, atualmente trabalhando com desenvolvimento de apps híbridos. Começou trabalhando com desenvolvimento usando PHP mas agora está focando mais no Javascript. Apaixonada por CSS, se considera um tanto fullstack mas as vezes puxando pro lado front-end da força. Dá aulas de front end no Design Culture. Formada em Sistemas de Informação e finalizando uma pós graduação em Desenvolvimento de Web Apps."
+  thumbnailUrl: talita.jpg 
+  rockstar: true
+  ribbon:
+    - {abbr: "Accenture", title: "Accenture - Application Development Analyst", url: ""}
+  social:
+    - {name: "github", link: "https://github.com/talitaoliveira"}
+    - {name: "twitter", link: "https://twitter.com/liitacherry"}
 
