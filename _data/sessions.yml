@@ -113,6 +113,13 @@
   subtype: presentation
   speakers: [14]
   complexity: "Intermediate"
+-
+  id: 112
+  title: "Aplicando blockchain na Internet das Coisas"
+  description: "Atualmente a Internet das coisas (IoT) representa uma das mais significativas tecnologias disruptivas desse século. É uma evolução natural da internet de (computadores) para sistemas embarcados, “coisas” que, embora não seja obviamente computadores, mais possuem algum tipo de processamento. Com uma gama de sensores baratos e coisas interconectadas, a extração de informações pode ser obtida em uma granularidade muito alta. Os riscos de privacidade da IoT são agravantes pela falta de proteção fundamentais de segurança em muitos dos produtos no mercado. Há alguns benefícios muito desejáveis que o blockchain pode trazer para a internet das coisas. A proposta é implementar blockchain no contexto IoT, através dos benificios da linguagem javascript."
+  subtype: presentation
+  speakers: [15]
+  complexity: "Intermediate"
 # Codelabs
 -
   id: 200
