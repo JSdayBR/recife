@@ -189,4 +189,16 @@
     - {abbr: "FICR / Polícia", title: "Professor e Chefe da Unidade de Sistemas Aplicativos", url: ""}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/jademirf"}
-
+-
+  id: 15
+  name: "Cassio " 
+  surname: "Luiz Paixão"
+  company: "SENAI"
+  title: "Desenvolvedor tecnologia e inovação"
+  bio: "Fullstack de recife, patinador, jogador de futebol e apaixonado por tecnologia, Mais de 4 anos de experiencia. Atualmente é Desenvolvedor de Inovação no Instituto SENAI-PE e tentando fazer um foguete ir a lua com javascript."
+  thumbnailUrl: cassio.jpg 
+  rockstar: true
+  ribbon:
+    - {abbr: "SENAI", title: "Desenvolvedor tecnologia e inovação", url: ""}
+  social:
+    - {name: "github", link: "https://github.com/cassiolpaixao90"}
