@@ -131,8 +131,8 @@
   complexity: "Beginner"
 -
   id: 302
-  title: "Treinamento de IBM Watson"
-  description: "Mais informações em breve."
+  title: "Utilizando IBM Watson e IBM Cloud Functions em seus projetos"
+  description: "Saiba como utilizar Inteligência Artificial através do IBM Watson e IBM Cloud Functions (Serverless), em suas soluções Node.js"
   subtype: workshop
   speakers: [2]
   complexity: "Intermediate"
