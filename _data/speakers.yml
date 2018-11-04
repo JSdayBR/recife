@@ -176,4 +176,18 @@
   social:
     - {name: "github", link: "https://github.com/talitaoliveira"}
     - {name: "twitter", link: "https://twitter.com/liitacherry"}
+-
+  id: 14
+  name: "Jademir" 
+  surname: "de Moura"
+  company: "FICR / Polícia Civil PE"
+  title: "FICR - Professor / Polícia Civil PE - Chefe da Unidade de Sistemas Aplicativos"
+  bio: "Desenvolvedor Web, formado em Sistemas para a Internet, especialização em desenvolvimento de widgets e atualmente cursando o mestrado em inteligência artificial. Atua como professor na FICR, e, como Servidor público do estado de Pernambuco desde 2011, trabalhando na área de segurança pública e desde set/2017 chefiando a Unidade de Sistemas Aplicativos."
+  thumbnailUrl: jademir.jpg 
+  rockstar: true
+  ribbon:
+    - {abbr: "FICR / Polícia", title: "Professor e Chefe da Unidade de Sistemas Aplicativos", url: ""}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jademirf"}
+    - {name: "instagram", link: "https://www.instagram.com/jademirf/"}
 
