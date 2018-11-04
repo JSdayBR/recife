@@ -102,10 +102,17 @@
 -
   id: 110
   title: "ES6 and Beyond"
-  description: "Já faz um tempo que a ES6 foi lançada, porém muitas vezes esquecemos ou não sabemos em que momentos usar as funcionalidades que existem na especificação, ou até mesmo por costume de usar a forma “antiga”, nesta apresentação mostraremos com exemplos práticos  as principais funcionalidades implementadas nas versões do ES6, ES7, ES8 e ES9."
+  description: "Já faz um tempo que a ES6 foi lançada, porém muitas vezes esquecemos ou não sabemos em que momentos usar as funcionalidades que existem na especificação, ou até mesmo por costume de usar a forma antiga, nesta apresentação mostraremos com exemplos práticos  as principais funcionalidades implementadas nas versões do ES6, ES7, ES8 e ES9."
   subtype: presentation
   speakers: [12,13]
   complexity: "Beginner"
+-
+  id: 111
+  title: "Fraudes em ambiente digital"
+  description: "Além de toda a preocupação com a segurança da informação no código e segurança das redes, estamos sujeitos às diversas técnicas de fraude que migraram do meio físico para o digital, felizmente existem formas de se precaver, evitar ou minimizar os danos causados."
+  subtype: presentation
+  speakers: [14]
+  complexity: "Intermediate"
 # Codelabs
 -
   id: 200
