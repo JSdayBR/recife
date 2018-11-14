@@ -4,8 +4,8 @@
   dateReadable: "Palestras 01/12"
   dataReadableWarning: "Serão dois auditórios com palestras simultâneas e Workshops para quem quer iniciar ou se aprofundar com o JavaScript. Teremos intervalos para networking com comidas, bebidas, cafezinho, sorteio de brindes e muito mais! *As palestras e os horários podem ser modificados sem aviso prévio."
   tracks:
-   - {title: "Trilha 1", color: "#f7df1e", description: "Auditório 1"}
-   - {title: "Trilha 2", color: "#000000", description: "Auditório 2"}
+   - {title: "Auditório", color: "#f7df1e", description: "Capacidade para 400 pessoas"}
+   - {title: "Sala", color: "#000000", description: "Capacidade para 60 pessoas"}
   timeslots:
     - {
         startTime: "8:00",
