@@ -49,7 +49,7 @@
   title: "UX Analyst"
   bio: "Apaixonada por UX, atualmente trabalhando na Accenture e sonhando em como o Design e a Tecnologia podem se unir para mudar o mundo. É formada em Design pela UFPE, e atualmente se especializando em Design de Interação."
   thumbnailUrl: manuella.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "Accenture", title: "UX Analyst at Accenture", url: "https://www.accenture.com/"}
   social:
@@ -62,7 +62,7 @@
   title: "Engenheira de Software"
   bio: "Maíra é engenheira de software na In Loco, tendo se apaixonado por desenvolvimento web logo cedo. Trabalhou no Facebook bem na época em que tecnologias como React, Jest e GraphQL estavam começando a ser desenvolvidas por lá. Hoje, de volta em Recife, adora trabalhar com essas e outras novas possibilidades que têm tornado o mundo web ainda melhor."
   thumbnailUrl: maira-bello.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "In Loco", title: "Engenheira de Software", url: "https://www.inlocomedia.com/"}
   social:
@@ -184,7 +184,7 @@
   title: "FICR - Professor / Polícia Civil PE - Chefe da Unidade de Sistemas Aplicativos"
   bio: "Desenvolvedor Web, formado em Sistemas para a Internet, especialização em desenvolvimento de widgets e atualmente cursando o mestrado em inteligência artificial. Atua como professor na FICR, e, como Servidor público do estado de Pernambuco desde 2011, trabalhando na área de segurança pública e desde set/2017 chefiando a Unidade de Sistemas Aplicativos."
   thumbnailUrl: jademir.jpg 
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "FICR / Polícia", title: "Professor e Chefe da Unidade de Sistemas Aplicativos", url: ""}
   social:
@@ -197,7 +197,7 @@
   title: "Desenvolvedor tecnologia e inovação"
   bio: "Fullstack de recife, patinador, jogador de futebol e apaixonado por tecnologia, Mais de 4 anos de experiencia. Atualmente é Desenvolvedor de Inovação no Instituto SENAI-PE e tentando fazer um foguete ir a lua com javascript."
   thumbnailUrl: cassio.jpg 
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "SENAI", title: "Desenvolvedor tecnologia e inovação", url: ""}
   social:
@@ -216,3 +216,16 @@
   social:
     - {name: "github", link: "https://github.com/thulioph"}
     - {name: "linkedin", link: "http://linkedin.com/in/thulioph"}
+ -
+  id: 17
+  name: "Eduarda " 
+  surname: "Scharnhorst"
+  company: "IDwall"
+  title: "Front-end Engineer"
+  bio: "Desenvolvedora Front End na IDwall, empresa de segurança e tecnologia referência em validação de identidade. Já trabalhou na In Loco, uma das tecnologias de localização mais precisas do mercado, como Martech com foco em desenvolvimento web e análise de dados. Também já foi participante do Apple Developers Academy at UFPE e organizadora de eventos como Startup Weekend, DevFest XP e Stanford Women in Data Science."
+  thumbnailUrl: eduarda.jpg 
+  rockstar: true
+  ribbon:
+    - {abbr: "IDwall", title: "IDwall, Front-end Engineer", url: "https://idwall.co/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eduardascharnhorst/"}
