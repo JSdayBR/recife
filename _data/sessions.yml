@@ -120,6 +120,13 @@
   subtype: presentation
   speakers: [15]
   complexity: "Intermediate"
+-
+  id: 113
+  title: "Recompose, o lodash para React"
+  description: "Vamos conhecer uma ferramenta que vem se tornando indispensável para o desenvolvimento de componentes funcionais e escaláveis com React."
+  subtype: presentation
+  speakers: [16]
+  complexity: "Intermediate"
 # Codelabs
 -
   id: 200
