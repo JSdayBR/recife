@@ -202,3 +202,17 @@
     - {abbr: "SENAI", title: "Desenvolvedor tecnologia e inovação", url: ""}
   social:
     - {name: "github", link: "https://github.com/cassiolpaixao90"}
+-
+  id: 16
+  name: "Thulio " 
+  surname: "Philipe"
+  company: "Labcodes"
+  title: "Front-end Engineer"
+  bio: "Thulio é Front-end Engineer na Labcodes e desenvolvedor web por mais de seis anos. Já trabalhou com agências de publicidade, startups, estúdio de software e como consultor, sempre focado na camada do cliente. Tem interesse em exibição de dados utilizando mapas e nas horas vagas vem atuando como beer sommelier."
+  thumbnailUrl: thulio.jpg 
+  rockstar: true
+  ribbon:
+    - {abbr: "Labcodes", title: "Labcodes, Front-end Engineer", url: "https://www.labcodes.com.br/"}
+  social:
+    - {name: "github", link: "https://github.com/thulioph"}
+    - {name: "linkedin", link: "http://linkedin.com/in/thulioph"}
