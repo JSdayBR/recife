@@ -127,6 +127,13 @@
   subtype: presentation
   speakers: [16]
   complexity: "Intermediate"
+-
+  id: 114
+  title: "GatsbyJS: Como construir sites otimizados para marketing e SEO usando React"
+  description: "Na Talk irei apresentar o framework Gatsby para desenvolvimento de sites estáticos utilizando React. Ele é especialmente indicado para sites que precisem de ótima indexação no google e performance, dando ao desenvolvedor a facilidade do React. Serão apresentadas as principais funcionalidades, benchmarks e cases de uso da ferramenta. "
+  subtype: presentation
+  speakers: [17]
+  complexity: "Intermediate"
 # Codelabs
 -
   id: 200
