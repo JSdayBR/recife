@@ -59,8 +59,8 @@
   complexity: "Beginner"
 -
   id: 104
-  title: "Web Performance - como deixar seu site mais rápido!"
-  description: "Serão apresentadas dicas e técnicas para melhorar a performance de um web app. Olharemos o problema por diversos ângulos, levando em conta como o browser renderiza páginas para detectarmos os maiores gargalos a serem atacados. Vamos falar de ferramentas para investigação, da diferença entre performance percebida e performance real, além de técnicas para melhorar ambas."
+  title: "Escalando GraphQL"
+  description: "GraphQL está se tornando cada vez mais popular, e não é difícil encontrar artigos e tutoriais sobre como aprender e começar a usá-lo. No entanto, por ser um conceito mais recente, ainda existem poucos recursos por aí sobre como escalar uma aplicação com GraphQL. Eu já trabalhei com isso, então vou compartilhar um pouco de minha experiência no assunto."
   subtype: presentation
   speakers: [5]
   complexity: "Intermediate"
