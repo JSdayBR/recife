@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/#venue", text: "Local"}
  - {permalink: "/#partners", text: "Patrocinadores"}
 # - {permalink: "/live/", text: "Live"}
- - {link: "https://goo.gl/forms/6kiJlTmUivVu9SVE3", text: "Call for Papers"}
+#- {link: "https://goo.gl/forms/6kiJlTmUivVu9SVE3", text: "Call for Papers"}
 
 #bottomNavigationLinks:
 # - {link: "", text: ""}
