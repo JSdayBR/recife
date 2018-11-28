@@ -80,12 +80,12 @@
     - {
         startTime: "09:05",
         endTime: "12:00",
-        sessionIds: [301, 302]
+        sessionIds: [301]
     }
     - {
         startTime: "14:05",
         endTime: "17:30",
-        sessionIds: [301, 302]
+        sessionIds: [301]
     }
 #-
 #  title: "JSday Lineup"
