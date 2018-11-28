@@ -14,21 +14,6 @@
     - {name: "github", link: "https://github.com/ThiagoAugustoSM/"}
     - {name: "facebook", link: "https://www.facebook.com/thiagoaugustosm"}
 -
-  id: 2
-  name: "Sergio"
-  surname: "Gama"
-  company: "IBM"
-  title: "Senior Developer Advocate Leader for Latin America"
-  bio: "Engenheiro mecatrônico com mais de 25 anos de experiência em TI, apaixonado por tecnologia e inovação. Participou de projetos para banco e seguradoras no Brasil, China e Índia. Atualmente é Developer Advocate, especialista em desenvolvimento de software, inteligência artificial, Big Data e IoT."
-  thumbnailUrl: sergio.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "IBM", title: "IBM Advocate Leader for Latin America", url: ""}
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/sergiogama1967"}
-    - {name: "twitter", link: "https://www.twitter.com/sergiorggama"}
-    - {name: "youtube", link: "https://www.youtube.com/c/sergiogama"}
--
   id: 3
   name: "Alexandre"
   surname: "Araújo"
