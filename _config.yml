@@ -42,12 +42,12 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2018"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#about", text: "Sobre"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
+ #- {permalink: "/speakers/", text: "Speakers"}
+ #- {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/#venue", text: "Local"}
  - {permalink: "/#partners", text: "Patrocinadores"}
- - {permalink: "https://www.facebook.com/ficroficial/videos/339369130125808/", text: "Live"}
-#- {link: "https://goo.gl/forms/6kiJlTmUivVu9SVE3", text: "Call for Papers"}
+ #- {permalink: "https://www.facebook.com/ficroficial/videos/339369130125808/", text: "Live"}
+ - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Call for Papers"}
 
 #bottomNavigationLinks:
 # - {link: "", text: ""}
@@ -57,13 +57,13 @@ rightNavigationButtons:
 # Hero Block
 heroImage: ""
 heroTitle: "<typeout>"
-eventDate: "01 de Dezembro, 2018"
+eventDate: "14 de Dezembro, 2019"
 typeoutTextValues: '"JSday Recife", "ReactJS", "Web Performance", "Data Viz","Watson APIs via Node.js em Cloud functions", "Angular", "GitHub Essentials", "Experiências incríveis utilizando P5.js"'
 typeoutFallback: "JSday Recife"
 heroButtons:
 - {link: "https://goo.gl/6grj38", text: "Inscreva-se.now(&#9829;)"}
-#- {link: "https://goo.gl/forms/6kiJlTmUivVu9SVE3", text: "Sua palestra no JSDay"}
-#- {link: "https://goo.gl/forms/YrQgSmaYEODYnj333", text: "Seja um voluntário"}
+- {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Sua palestra no JSDay"}
+- {link: "https://goo.gl/forms/YrQgSmaYEODYnj333", text: "Seja um voluntário"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
