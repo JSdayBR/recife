@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2018"
+c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2019"
 
 # Navigation
 navigationLinks:
@@ -52,7 +52,7 @@ navigationLinks:
 #bottomNavigationLinks:
 # - {link: "", text: ""}
 rightNavigationButtons:
- - {link: "https://goo.gl/6grj38", text: "Inscreva-se.now(&#9829;)"}
+ - {link: "https://www.sympla.com.br/jsday-recife-2019__533369", text: "Inscreva-se.now(&#9829;)"}
 
 # Hero Block
 heroImage: ""
@@ -61,7 +61,7 @@ eventDate: "14 de Dezembro, 2019"
 typeoutTextValues: '"JSday Recife", "ReactJS", "Web Performance", "Data Viz","Watson APIs via Node.js em Cloud functions", "Angular", "GitHub Essentials", "Experiências incríveis utilizando P5.js"'
 typeoutFallback: "JSday Recife"
 heroButtons:
-- {link: "https://goo.gl/6grj38", text: "Inscreva-se.now(&#9829;)"}
+- {link: "https://www.sympla.com.br/jsday-recife-2019__533369", text: "Inscreva-se.now(&#9829;)"}
 - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Sua palestra no JSDay"}
 - {link: "https://goo.gl/forms/YrQgSmaYEODYnj333", text: "Seja um voluntário"}
 
