@@ -84,7 +84,7 @@ statisticBlock:
 latestNewsTitle: "Novidades"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "rockstar-speakers2019.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "JavaScript Experts"
 rockstarSpeakersButtonText: "Conheça todos Palestrantes"
@@ -108,8 +108,8 @@ mapMobileCenterCoordinates: "-8.0191395,-34.939734"
 # Venue Block
 venueBlockTitle: "Local"
 venueBigImage: "ficr2018.jpg"
-venueSmallImage1: "auditorio2018.jpg"
-venueSmallImage2: "sala2018.jpg"
+venueSmallImage1: "auditorio2019.jpg"
+venueSmallImage2: "sala2019.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "FICR"
 venueFeatures: ["Salas climatizadas e com tratamento acústico, labs de informática, cantina, elevador e um amplo estacionamento."]
