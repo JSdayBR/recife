@@ -1,7 +1,7 @@
 -
   title: "JSday Lineup"
   date: "2018-12-01"
-  dateReadable: "Palestras 01/12"
+  dateReadable: "Palestras 14/12"
   dataReadableWarning: "Serão dois auditórios com palestras simultâneas e Workshops para quem quer iniciar ou se aprofundar com o JavaScript. Teremos intervalos para networking com comidas, bebidas, cafezinho, sorteio de brindes e muito mais! *As palestras e os horários podem ser modificados sem aviso prévio."
   tracks:
    - {title: "Auditório", color: "#f7df1e", description: "Capacidade para 400 pessoas"}
@@ -15,12 +15,12 @@
     - {
         startTime: "9:00",
         endTime: "9:35",
-        sessionIds: [109,104]
+        sessionIds: [100,006]
     }
     - {
         startTime: "9:40",
         endTime: "10:15",
-        sessionIds: [110, 112]
+        sessionIds: [006, 006]
     }
     - {
         startTime: "10:15",
@@ -30,12 +30,12 @@
     - {
         startTime: "10:50",
         endTime: "11:25",
-        sessionIds: [113,106]
+        sessionIds: [006,006]
     }
     - {
         startTime: "11:30",
         endTime: "12:05",
-        sessionIds: [108,103]
+        sessionIds: [006,006]
     }
     - {
         startTime: "12:05",
@@ -45,12 +45,12 @@
     - {
         startTime: "14:05",
         endTime: "14:40",
-        sessionIds: [114,102]
+        sessionIds: [006,006]
     }
     - {
         startTime: "14:45",
         endTime: "15:15",
-        sessionIds: [111,100]
+        sessionIds: [006,006]
     }
     - {
         startTime: "15:20",
@@ -60,7 +60,7 @@
     - {
         startTime: "16:00",
         endTime: "16:40",
-        sessionIds: [107,105]
+        sessionIds: [006,006]
     }
     - {
         startTime: "16:45",
@@ -69,8 +69,8 @@
     }
 -
   title: "Workshops"
-  date: "2018-12-01"
-  dateReadable: "Workshops 30/11"
+  date: "2019-12-14"
+  dateReadable: "Workshops 14/12"
   dataReadableWarning: "*Os Workshops e horários podem ser modificados sem aviso prévio"
   tracks:
     - {title: "Workshop", color: "#f7df1e", description: "Lab 1"}
@@ -80,12 +80,12 @@
     - {
         startTime: "09:05",
         endTime: "12:00",
-        sessionIds: [301]
+        sessionIds: [006]
     }
     - {
         startTime: "14:05",
         endTime: "17:30",
-        sessionIds: [301]
+        sessionIds: [006]
     }
 #-
 #  title: "JSday Lineup"
