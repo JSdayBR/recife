@@ -63,7 +63,7 @@ typeoutFallback: "JSday Recife"
 heroButtons:
 - {link: "https://www.sympla.com.br/jsday-recife-2019__533369", text: "Inscreva-se.now(&#9829;)"}
 - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Sua palestra no JSDay"}
-- {link: "https://goo.gl/forms/YrQgSmaYEODYnj333", text: "Seja um voluntário"}
+- {link: "https://forms.gle/sHa8gomzQC7sSgDB9", text: "Seja um voluntário"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
@@ -152,9 +152,9 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://goo.gl/forms/YrQgSmaYEODYnj333", text: "Seja um voluntário"}
+   - {link: "https://forms.gle/sHa8gomzQC7sSgDB9", text: "Seja um voluntário"}
    - {link: "https://goo.gl/forms/6kiJlTmUivVu9SVE3", text: "Inscreva sua palestra"}
-   - {link: "https://goo.gl/FkZGNL", text: "Nosso Midiakit"}
+   #- {link: "https://goo.gl/FkZGNL", text: "Nosso Midiakit"}
    - {link: "https://www.ficr.edu.br/", text: "Faculdade Imaculada Conceição do Recife - FICR"}
    #- {link: "https://www.udacity.com/", text: "Udacity"}
    #- {link: "https://www.maxmilhas.com.br/", text: "MaxMilhas"}
@@ -179,7 +179,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {link: "https://goo.gl/FkZGNL", text: "Como patrocinar? Leia o nosso Midiakit!"}
+   #- {link: "https://goo.gl/FkZGNL", text: "Como patrocinar? Leia o nosso Midiakit!"}
    - {link: "http://pt-br.confcodeofconduct.com/", text: "Código de Conduta"}
 #   - {link: "http://womentechmakers.com", text: "WTM (Women Techmakers)"}
 
