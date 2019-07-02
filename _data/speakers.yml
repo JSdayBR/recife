@@ -8,7 +8,7 @@
   thumbnailUrl: leonardoAlmeida.jpeg
   rockstar: true
   ribbon:
-    - {abbr: "Finqle B.V. / Holanda", title: "Lead Front-end Developer", url: ""}
+    - {abbr: "Finqle B.V. / Holanda", title: "Lead Front-end Developer", url: "https://www.finqle.nl/"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/lalmeida1985/"}
     - {name: "github", link: "https://github.com/lhew"}
