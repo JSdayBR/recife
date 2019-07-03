@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://www.sympla.com.br/jsday-recife-2019__533369", text: "Inscreva-se.now(&#9829;)"}
 
 # Hero Block
-heroImage: "hero2019.png"
+heroImage: "hero.jpg"
 heroTitle: "<typeout>"
 eventDate: "14 de Dezembro, 2019"
 typeoutTextValues: '"JSday Recife", "ReactJS", "Web Performance", "Data Viz","Watson APIs via Node.js em Cloud functions", "Angular", "GitHub Essentials", "Experiências incríveis utilizando P5.js"'
