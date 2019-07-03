@@ -1,0 +1,22 @@
+-
+  id: 0
+  name: "Felipe"
+  surname: "de Albuquerque"
+  company: "JSDay Brasil"
+  title: "Front-end Developer"
+  thumbnailUrl: felipealbuquerque.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MariaClaraSantana1"}
+    - {name: "twitter", link: "https://twitter.com/olarclara"}
+    - {name: "github", link: "https://github.com/clarasantana"}
+-
+  id: 1
+  name: "André"
+  surname: "Melo"
+  company: "FICR"
+  title: "Front-end Developer"
+  thumbnailUrl: felipealbuquerque.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MariaClaraSantana1"}
+    - {name: "twitter", link: "https://twitter.com/olarclara"}
+    - {name: "github", link: "https://github.com/clarasantana"}

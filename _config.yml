@@ -55,11 +55,11 @@ rightNavigationButtons:
  - {link: "https://www.sympla.com.br/jsday-recife-2019__533369", text: "Inscreva-se.now(&#9829;)"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "bghero.png"
 heroTitle: "<typeout>"
 eventDate: "14 de Dezembro, 2019"
-typeoutTextValues: '"JSday Recife", "ReactJS", "Web Performance", "Data Viz","Watson APIs via Node.js em Cloud functions", "Angular", "GitHub Essentials", "Experiências incríveis utilizando P5.js"'
-typeoutFallback: "JSday Recife"
+typeoutTextValues: '"JSday Recife 2019", "ReactJS", "Angular", "Ciclo de vida de um modulo npm"'
+typeoutFallback: "JSday Recife 2019"
 heroButtons:
 - {link: "https://www.sympla.com.br/jsday-recife-2019__533369", text: "Inscreva-se.now(&#9829;)"}
 - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Inscreva sua palestra"}
@@ -73,7 +73,7 @@ aboutBlock:
  - {title: "Networking", image: "networking.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte." }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: ""
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "Participantes", detail: "Empresas, profissionais e estudantes"}
  - {count: "+16", specialCharacter: "+", info: "Palestras", detail: "Duas trilhas com tópicos incríveis"}
@@ -84,7 +84,7 @@ statisticBlock:
 latestNewsTitle: "Novidades"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers2019.jpg"
+rockstarSpeakersImage: "bgtransparent2019.png"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "JavaScript Experts"
 rockstarSpeakersButtonText: "Conheça todos Palestrantes"
@@ -106,7 +106,7 @@ mapCenterCoordinates: "-8.040965,-34.94011"
 mapMobileCenterCoordinates: "-8.0191395,-34.939734"
 
 # Venue Block
-venueBlockTitle: "Local"
+venueBlockTitle: "Local do Evento"
 venueBigImage: "ficr2018.jpg"
 venueSmallImage1: "auditorio2019.jpg"
 venueSmallImage2: "sala2019.jpg"
@@ -223,6 +223,10 @@ oqjsday2016Title: "O que esperar do JSDay Recife 2018?"
 oqjsday2016Description: "Palestras com alguns dos melhores especialistas da área, trocas de ideias, atividades práticas, sorteios, networking e várias outras surpresas - é isso que os participantes do JSDay encontrarão."
 oqjsday2016Link: "#"
 oqjsday2016LinkText: "Leia mais"
+
+# Staff equipe JSDay
+staffTitle: "Organização"
+staffImage: ""
 
 #WTM JavaScript Codelab
 wtmCodelabTitle: "WTM JavaScript Codelab"
