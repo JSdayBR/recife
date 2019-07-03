@@ -1,0 +1,36 @@
+.about-details {
+    img {
+        width: 128px;
+    }
+    p {
+        margin-top: 10px;
+    }
+}
+
+.cfp-step-by-step {
+    margin-top: 2em;
+    padding-left: 0;
+    list-style-position: inside;
+
+    li {
+        font-size: 18px;
+        margin-bottom: 1em;
+        text-align: left;
+
+        a {
+            color: #f8dc3d;
+            font-weight: 400;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+.cfp {
+    .cfp-link {
+        background: #f8d75d;
+        margin: 2em 0 3em 0;
+    }
+}

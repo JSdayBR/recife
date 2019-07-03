@@ -1,0 +1,31 @@
+.btn {
+    font-weight: $bold;
+    transition: $base-cubic-transition;
+}
+.btn-primary {
+    color: #867642 !important;
+    user-select: none;
+    text-transform: uppercase;
+    border: 0;
+    background: #fbfaf3 !important;
+    &:hover, &:focus, &:active, &.active {
+        outline: none;
+        color: #fff;
+        background: $primary-color-hover;
+    }
+}
+
+.btn-secondary {
+    background-color: #f8d75d;
+}
+
+.btn-topbar {
+    color: #292723 !important;
+    user-select: none;
+    border: 0;
+    background: #f8d75d !important;
+    &:hover, &:focus, &:active, &.active {
+        outline: none;
+        color: #fff !important;
+    }
+}

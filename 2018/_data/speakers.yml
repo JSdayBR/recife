@@ -1,0 +1,216 @@
+-
+  id: 1
+  name: "Thiago"
+  surname: "Augusto"
+  company: "LIVE"
+  title: "Pesquisador"
+  bio: "Graduando em Engenharia da Computação pelo CIn - UFPE e Técnico em Eletrônica pelo IFPE - Campus Recife. Atualmente pesquisador do LIVE - Laboratório de Inovação Veicular. Apaixonado por educação e desenvolvimento tátil. Uso das ferramentas de IoT, desenvolvimento mobile/web e interfaces conversacionais para validar e trazer novas experiências para as pessoas."
+  thumbnailUrl: thiago2018.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "LIVE", title: "Laboratório de Inovação Veicular", url: "http://www2.cin.ufpe.br/site/lerNoticia.php?s=1&c=94&id=1364"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thiagoaugustosm/"}
+    - {name: "github", link: "https://github.com/ThiagoAugustoSM/"}
+    - {name: "facebook", link: "https://www.facebook.com/thiagoaugustosm"}
+-
+  id: 3
+  name: "Alexandre"
+  surname: "Araújo"
+  company: "Liferay"
+  title: "Front-End"
+  bio: "Front-end na Liferay e desenvolvendo aplicações web há 10 anos. Começando com uma simples validação de formulário e sem saber onde vai parar."
+  thumbnailUrl: alex.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "Liferay", title: "Front-End at Liferay", url: "https://www.liferay.com/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alexandre-araujo-535229a6"}
+-
+  id: 4
+  name: "Manuella"
+  surname: "Oliveira"
+  company: "Accenture"
+  title: "UX Analyst"
+  bio: "Apaixonada por UX, atualmente trabalhando na Accenture e sonhando em como o Design e a Tecnologia podem se unir para mudar o mundo. É formada em Design pela UFPE, e atualmente se especializando em Design de Interação."
+  thumbnailUrl: manuella.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "Accenture", title: "UX Analyst at Accenture", url: "https://www.accenture.com/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/manuellaos/"}
+-
+  id: 5
+  name: "Maíra"
+  surname: "Bello"
+  company: "In Loco"
+  title: "Engenheira de Software"
+  bio: "Maíra é engenheira de software na In Loco, tendo se apaixonado por desenvolvimento web logo cedo. Trabalhou no Facebook bem na época em que tecnologias como React, Jest e GraphQL estavam começando a ser desenvolvidas por lá. Hoje, de volta em Recife, adora trabalhar com essas e outras novas possibilidades que têm tornado o mundo web ainda melhor."
+  thumbnailUrl: maira-bello.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "In Loco", title: "Engenheira de Software", url: "https://www.inlocomedia.com/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maira-bello-06b17067"}
+    - {name: "github", link: "github.com/mairatma"}
+-
+  id: 6
+  name: "Otacilio"
+  surname: "Maia"
+  company: "GitHub / Cesar"
+  title: "GitHub Campus Expert"
+  bio: "Técnico em eletrônica, Estudante de Cências da Computação no Cesar School, Co-fundador do ReciHub, FilipeFlop Maker Hero e GitHub Campus Expert, mantenedor Open Source e apaixonado por novas tecnologias. Sou apaixonado por pessoas e máquinas, mas não necessariamente nessa ordem..."
+  thumbnailUrl: otacilio.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GitHub", title: "GitHub Campus Expert", url: "https://education.github.com/"}
+  social:
+    - {name: "github", link: "https://github.com/OtacilioN"}
+-
+  id: 7
+  name: "Durval"
+  surname: "Pereira"
+  company: "Bigu"
+  title: "CEO"
+  bio: "Engenheiro de Software e Desenvolvedor Web, trabalha com desenvolvimento há mais de dez anos (lá na época do mIRC e MSN. É, faz tempo). Cientista da Computação pela UFAL, empreende na Bigu Soluções, uma fábrica de software e plataformas inteligentes e personalizadas. Também é CTO do QuantoGastei, startup fintech premiada pelo Startup Brasil e Programa Samsung de Inovação e CTO da FMX Sports, empresa do ramo de tecnologia esportiva."
+  thumbnailUrl: durval.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "Bigu", title: "CEO", url: ""}
+  social:
+    - {name: "github", link: "https://github.com/DurvalPCN"}
+    - {name: "twitter", link: "https://twitter.com/durvalpcn"}
+-
+  id: 8
+  name: "Felipe"
+  surname: "de Albuquerque"
+  company: "Accenture"
+  title: "Consultant"
+  bio: "Web Designer e Front-End Developer com mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile e para Tv Digital. Já participou de projetos relevantes e para clientes de grande porte, como a Samsung, Motorola, Coca-cola, Fiat e atualmente em projetos da HP. Também fez parte do corpo docente do CESAR EDU, entre outras iniciativas acadêmicas e de mentoring. Tem interesse em ciência e tecnologia, arte, música e brinquedos tecnológicos."
+  thumbnailUrl: felipealbuquerque.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Accenture", title: "Advanced App Engineering Specialist", url: "https://www.accenture.com/br-pt/new-applied-now"}
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/felipedealbuquerque"}
+    - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
+    - {name: "github", link: "https://github.com/felipedealbuquerque"}
+-
+  id: 9
+  name: "Alejandro" 
+  surname: "Oviedo"
+  company: "Beamery"
+  title: "Open Source and community-driven events."
+  bio: "Alejandro is a developer who loves learning new things. He is passionate about education, electronics, Open Source, and community-driven events."
+  thumbnailUrl: oviedo.jpg 
+  rockstar: true
+  ribbon:
+    - {abbr: "Beamery", title: "Open Source and community-driven events.", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/a0viedo"}
+    - {name: "github", link: "https://github.com/a0viedo"}
+-
+  id: 10
+  name: "Wendel" 
+  surname: "Nascimento"
+  company: "Shawee"
+  title: "CTO"
+  bio: "CTO na Shawee, jogador de LoL nas horas vagas e fanático por tudo que é bleeding edge no mundo de JS. Desenvolve desde os 16 anos e já passou por grandes empresas no Brasil. Atualmente trabalhando com React, Apollo, GraphQL, Jest e uma stack com milhares de ferramentas."
+  thumbnailUrl: wendel.png 
+  rockstar: true
+  ribbon:
+    - {abbr: "React", title: "React Apollo e GraphQL", url: ""}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wnascimentow/"}
+-
+  id: 11
+  name: "Marco" 
+  surname: "Bruno"
+  company: "CollabCode"
+  title: "Instrutor e Dev. FrontEnd/UX"
+  bio: "Comecei minha carreira como palhaço de festas aos 14 anos, sai da periferia de Santo André para realizar o sonho de ter uma família. Demorou mas achei uma doida pra a estar ao meu lado, hoje tenho ela, Joviane minha parceira de vida, juntos temos o pequeno Henri e a pequena Luna. É o sonho virou realidade, não só por causa da minha primeira carreira como palhaço, sem dúvida a minha mudança de carreira pra Desenvolvedor FrontEnd foi o que torno eu sonho possível. Hoje tenho foco o mundo JavaScript, uso no meu dia a dia React no Front e AdonisJS, Express ou Restify no Back, mas pra mim nenhum desses frameworks tem valor se não soubermos JavaScript 😋"
+  thumbnailUrl: marco.png 
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marcobrunobr/"}
+    - {name: "facebook", link: "https://www.facebook.com/marco.bruno.br"}
+    - {name: "youtube", link: "https://www.youtube.com/c/collabcode"}
+-
+  id: 12
+  name: "Simone" 
+  surname: "Amorim"
+  company: "Thoughtworks"
+  title: "DEV"
+  bio: "Mãe, guerreira e mulher que não mede esforços pra correr atrás de seus objetivos! Apaixonada pelo mundo Front-End e se auto-proclama como CSS Evangelist onde seu principal objetivo é impactar pessoas através do compartilhamento de aprendizado. Além disso é uma WWCode Leader, organização mundial com a missão de fomentar o conhecimento de tecnologia para mulheres e incentivá-las a ingressar nessa área."
+  thumbnailUrl: simone.jpg 
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/simoneas02"}
+    - {name: "twitter", link: "https://twitter.com/samorim02"}
+-
+  id: 13
+  name: "Talita" 
+  surname: "Oliveira"
+  company: "Accenture"
+  title: "Application Development Analyst"
+  bio: "Desenvolvedora web, atualmente trabalhando com desenvolvimento de apps híbridos. Começou trabalhando com desenvolvimento usando PHP mas agora está focando mais no Javascript. Apaixonada por CSS, se considera um tanto fullstack mas as vezes puxando pro lado front-end da força. Dá aulas de front end no Design Culture. Formada em Sistemas de Informação e finalizando uma pós graduação em Desenvolvimento de Web Apps."
+  thumbnailUrl: talita.jpg 
+  rockstar: true
+  ribbon:
+    - {abbr: "Accenture", title: "Accenture - Application Development Analyst", url: ""}
+  social:
+    - {name: "github", link: "https://github.com/talitaoliveira"}
+    - {name: "twitter", link: "https://twitter.com/liitacherry"}
+-
+  id: 14
+  name: "Jademir" 
+  surname: "de Moura"
+  company: "FICR / Polícia Civil PE"
+  title: "FICR - Professor / Polícia Civil PE - Chefe da Unidade de Sistemas Aplicativos"
+  bio: "Desenvolvedor Web, formado em Sistemas para a Internet, especialização em desenvolvimento de widgets e atualmente cursando o mestrado em inteligência artificial. Atua como professor na FICR, e, como Servidor público do estado de Pernambuco desde 2011, trabalhando na área de segurança pública e desde set/2017 chefiando a Unidade de Sistemas Aplicativos."
+  thumbnailUrl: jademir.jpg 
+  rockstar: false
+  ribbon:
+    - {abbr: "FICR / Polícia", title: "Professor e Chefe da Unidade de Sistemas Aplicativos", url: ""}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jademirf"}
+-
+  id: 15
+  name: "Cassio " 
+  surname: "Luiz Paixão"
+  company: "SENAI"
+  title: "Desenvolvedor tecnologia e inovação"
+  bio: "Fullstack de recife, patinador, jogador de futebol e apaixonado por tecnologia, Mais de 4 anos de experiencia. Atualmente é Desenvolvedor de Inovação no Instituto SENAI-PE e tentando fazer um foguete ir a lua com javascript."
+  thumbnailUrl: cassio.jpg 
+  rockstar: false
+  ribbon:
+    - {abbr: "SENAI", title: "Desenvolvedor tecnologia e inovação", url: ""}
+  social:
+    - {name: "github", link: "https://github.com/cassiolpaixao90"}
+-
+  id: 16
+  name: "Thulio " 
+  surname: "Philipe"
+  company: "Labcodes"
+  title: "Front-end Engineer"
+  bio: "Thulio é Front-end Engineer na Labcodes e desenvolvedor web por mais de seis anos. Já trabalhou com agências de publicidade, startups, estúdio de software e como consultor, sempre focado na camada do cliente. Tem interesse em exibição de dados utilizando mapas e nas horas vagas vem atuando como beer sommelier."
+  thumbnailUrl: thulio.jpg 
+  rockstar: true
+  ribbon:
+    - {abbr: "Labcodes", title: "Labcodes, Front-end Engineer", url: "https://www.labcodes.com.br/"}
+  social:
+    - {name: "github", link: "https://github.com/thulioph"}
+    - {name: "linkedin", link: "http://linkedin.com/in/thulioph"}
+-
+  id: 17
+  name: "Eduarda " 
+  surname: "Scharnhorst"
+  company: "IDwall"
+  title: "Front-end Engineer"
+  bio: "Desenvolvedora Front End na IDwall, empresa de segurança e tecnologia referência em validação de identidade. Já trabalhou na In Loco, uma das tecnologias de localização mais precisas do mercado, como Martech com foco em desenvolvimento web e análise de dados. Também já foi participante do Apple Developers Academy at UFPE e organizadora de eventos como Startup Weekend, DevFest XP e Stanford Women in Data Science."
+  thumbnailUrl: eduarda.jpg 
+  rockstar: true
+  ribbon:
+    - {abbr: "IDwall", title: "IDwall, Front-end Engineer", url: "https://idwall.co/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eduardascharnhorst/"}
