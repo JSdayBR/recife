@@ -170,24 +170,25 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://forms.gle/sHa8gomzQC7sSgDB9", text: "Seja um voluntário"}
-   - {link: "https://goo.gl/forms/6kiJlTmUivVu9SVE3", text: "Inscreva sua palestra"}
+   - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Inscreva sua palestra"}
+   - {link: "http://rec.jsday.com.br/assets/JSDayRecife2019ProjetoExecutivo.pdf", text: "Projeto executivo"}
    #- {link: "https://goo.gl/FkZGNL", text: "Nosso Midiakit"}
    - {link: "https://www.ficr.edu.br/", text: "Faculdade Imaculada Conceição do Recife - FICR"}
    #- {link: "https://www.udacity.com/", text: "Udacity"}
    #- {link: "https://www.maxmilhas.com.br/", text: "MaxMilhas"}
    #- {link: "http://www.stone.com.br/", text: "Stone"}
    #- {link: "http://artics.com.br/", text: "Artics"}
- -
-  title: "Edições Anteriores"
-  links:
-   - {link: "http://rio.jsday.com.br", text: "Rio 2018"}
-   - {link: "http://fsa.jsday.com.br", text: "Feira de Santana 2018"}
-   - {link: "http://fsa.jsday.com.br/2017", text: "Feira de Santana 2017"}
-   - {link: "http://rec.jsday.com.br/2017", text: "Recife 2017"}
-   - {link: "http://rec.jsday.com.br/2016", text: "Recife 2016"}
-   - {link: "http://rec.jsday.com.br/2015", text: "Recife 2015"}
-   - {link: "http://cg.jsday.com.br", text: "Campina Grande 2016"}
-   - {link: "http://mcz.jsday.com.br", text: "Maceió 2015"}
+ #-
+  #title: "Edições Anteriores"
+  #links:
+  # - {link: "http://rio.jsday.com.br", text: "Rio 2018"}
+  # - {link: "http://fsa.jsday.com.br", text: "Feira de Santana 2018"}
+  # - {link: "http://fsa.jsday.com.br/2017", text: "Feira de Santana 2017"}
+  # - {link: "http://rec.jsday.com.br/2017", text: "Recife 2017"}
+  # - {link: "http://rec.jsday.com.br/2016", text: "Recife 2016"}
+  # - {link: "http://rec.jsday.com.br/2015", text: "Recife 2015"}
+  # - {link: "http://cg.jsday.com.br", text: "Campina Grande 2016"}
+  # - {link: "http://mcz.jsday.com.br", text: "Maceió 2015"}
  -
   title: "Contato"
   links:
