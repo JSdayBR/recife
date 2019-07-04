@@ -38,10 +38,10 @@
   complexity: "Advanced"
 -
   id: 101
-  title: "Watson API's integrados via Node.js em Cloud functions"
-  description: "Será mostrado como desenvolver soluções com Inteligência Artificial utilizando as principais API's do Watson, e como integrá-las utilizando Node.js em Cloud Functions"
+  title: "DevOps, Cloud Native, Containers e JavaScript"
+  description: "Em um mundo onde só se fala sobre DevOps, Cloud Native e Containers falarei sobre o futuro das aplicações JavaScript com essa nova abordagem e o que o mercado espera que você conheça como desenvolvedor de software ou arquiteto. Farei uma pequena POC demonstrando como colocar uma aplicação JavaScript em Container e como subir na nuvem no OpenShift."
   subtype: presentation
-  speakers: []
+  speakers: [1]
   complexity: "Intermediate"
 
 # Codelabs

@@ -5,10 +5,23 @@
   company: "Finqle B.V. / Holanda"
   title: "Lead Front-end Developer"
   bio: "Front-end desde os tempos do IE6, Venho acompanhando a evolucao da web (e evoluindo com ela) desde entao. Apaixonado por series, filmes, futebol tem como missao compartilhar o que aprendeu nos ultimos anos com a comunidade. Trabalha na Finqle. B.V. na Holanda desde 2018."
-  thumbnailUrl: leonardoAlmeida.jpeg
+  thumbnailUrl: leonardoAlmeida.jpg
   rockstar: true
   ribbon:
     - {abbr: "Finqle B.V. / Holanda", title: "Lead Front-end Developer", url: "https://www.finqle.nl/"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/lalmeida1985/"}
     - {name: "github", link: "https://github.com/lhew"}
+-
+  id: 1
+  name: "Yelken"
+  surname: "Gonzales"
+  company: "G3 Solutions"
+  title: "Arquiteto de Middleware Red Hat"
+  bio: "Atua na área de desenvolvimento há 13 anos atualmente é Arquiteto de Middleware Red Hat trabalhando com DevOps, Cloud Native, Integrações e arquitetura de software. Especialista de JAVA com certificação OCJP. Participante ativo de Hackathons, tendo ao todo 39 desde que iniciou na carreira de desenvolvimento. Formado em Sistemas de Informação pela Faculdade Santa Maria, pós graduado em Segurança da Informação na UNIBRATEC e terminando um MBA em Arquitetura de Software. Ama música, tecnologia, esportes e gosta muito de comer como todo NERD."
+  thumbnailUrl: yelken.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "G3 Solutions", title: "Arquiteto de Middleware Red Hat", url: "http://g3solutions.com.br/"}
+  social:
+    - {name: "github", link: "github.com/yelken"}
