@@ -74,7 +74,7 @@ aboutBlock:
  - {title: "Networking", class: "parallelogram", image: "networking.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte." }
 
 # Statistic Block
-statisticBlockImage: ""
+statisticBlockImage: "bgtransparent2019.png"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "Participantes", detail: "Empresas, profissionais e estudantes"}
  - {count: "+16", specialCharacter: "+", info: "Palestras", detail: "Duas trilhas com tópicos incríveis"}
@@ -85,9 +85,10 @@ statisticBlock:
 latestNewsTitle: "Novidades"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "bgtransparent2019.png"
+rockstarSpeakersImage: ""
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "JavaScript Experts"
+rockstarSpeakersTitle: "JS Experts"
+rockstarSpeakersSubTitle: "Palestras com alguns dos melhores especialistas da área, mesclamos atrações locais com internacionais e também selecionamos pelo nosso call for papers."
 rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block

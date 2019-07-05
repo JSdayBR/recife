@@ -1,17 +1,19 @@
-$rockstar-image-size: 140px;
-$small-rockstar-image-size: 120px;
+$rockstar-image-size: 200px;
+$small-rockstar-image-size: 130px;
 
 .rockstar-speakers {
+    background: #000;
     .name {
-        font-size: 26px;
+        font-weight: bolder;
+        font-size: 20px;
         line-height: 1.1;
         margin: 10px 0 2px;
         @media (max-width: 767px) {
-            font-size: 20px;
+            font-size: 19px;
         }
     }
     .sub {
-        font-size: $base-font-size * 1.4;
+        font-size: 18px;
         margin: 0 0 15px;
         color: $link-color;
         @media (max-width: 767px) {
@@ -23,11 +25,45 @@ $small-rockstar-image-size: 120px;
     padding-bottom: 13px;
 }
 .rockstar-speaker-img {
+    transition: all 0.4s ease-in-out;
     width: $rockstar-image-size;
     height: $rockstar-image-size;
+    -webkit-filter: grayscale(100%) sepia(90%) saturate(300%);
+      filter: grayscale(100%)  sepia(90%) saturate(300%);
+    // new styles
+
+    -webkit-clip-path: polygon(0% 0%, 100% 5%, 100% 100%, 0% 95%);
+    clip-path: polygon(0% 0%, 100% 5%, 100% 100%, 0% 95%);
     margin: 0 auto;
     @media (max-width: 767px) {
         width: $small-rockstar-image-size;
         height: $small-rockstar-image-size;
     }
+}
+.rockstar-speaker-img:hover {
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+    -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+}
+
+.rockstar-speaker-about {
+    max-width: 339px;
+    text-align: right;
+    .title {
+        font-weight: bolder;
+        font-size: 26px;
+    }
+
+}
+.rockstar-speakers-list {
+    display: flex;
+}
+
+.bt-parallelogram {
+    display: inline-block;
+    color: #000;
+    background: #f4de50;
+    -webkit-clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
+    clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
 }
