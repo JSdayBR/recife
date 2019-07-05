@@ -25,15 +25,15 @@ organizerName: "JSday Recife"
 # organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "O JSday é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 organizerEmail: "jsdaybr@gmail.com"
-# organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/organizer-logo.jpg"
 # organizerLink: "#"
 
 # Head
 metaKeywords: "event, javascript, js, angularjs, reactjs, accessibility, google maps, ionic, firebase, aplicativos híbridos, nodebots"
 twitterAccount: "@jsdaybr"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.jpg"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.jpg"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.jpg"
 
 # Documents
 c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2019"
