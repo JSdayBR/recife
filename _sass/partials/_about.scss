@@ -1,10 +1,34 @@
 .about-details {
+
     img {
         width: 128px;
     }
     p {
+        text-align: left;
         margin-top: 10px;
     }
+}
+
+.aboutSection {
+
+    h5 {
+        text-align: right;
+        font-weight: bolder;
+    }
+    p {
+        text-align: right;
+    }
+    
+}
+.parallelogram h5 {
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: bolder;
+    font-style: italic;
+    background: #fdf202;
+    padding: 5px;
+    -webkit-clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
+    		clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
 }
 
 .cfp-step-by-step {
