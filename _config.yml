@@ -171,14 +171,10 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://forms.gle/sHa8gomzQC7sSgDB9", text: "Seja um voluntário"}
-   - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Inscreva sua palestra"}
-   - {link: "http://rec.jsday.com.br/assets/JSDayRecife2019ProjetoExecutivo.pdf", text: "Projeto executivo"}
-   #- {link: "https://goo.gl/FkZGNL", text: "Nosso Midiakit"}
-   - {link: "https://www.ficr.edu.br/", text: "Faculdade Imaculada Conceição do Recife - FICR"}
-   #- {link: "https://www.udacity.com/", text: "Udacity"}
-   #- {link: "https://www.maxmilhas.com.br/", text: "MaxMilhas"}
-   #- {link: "http://www.stone.com.br/", text: "Stone"}
+   - {link: "https://www.ficr.edu.br/", text: "FICR"}
+   - {link: "https://www.vtex.com/", text: "Vtex"}
+   - {link: "https://www.linx.com.br/", text: "Linx"}
+   - {link: "https://talentos.globo.com/", text: "Globo.com"}
    #- {link: "http://artics.com.br/", text: "Artics"}
  #-
   #title: "Edições Anteriores"
@@ -199,7 +195,9 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   #- {link: "https://goo.gl/FkZGNL", text: "Como patrocinar? Leia o nosso Midiakit!"}
+   - {link: "https://forms.gle/sHa8gomzQC7sSgDB9", text: "Seja um voluntário"}
+   - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Inscreva sua palestra"}
+   - {link: "http://rec.jsday.com.br/assets/JSDayRecife2019ProjetoExecutivo.pdf", text: "Projeto executivo"}
    - {link: "http://pt-br.confcodeofconduct.com/", text: "Código de Conduta"}
 #   - {link: "http://womentechmakers.com", text: "WTM (Women Techmakers)"}
 
