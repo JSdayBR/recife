@@ -21,12 +21,13 @@
     
 }
 .parallelogram h5 {
+    display: table;
     text-transform: uppercase;
     font-size: 24px;
     font-weight: bolder;
     font-style: italic;
     background: #fdf202;
-    padding: 5px;
+    padding: 5px 10px;
     -webkit-clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
     		clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
 }
