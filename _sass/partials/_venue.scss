@@ -1,6 +1,18 @@
 #venue {
     background: #e7e7e7;
 }
+
+.venue-img {
+    transition: all 0.5s ease-in-out;
+    -webkit-filter: grayscale(100%);
+      filter: grayscale(100%);
+}
+
+.venue-img:hover {
+    -webkit-filter: grayscale(0%);
+      filter: grayscale(0%);
+}
+
 .venue-col {
     height: 100%;
     padding: 0;
