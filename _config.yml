@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "bghero.png"
 heroTitle: "<typeout>"
 eventDate: "14 de Dezembro, 2019"
-typeoutTextValues: '"JSday Recife 2019", "ReactJS", "Angular", "Ciclo de vida de um modulo npm"'
+typeoutTextValues: '"JSday Recife 2019", "ReactJS", "Angular", "Ciclo de vida de um modulo npm","DevOps, Cloud Native, Containers e JavaScript"'
 typeoutFallback: "JSday Recife 2019"
 heroButtons:
 - {link: "https://www.sympla.com.br/jsday-recife-2019__533369", text: "Inscreva-se.now(&#9829;)"}
