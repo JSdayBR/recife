@@ -54,10 +54,18 @@ $small-rockstar-image-size: 130px;
         font-weight: bolder;
         font-size: 26px;
     }
+    @media (max-width: 767px) {
+        max-width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
 
 }
 .rockstar-speakers-list {
     display: flex;
+    @media (max-width: 767px) {
+        display: block;
+    }
 }
 
 .bt-parallelogram {
