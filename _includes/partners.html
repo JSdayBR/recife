@@ -5,7 +5,7 @@
             <h3>{{ site.partnersTitle }}</h3>
             <a href="mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2019" target="_blank" class="bottom-section-link waves-effect waves-button waves-ligh">Seja um patrocinador</a>
             {% for partner in site.data.partners %}
-            <h5>{{ partner.group }}</h5>
+            <!-- <h5>{{ partner.group }}</h5>-->
             <ul class="list-inline">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>

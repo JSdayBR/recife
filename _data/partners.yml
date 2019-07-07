@@ -9,11 +9,11 @@
   group: ""
   elements:
     - {name: "Linx", description: "Linx", link: "https://www.linx.com.br/", imageUrl: "linx.png", width: "350px"}
+    - {name: "Globo.com", description: "Globo.com.", link: "https://talentos.globo.com/", imageUrl: "gcom.png", width: "250px"}
     
 -
   group: ""
   elements:
-    - {name: "Globo.com", description: "Globo.com.", link: "https://talentos.globo.com/", imageUrl: "gcom.png", width: "250px"}
 #    - {name: "Max Milhas", description: "Um novo jeito de voar com milhas aéreas", link: "http://www.maxmilhas.com.br/", imageUrl: "maxmilhas.png", width: "250px"}
 #    - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
 #    - {name: "Stone Pagamentos", description: "Stone - Porque tudo evolui", link: "http://www.stone.com.br/", imageUrl: "stone.png", width: "250px"}

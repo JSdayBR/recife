@@ -74,7 +74,7 @@ aboutBlock:
  - {title: "Networking", class: "parallelogram", image: "networking.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte." }
 
 # Statistic Block
-statisticBlockImage: "bgtransparent2019.png"
+statisticBlockImage: ""
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "Participantes", detail: "Empresas, profissionais e estudantes"}
  - {count: "+16", specialCharacter: "+", info: "Palestras", detail: "Duas trilhas com tópicos incríveis"}
@@ -88,7 +88,7 @@ latestNewsTitle: "Novidades"
 rockstarSpeakersImage: ""
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "JS Experts"
-rockstarSpeakersSubTitle: "Palestras com alguns dos melhores especialistas da área, mesclamos atrações locais com internacionais e também selecionamos pelo nosso call for papers."
+rockstarSpeakersSubTitle: "Palestras com alguns dos melhores especialistas da área. Mesclamos atrações locais com internacionais e também selecionamos pelo nosso call for papers."
 rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
@@ -134,14 +134,14 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Inscreva-se.now()"
+ticketsTitle: "Ingressos"
 ticketsOffers:
  -
   name: "Early JS Lovers"
   price: "R$ 70"
   priceCurrency: ""
   buyButtonLink: "https://www.sympla.com.br/jsday-recife-2019__533369"
-  buyButtonText: "Comprar"
+  buyButtonText: "Esgotado"
   validFrom: "YYYY-MM-DDThh:mm"
   validThrough: "YYYY-MM-DDThh:mm"
  -
