@@ -43,6 +43,20 @@
   subtype: presentation
   speakers: [1]
   complexity: "Intermediate"
+-
+  id: 102
+  title: "Utilizando chatbots no desenvolvimento de interfaces do usuário em soluções de Internet das Coisas"
+  description: "Em toda solução que será utilizada por um humanos, uma das etapas que requer atenção especial é aquela responsável pela interação entre o usuário e o sistema. Nas soluções de IoT isso não é diferente, seja para ligar uma lâmpada no interruptor ou através de uma aplicativo, requisitos não funcionais como usabilidade se tornam desafios interessantes. A utilização de um chatbot em redes sociais e aplicativos já conhecidos pela sociedade apresenta-se como bom potencial de solução, pois os usuários já estão familiarizados e as utilizam diariamente. Essa palestra visa apresentar como desenvolver uma solução de IoT utilizando o chatbot do Telegram API e serviços do IBM Watson integrados com a meta-plataforma KNoT criada pelo C.E.S.A.R."
+  subtype: presentation
+  speakers: [2]
+  complexity: "Intermediate"
+-
+  id: 103
+  title: "Porque Débito Técnico vai estragar teu software"
+  description: "Um dos mais importantes fatores responsáveis por denegrir a qualidade interna de softwares é o Débito Técnico, a má qualidade de software tornou-se um dos tópicos mais caros da história da humanidade e estamos acostumados a pensar que o Débito Técnico se resume apenas em código ruim ou feio, com essa palestra quero propor uma visão mais ampla do que podemos chamar de Débito Técnico em uma era de Software Sustentável, como podemos identificar gargalos que estão gerando mais débito e então como lidar com isso."
+  subtype: presentation
+  speakers: [3]
+  complexity: "Intermediate"
 
 # Codelabs
 -

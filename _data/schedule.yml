@@ -15,12 +15,12 @@
     - {
         startTime: "9:00",
         endTime: "9:35",
-        sessionIds: [100,101]
+        sessionIds: [100,102]
     }
     - {
         startTime: "9:40",
         endTime: "10:15",
-        sessionIds: [006, 006]
+        sessionIds: [101, 103]
     }
     - {
         startTime: "10:15",

@@ -25,3 +25,29 @@
     - {abbr: "G3 Solutions", title: "Arquiteto de Middleware Red Hat", url: "http://g3solutions.com.br/"}
   social:
     - {name: "github", link: "github.com/yelken"}
+-
+  id: 2
+  name: "Joédyson"
+  surname: "Bezerra"
+  company: "Smart Labs"
+  title: "Software Engineer"
+  bio: "Desenvolvedor mobile, front-end e back-end web e cursando Sistemas de Informação na UPE - Campus Caruaru e pesquisando e aprendendo cada vez mais sobre Internet das coisas no projeto de pesquisa SMART-Labs que é um laboratório de prototipação de IoT localizado no armazém da criatividade (Porto Digital de Caruaru)."
+  thumbnailUrl: bezerra.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Smart Labs", title: "Software Engineer", url: ""}
+  social:
+    - {name: "github", link: "https://github.com/joedysonbezerra"}
+-
+  id: 3
+  name: "Luan"
+  surname: "Fonseca"
+  company: "Labcodes"
+  title: "Engenheiro de Software"
+  bio: "Natalense naturalizado recifense, trabalha com Python desde 2012, atualmente Engenheiro de Software na Labcodes. Fundador do Speakerfight.com e sommelier de prévia de carnaval."
+  thumbnailUrl: luan.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Labcodes", title: "Engenheiro de Software", url: "https://labcodes.com.br/"}
+  social:
+    - {name: "github", link: "https://github.com/luanfonceca"}
