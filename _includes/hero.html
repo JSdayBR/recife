@@ -1,5 +1,5 @@
 <!-- Begin Hero Section -->
-<section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.heroImage }});">
+<section id="top-section-hero" class="top-section-hero top-section image-section">
 
     {% include navigation.html %}
     <div class="content-wrapper">
@@ -11,6 +11,7 @@
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
+            
         </div>
     </div>
     <a href="#about" class="explore">
