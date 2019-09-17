@@ -5,6 +5,14 @@
     <div class="content-wrapper">
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+            <div class="logo2019"></div>
+            <ul class="subTitle2019">
+                <li>Recife</li>
+                <li class="dot">.</li>
+                <li>14 DEZ 2019</li>
+                <li class="dot">.</li>
+                <li>FICR</li>
+            </ul>
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <p>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</p>
             <!-- <p>{{ site.eventDate }}</p>-->
