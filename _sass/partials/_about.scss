@@ -10,13 +10,15 @@
 }
 
 .aboutSection {
-
+    text-align: right;
+    margin-right: 1%;
     h5 {
-        text-align: right;
+        
         font-weight: bolder;
     }
-    p {
-        text-align: right;
+    @media (max-width: 767px) {
+        text-align: center;
+        padding: 0 8%;
     }
     
 }
