@@ -3,6 +3,14 @@ $small-rockstar-image-size: 130px;
 
 .rockstar-speakers {
     background: #000;
+
+    .rockstar-speakers-item:nth-child(3) {
+        display: none !important;
+        @media (max-width: 767px) {
+            display: block !important;
+        }
+    }
+
     .name {
         font-weight: bolder;
         font-size: 20px;
