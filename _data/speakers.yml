@@ -51,3 +51,17 @@
     - {abbr: "Labcodes", title: "Engenheiro de Software", url: "https://labcodes.com.br/"}
   social:
     - {name: "github", link: "https://github.com/luanfonceca"}
+-
+  id: 4
+  name: "Bernardo"
+  surname: "Hazin"
+  company: "Mesa Inc"
+  title: "Software Developer"
+  bio: "My name is Bernardo Hazin and I work in web application development. I like to actively participate in the process of creating, maintaining projects and of course developing them. I'm a quiet and challenging person who loves JS and indent code with spaces. I'm always trying to improve my skills and follow the new the features and insights of the community."
+  thumbnailUrl: bernardo.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Mesa Inc", title: "Software Developer", url: "http://www.mesainc.com.br/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bernardo-hazin-744569100/"}
+    - {name: "twitter", link: "https://twitter.com/bernardohazin"}

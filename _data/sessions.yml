@@ -57,6 +57,13 @@
   subtype: presentation
   speakers: [3]
   complexity: "Intermediate"
+-
+  id: 104
+  title: "Uma análise sobre REST e GraphQL utilizando Node.js"
+  description: "Entenda como esses dois conceitos se encaixam no desenvolvimento da sua API, suas propostas, características, propriedades e benefícios que cada uma leva ao seu sistema. Saiba o que levar em consideração na sua escolha e como REST e GraphQL impactam na relação cliente-servidor e no desenvolvimento da sua aplicação Node."
+  subtype: presentation
+  speakers: [4]
+  complexity: "Intermediate"
 
 # Codelabs
 -
