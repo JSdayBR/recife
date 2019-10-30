@@ -59,9 +59,24 @@
   title: "Software Developer"
   bio: "My name is Bernardo Hazin and I work in web application development. I like to actively participate in the process of creating, maintaining projects and of course developing them. I'm a quiet and challenging person who loves JS and indent code with spaces. I'm always trying to improve my skills and follow the new the features and insights of the community."
   thumbnailUrl: bernardo.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "Mesa Inc", title: "Software Developer", url: "http://www.mesainc.com.br/"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/bernardo-hazin-744569100/"}
     - {name: "twitter", link: "https://twitter.com/bernardohazin"}
+-
+  id: 5
+  name: "Amanda"
+  surname: "Vilela"
+  company: "Toptal"
+  title: "Front-End Developer"
+  bio: "Desenvolvedora front-end e UI designer há mais de 7 anos, atualmente trabalha como freelancer na Toptal. Organizadora do GDG Sorocaba, SorocabaCSS, Rails Girls Sorocaba e alguns meetups da região. Adora compartilhar conhecimento e se envolver em projetos de inclusão na área de tecnologia."
+  thumbnailUrl: amanda.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Toptal", title: "Front-End Developer", url: "https://www.toptal.com"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amanda-vilela"}
+    - {name: "github", link: "https://github.com/amandavilela"}
+    - {name: "twitter", link: "https://twitter.com/amandavilela___"}

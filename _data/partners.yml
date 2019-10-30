@@ -2,7 +2,8 @@
   group: ""
   elements:
     - {name: "FICR", description: "Faculdade Imaculada Conceição do Recife", link: "https://www.ficr.edu.br/", imageUrl: "ficr.png", width: "410px"}
-    - {name: "Vtex", description: "Unified commerce platform for unified businesses.", link: "https://www.vtex.com/", imageUrl: "vtex.svg", width: "440px"}
+    - {name: "Vtex", description: "Unified commerce platform for unified businesses.", link: "https://www.vtex.com/", imageUrl: "vtex.svg", width: "460px"}
+    - {name: "Toptal", description: "Toptal enables start-ups, businesses, and organizations to hire freelancers from a growing network of top talent in the world.", link: "https://www.toptal.com/", imageUrl: "toptal.png", width: "440px"}
 
 #    - {name: "ThoughtWorks", description: "Uma comunidade de pessoas apaixonadas com o propósito de revolucionar o design e a criação de software, enquanto defendemos uma mudança social positiva.", link: "https://www.thoughtworks.com/pt/", imageUrl: "tw-logo.png", width: "430px"}
 -

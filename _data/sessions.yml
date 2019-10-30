@@ -64,6 +64,13 @@
   subtype: presentation
   speakers: [4]
   complexity: "Intermediate"
+-
+  id: 105
+  title: "Web Performance: Não deixe o usuário desistir do seu site"
+  description: "O tempo de carregamento é classificado com os critérios importantes e mais esperados pelos usuários ao entrar em um site. Tendo isso em mente não podemos deixar os usuários escaparem uma vez que eles encontram nosso site. Nesta palestra veremos dicas e exemplos práticos sobre como melhorar a performance do seu site."
+  subtype: presentation
+  speakers: [5]
+  complexity: "Intermediate"
 
 # Codelabs
 -
