@@ -78,6 +78,13 @@
   subtype: presentation
   speakers: [6]
   complexity: "Beginner"
+-
+  id: 107
+  title: "React Native, construindo aplicativos com JavaScript"
+  description: "Sabia que é possível programar aplicativos mobile em JavaScript? E o melhor, que esses aplicativos podem rodar tendo em Android quanto iOS? Nesse talk iremos conhecer o React Native, um framework híbrido de desenvolvimento mobile."
+  subtype: presentation
+  speakers: [7]
+  complexity: "Beginner"
 # Codelabs
 -
   id: 200

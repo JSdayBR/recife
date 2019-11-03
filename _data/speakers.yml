@@ -94,3 +94,17 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/rafael-gomes-amorim/"}
     - {name: "twitter", link: "https://twitter.com/rafiuske"}
+-
+  id: 7
+  name: "Otacilio"
+  surname: "Maia"
+  company: "CESAR"
+  title: "Engenheiro de Software"
+  bio: "Engenheiro de software no Cesar, estudante de ciência da computação, GitHub Campus Expert, Facebook Developer Circle Recife Leader."
+  thumbnailUrl: otacilio.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "CESAR", title: "Engenheiro de Software", url: "https://www.cesar.org.br/"}
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/otacilio"}
+    - {name: "github", link: "https://github.com/OtacilioN"}
