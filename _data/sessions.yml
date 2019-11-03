@@ -71,7 +71,13 @@
   subtype: presentation
   speakers: [5]
   complexity: "Intermediate"
-
+-
+  id: 106
+  title: "Todo site merece um service-worker"
+  description: "Seu site funciona offline? Se não, deveria. Entenda os benefícios da utilização do service-worker em executar boas práticas para manter seu site funcionando mesmo em redes com baixa latência e até mesmo sem conexão alguma. Descubra como fazer seu site funcionar offline e proporcionar uma melhor experiência para o usuário na navegação do seu web app. Abordaremos algumas Web APIs e conceitos da Web moderna que auxiliam no melhor desenvolvimento do seu app, utilizando todos os recursos necessário para tornar a jornada do usuário mais satisfatória em um aplicativo da web."
+  subtype: presentation
+  speakers: [6]
+  complexity: "Beginner"
 # Codelabs
 -
   id: 200

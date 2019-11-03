@@ -80,3 +80,17 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/amanda-vilela"}
     - {name: "github", link: "https://github.com/amandavilela"}
     - {name: "twitter", link: "https://twitter.com/amandavilela___"}
+-
+  id: 6
+  name: "Rafael"
+  surname: "Amorim"
+  company: "Instituto de Pesquisas Eldorado"
+  title: "Analista de Software / Líder Técnico"
+  bio: "Namastê! Apelidado de \"indiano\" carinhosamente pelos meus amigos de trabalho, gosto bastante de desenvolvimento de interfaces web e mobile. Apaixonado pelo front-end e user experiences estou sempre a procura de me manter atualizado ao cenário da web mordena. Atualmente trabalho no Instituto de Pesquisas Eldorado, sou Analista de Software e atuo como líder técnico no meu time. Trabalhei em diversos projetos internacionais e nacionais, trabalhando com tecnologias diversas como C++, Java, Java para Android, Kotlin para Andorid, Javascript, Node JS, C# .NET e dentre outras. No momento em um projeto web com o framework React. Nas horas vagas sou músico, toco bateria/cajon, e atualmente amante das corridas de rua."
+  thumbnailUrl: rafaelamorim.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Instituto de Pesquisas Eldorado", title: "Analista de Software / Líder Técnico", url: "https://www.eldorado.org.br/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rafael-gomes-amorim/"}
+    - {name: "twitter", link: "https://twitter.com/rafiuske"}
