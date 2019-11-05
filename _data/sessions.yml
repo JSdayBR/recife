@@ -94,7 +94,7 @@
   complexity: "Intermediate"
 -
   id: 109
-  title: "A web evoluiu e os testes também 🙂"
+  title: "A web evoluiu e os testes também 🙂 "
   description: "Cypress é uma ferramenta de teste que torna mais fácil, rápido e confiável a forma que escrevemos testes para qualquer aplicação que seja executada no browser. Para finalizar, irei realizar uma pequena demonstração do uso da ferramenta e como a utilizamos dentro do iFood. Com Cypress você testa seu código, não sua paciência."
   subtype: presentation
   speakers: [9]
