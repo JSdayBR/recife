@@ -85,6 +85,28 @@
   subtype: presentation
   speakers: [7]
   complexity: "Beginner"
+-
+  id: 108
+  title: "Gerenciamento de estado com Observer Pattern e React Hooks"
+  description: "Observer Pattern é uma das bases da programação reativa. Somado ao React Hooks, esse padrão pode nos gerar uma alternativa ao gerenciamento de estado de aplicações front-end muito leve. Como implantação pratica desses princípios, apresentaremos também o use-global-hook, um gerenciador de estado mais amigável que o Redux e mais performático que o Context API."
+  subtype: presentation
+  speakers: [8]
+  complexity: "Intermediate"
+-
+  id: 109
+  title: "A web evoluiu e os testes também 🙂"
+  description: "Cypress é uma ferramenta de teste que torna mais fácil, rápido e confiável a forma que escrevemos testes para qualquer aplicação que seja executada no browser. Para finalizar, irei realizar uma pequena demonstração do uso da ferramenta e como a utilizamos dentro do iFood. Com Cypress você testa seu código, não sua paciência."
+  subtype: presentation
+  speakers: [9]
+  complexity: "Intermediate"
+-
+  id: 110
+  title: "Quartinho: Construindo uma CDN do Nubank"
+  description: "Na talk iremos mostrar como foi o processo de construção de uma CDN in-house do Nubank, da identificação do problema a ser resolvido, passando pelo desenvolvimento técnico até os resultados. Antes do Quartinho o website do Nubank era utilizado como depósito de arquivos estáticos, como js, css e imagens que não pertenciam ao contexto do projeto. O que acarretava aumento do bundle, manutenção dos assets e dependência do squad responsável pelo site. O Quartinho, como apelidamos o projeto, foi criado com o objetivo de remover esses arquivos do website, com ferramentas já utilizadas e conhecidas pelo time de engenharia. E trouxe como ganho a autonomia e agilidade para pessoas que necessitavam servir arquivos estáticos e ter controle sobre os mesmos."
+  subtype: presentation
+  speakers: [10]
+  complexity: "Intermediate"
+
 # Codelabs
 -
   id: 200

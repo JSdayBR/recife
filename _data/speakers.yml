@@ -20,7 +20,7 @@
   title: "Arquiteto de Middleware Red Hat"
   bio: "Atua na área de desenvolvimento há 13 anos atualmente é Arquiteto de Middleware Red Hat trabalhando com DevOps, Cloud Native, Integrações e arquitetura de software. Especialista de JAVA com certificação OCJP. Participante ativo de Hackathons, tendo ao todo 39 desde que iniciou na carreira de desenvolvimento. Formado em Sistemas de Informação pela Faculdade Santa Maria, pós graduado em Segurança da Informação na UNIBRATEC e terminando um MBA em Arquitetura de Software. Ama música, tecnologia, esportes e gosta muito de comer como todo NERD."
   thumbnailUrl: yelken.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "G3 Solutions", title: "Arquiteto de Middleware Red Hat", url: "http://g3solutions.com.br/"}
   social:
@@ -33,7 +33,7 @@
   title: "Software Engineer"
   bio: "Desenvolvedor mobile, front-end e back-end web e cursando Sistemas de Informação na UPE - Campus Caruaru e pesquisando e aprendendo cada vez mais sobre Internet das coisas no projeto de pesquisa SMART-Labs que é um laboratório de prototipação de IoT localizado no armazém da criatividade (Porto Digital de Caruaru)."
   thumbnailUrl: bezerra.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "Smart Labs", title: "Software Engineer", url: ""}
   social:
@@ -46,7 +46,7 @@
   title: "Engenheiro de Software"
   bio: "Natalense naturalizado recifense, trabalha com Python desde 2012, atualmente Engenheiro de Software na Labcodes. Fundador do Speakerfight.com e sommelier de prévia de carnaval."
   thumbnailUrl: luan.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "Labcodes", title: "Engenheiro de Software", url: "https://labcodes.com.br/"}
   social:
@@ -108,3 +108,47 @@
   social:
     - {name: "linkedin", link: "https://br.linkedin.com/in/otacilio"}
     - {name: "github", link: "https://github.com/OtacilioN"}
+-
+  id: 8
+  name: "André"
+  surname: "Gardi Koury"
+  company: "Pitang"
+  title: "Engenheiro de Software"
+  bio: "Engenheiro de software"
+  thumbnailUrl: andre.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "Pitang", title: "Engenheiro de Software", url: "https://www.cesar.org.br/"}
+  #social:
+  #  - {name: "linkedin", link: "https://br.linkedin.com/in/otacilio"}
+  #  - {name: "github", link: "https://github.com/OtacilioN"}
+-
+  id: 9
+  name: "Pedro"
+  surname: "Neto"
+  company: "iFood"
+  title: "Engenheiro de Software"
+  bio: "Sou engenheiro de software no iFood, graduado em Sistemas de Informação na UFPE. Sou um dois organizadores da comunidade React Recife e costumo participar bastante de hackathons. Gosto de está presente nos eventos das comunidades local e nas horas vagas sou player amador de CS:GO e percussionista/pagodeiro."
+  thumbnailUrl: pedro.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "iFood", title: "Engenheiro de Software", url: "https://www.ifood.com.br/"}
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/pedrojsn96"}
+    - {name: "github", link: "https://github.com/pedrojsn96"}
+    - {name: "twitter", link: "https://twitter.com/pedrojsn96"}
+-
+  id: 10
+  name: "Eduarda"
+  surname: "Scharnhorst"
+  company: "Nubank"
+  title: "UI Engineer"
+  bio: "Recifense, mas me aventurando por São Paulo há 1 ano. Sou UI Engineer no Nubank e trabalho com web desde 2016, quando me apaixonei por desenvolvimento e decidir migrar de administração para computação."
+  thumbnailUrl: eduarda.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Nubank", title: "UI Engineer", url: "https://nubank.com.br/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dudaschar/"}
+    - {name: "github", link: "https://github.com/dudaschar/"}
+    - {name: "twitter", link: "https://twitter.com/dudaschar"}
