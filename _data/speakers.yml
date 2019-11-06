@@ -115,7 +115,7 @@
   company: "Pitang"
   title: "Engenheiro de Software"
   bio: "Engenheiro de software especializado em desenvolvimento web, atualmente trabalhando na Pitang. Entusiasta de JavaScript e todos os Framework de front-end. Sempre curioso sobre as tecnologias mais atualizadas."
-  thumbnailUrl: andre.jpg
+  thumbnailUrl: andreGardi.jpg
   rockstar: false
   ribbon:
     - {abbr: "Pitang", title: "Engenheiro de Software", url: "https://www.cesar.org.br/"}
