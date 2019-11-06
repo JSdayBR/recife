@@ -114,14 +114,14 @@
   surname: "Gardi Koury"
   company: "Pitang"
   title: "Engenheiro de Software"
-  bio: "Engenheiro de software"
+  bio: "Engenheiro de software especializado em desenvolvimento web, atualmente trabalhando na Pitang. Entusiasta de JavaScript e todos os Framework de front-end. Sempre curioso sobre as tecnologias mais atualizadas."
   thumbnailUrl: andre.jpg
   rockstar: false
   ribbon:
     - {abbr: "Pitang", title: "Engenheiro de Software", url: "https://www.cesar.org.br/"}
-  #social:
-  #  - {name: "linkedin", link: "https://br.linkedin.com/in/otacilio"}
-  #  - {name: "github", link: "https://github.com/OtacilioN"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/andr%C3%A9-gardi-37489a173/"}
+    - {name: "github", link: "https://github.com/andregardi"}
 -
   id: 9
   name: "Pedro"
