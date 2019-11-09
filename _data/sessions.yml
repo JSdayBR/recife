@@ -106,6 +106,34 @@
   subtype: presentation
   speakers: [10]
   complexity: "Intermediate"
+-
+  id: 111
+  title: "O desafio de ser mulher na área de TI, vindo de outra área profissional e começando do zero"
+  description: "Desafios de quem sai de um contexto profissional estável, começa a estudar TI do zero, o engajamento com o ambiente acadêmico e com as comunidades de tecnologia e como as comunidades de tecnologia podem te beneficiar. Ser mulher neste contexto, o engajamento feminino na comunidade JavaScript."
+  subtype: presentation
+  speakers: [11]
+  complexity: "Beginner"
+-
+  id: 112
+  title: "Do's & Don'ts em JavaScript: 15 boas práticas"
+  description: "Nessa lightning talk, vou compartilhar 15 boas práticas rápidas pra melhorarem a qualidade do seu código JavaScript no dia a dia de trabalho."
+  subtype: presentation
+  speakers: [12]
+  complexity: "Beginner"
+-
+  id: 113
+  title: "Sobrevivência Financeira do PJ/Freela"
+  description: "Gostaria de levantar alguns tópicos frequentes em discussões sobre a vida do PJ e que são muito pouco divulgados, como:  Necessidade de uma reserva financeira (na falta do FGTS e INSS); A lógica do 13o e como incorporar isso no cálculo de propostas \"salariais\"; Como tirar férias \"remuneradas\"; O fluxo de grana mensal quando o recebimento é variável; Mencionar os benefícios do INSS pra acidentes, e outros seguros de emergências"
+  subtype: presentation
+  speakers: [13]
+  complexity: "Beginner"
+-
+  id: 114
+  title: "Construindo um Page Builder na Globo.com em meio ao caos"
+  description: "Nesta palestra iremos contar a história do Pages, um criador de páginas usado para construir o portal do Valor Econômico e de outros portais do Grupo Globo. A idéia é buscar entender como constraints severas moldam projetos e como fazer para tomar decisões acertadas que não prejudiquem a entrega. Iremos mostrar a ferramenta, as tecnologias (majoritariamente JS), constraints do projeto e o que aprendemos com isso tudo! Vai ter muita solução engenhosa, café e lágrimas derramadas."
+  subtype: presentation
+  speakers: [14]
+  complexity: "Beginner"
 
 # Codelabs
 -

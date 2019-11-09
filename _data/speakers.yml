@@ -152,3 +152,60 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/dudaschar/"}
     - {name: "github", link: "https://github.com/dudaschar/"}
     - {name: "twitter", link: "https://twitter.com/dudaschar"}
+-
+  id: 11
+  name: "Aline"
+  surname: "Santa Rosa"
+  company: "Accenture"
+  title: "Analista de sistemas"
+  bio: "Eterna estudante, apaixonada pelo desenvolvimento web. Baiana, atualmente mora em Recife - Brasil. Gosta de conhecer e experimentar coisas novas para identificar e colaborar na solução de um problema. Acadêmica de Sistemas para Internet na FICR, Enfermeira, Especialista em Auditoria em Sistemas de Saúde e Especialista em UTI Neonatal. Trabalho atualmente como Analista Jr na Accenture, desbravando o mundo SAP (BW, BPC, BI). Voluntária no Women Who Code Recife, está sempre participando ativamente em eventos na comunidade, e acredita no impacto social positivo que elas trazem. Apaixonada por viagens, colaboração e treinamento para novos desenvolvedores."
+  thumbnailUrl: aline.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Accenture", title: "Analista de sistemas", url: "https://www.accenture.com/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alinecbsr"}
+-
+  id: 12
+  name: "Felipe"
+  surname: "Bernardes"
+  company: "Toptal"
+  title: "Freelancer"
+  bio: "I’m a freelancer Front End Specialist living in Sorocaba, Brazil. Currently, I work remotely as a Sr Front End Developer at BabyCenter.com, the biggest parenthood & childhood content website worldwide. I enjoy to travel, learn, teach, design user interfaces and code web/mobile apps. I also play guitar and drums, and I suck at both. What drives my work is to build a better web for people — by sharing knowledge through talks, organising tech communities and specially by building things that positively impact lives."
+  thumbnailUrl: felipe.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Toptal", title: "Freelancer", url: "https://www.toptal.com/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bernardesflp/"}
+    - {name: "github", link: "https://felipebernardes.github.io/ "}
+    - {name: "twitter", link: "https://twitter.com/felip_bernardes"}
+-
+  id: 13
+  name: "Igor"
+  surname: "Santos"
+  company: "Toptal"
+  title: "Community Leader"
+  bio: "Dev PHP há 13 anos, JS há um bocado também, freelancer na gringa há mais de 3, e o amigo mais (financeiramente) organizado do grupo. Adoro apagar código duplicado ou defasado e trazer boas práticas aos poucos pra equipes antigas. Nas horas vagas eu jogo boardgames, cozinho coisas gordas, pego praia ou jogo algo indie e baratinho na Steam :)"
+  thumbnailUrl: igor.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Toptal", title: "Community Leader", url: "https://www.toptal.com/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/igorsantos07"}
+    - {name: "github", link: "github.com/igorsantos07"}
+    - {name: "twitter", link: "twitter.com/igorsantos07"}
+-
+  id: 14
+  name: "André"
+  surname: "Cavalcanti"
+  company: "Globo.com"
+  title: "Engenheiro Senior de desenvolvimento"
+  bio: "Dev PHP há 13 anos, JS há um bocado também, freelancer na gringa há mais de 3, e o amigo mais (financeiramente) organizado do grupo. Adoro apagar código duplicado ou defasado e trazer boas práticas aos poucos pra equipes antigas. Nas horas vagas eu jogo boardgames, cozinho coisas gordas, pego praia ou jogo algo indie e baratinho na Steam :)"
+  thumbnailUrl: andre.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Globo.com", title: "Engenheiro Senior de desenvolvimento", url: "https://www.toptal.com/"}
+  social:
+    - {name: "github", link: "https://github.com/andreaugusto"}
+    - {name: "twitter", link: "https://twitter.com/andreaugustosc"}
