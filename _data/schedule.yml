@@ -8,7 +8,7 @@
    - {title: "Sala", color: "#000000", description: "Capacidade para 60 pessoas"}
   timeslots:
     - {
-        startTime: "8:00",
+        startTime: "8:30",
         endTime: "",
         sessionIds: [001]
     }
