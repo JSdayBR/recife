@@ -133,7 +133,7 @@
   description: "Nesta palestra iremos contar a história do Pages, um criador de páginas usado para construir o portal do Valor Econômico e de outros portais do Grupo Globo. A idéia é buscar entender como constraints severas moldam projetos e como fazer para tomar decisões acertadas que não prejudiquem a entrega. Iremos mostrar a ferramenta, as tecnologias (majoritariamente JS), constraints do projeto e o que aprendemos com isso tudo! Vai ter muita solução engenhosa, café e lágrimas derramadas."
   subtype: presentation
   speakers: [14]
-  complexity: "Beginner"
+  complexity: "Advanced"
 
 # Codelabs
 -
