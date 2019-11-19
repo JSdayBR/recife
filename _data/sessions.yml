@@ -134,7 +134,21 @@
   subtype: presentation
   speakers: [14]
   complexity: "Advanced"
-
+-
+  id: 115
+  title: "Utilização do paradigma funcional na VTEX"
+  description: "Hoje em dia o paradigma funcional em javascript é bastante utilizado e nós da VTEX temos adotado bastante essa prática. Com isso vou contar um pouco de como estamos usando esse paradigma em nossas aplicações."
+  subtype: presentation
+  speakers: [15]
+  complexity: "Beginner"
+-
+  id: 116
+  title: "Abstract Syntax Trees (ASTs), a base de todas as transformações"
+  description: "Quem trabalha com JS já está acostumado a ter seu código transformado. Pré-processadores, transpiladores, formatters, linters, bundlers, agora são todos parte do nosso dia-a-dia. Mas como essas ferramentas funcionam? E o que acontece se você tiver um caso de uso especial, que não já exista pronto por aí? Nesta talk falarei sobre Abstract Syntax Trees (ASTs), a base de todas essas transformações. Explicarei o que são e como usá-las para construir suas próprias ferramentas."
+  subtype: presentation
+  speakers: [16]
+  complexity: "Advanced"
+  
 # Codelabs
 -
   id: 200

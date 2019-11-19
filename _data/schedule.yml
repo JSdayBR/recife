@@ -64,33 +64,18 @@
     }
     - {
         startTime: "16:00",
-        endTime: "16:40",
+        endTime: "16:30",
+        sessionIds: [115,116]
+    }
+    - {
+        startTime: "16:35",
+        endTime: "17:00",
         sessionIds: [100,006]
     }
     - {
-        startTime: "16:45",
-        endTime: "17:00",
+        startTime: "17:00",
+        endTime: "17:10",
         sessionIds: [005]
-    }
--
-  title: "Workshops"
-  date: "2019-12-14"
-  dateReadable: "Workshops 14/12"
-  dataReadableWarning: "*Os Workshops e horários podem ser modificados sem aviso prévio"
-  tracks:
-    - {title: "Workshop", color: "#f7df1e", description: "Lab 1"}
-    - {title: "Workshop", color: "#000000", description: "Lab 2"}
-    #- {title: "Workshop 4", color: "#f7df1e", description: "Laboratório 4"}
-  timeslots:
-    - {
-        startTime: "09:05",
-        endTime: "12:00",
-        sessionIds: [006]
-    }
-    - {
-        startTime: "14:05",
-        endTime: "17:30",
-        sessionIds: [006]
     }
 #-
 #  title: "JSday Lineup"

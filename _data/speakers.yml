@@ -209,3 +209,32 @@
   social:
     - {name: "github", link: "https://github.com/andreaugusto"}
     - {name: "twitter", link: "https://twitter.com/andreaugustosc"}
+-
+  id: 15
+  name: "Rafael"
+  surname: "Klynger"
+  company: "VTEX Rio"
+  title: "Engenheiro de software"
+  bio: "Trabalho com desenvolvimento web há 3 anos, trabalhei em projetos na universidade com parcerias com empresas como a HP, Ingenico e Siemens. Último projeto que trabalhei foi em parceria com VTEX onde trabalhei um ano e atualmente sou engenheiro de software da VTEX Rio desde outubro. Trabalho atualmente com frontend (React)."
+  thumbnailUrl: rafael.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "VTEX", title: "Engenheiro de software", url: "https://vtex.com/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rafaelklynger/"}
+    - {name: "github", link: "https://github.com/klynger"}
+    - {name: "twitter", link: "https://twitter.com/RafaelKlynger"}
+-
+  id: 16
+  name: "Maíra"
+  surname: "Bello"
+  company: "In Loco"
+  title: "Software Engineer"
+  bio: "Maíra é engenheira de software na In Loco, tendo se apaixonado por desenvolvimento web logo cedo. Trabalhou no Facebook bem na época em que tecnologias como React, Jest e GraphQL estavam começando a ser desenvolvidas por lá. Hoje, de volta em Recife, adora trabalhar com essas e outras novas possibilidades que têm tornado o mundo web ainda melhor."
+  thumbnailUrl: maira.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "VTEX", title: "Engenheiro de software", url: "https://vtex.com/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maira-bello-06b17067/"}
+    - {name: "github", link: "https://github.com/mairatma"}
