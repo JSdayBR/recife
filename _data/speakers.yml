@@ -234,7 +234,7 @@
   thumbnailUrl: maira.jpg
   rockstar: true
   ribbon:
-    - {abbr: "In Loco", title: "Engenheiro de software", url: "https://www.inloco.com.br/"}
+    - {abbr: "In Loco", title: "Engenheira de software", url: "https://www.inloco.com.br/"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/maira-bello-06b17067/"}
     - {name: "github", link: "https://github.com/mairatma"}
