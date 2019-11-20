@@ -229,12 +229,12 @@
   name: "Maíra"
   surname: "Bello"
   company: "In Loco"
-  title: "Software Engineer"
+  title: "Engenheira de Software"
   bio: "Maíra é engenheira de software na In Loco, tendo se apaixonado por desenvolvimento web logo cedo. Trabalhou no Facebook bem na época em que tecnologias como React, Jest e GraphQL estavam começando a ser desenvolvidas por lá. Hoje, de volta em Recife, adora trabalhar com essas e outras novas possibilidades que têm tornado o mundo web ainda melhor."
   thumbnailUrl: maira.jpg
   rockstar: true
   ribbon:
-    - {abbr: "In Loco", title: "Engenheira de software", url: "https://www.inloco.com.br/"}
+    - {abbr: "In Loco", title: "Engenheira de Software", url: "https://www.inloco.com.br/"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/maira-bello-06b17067/"}
     - {name: "github", link: "https://github.com/mairatma"}
