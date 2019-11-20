@@ -234,7 +234,21 @@
   thumbnailUrl: maira.jpg
   rockstar: true
   ribbon:
-    - {abbr: "VTEX", title: "Engenheiro de software", url: "https://vtex.com/"}
+    - {abbr: "In Loco", title: "Engenheiro de software", url: "https://www.inloco.com.br/"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/maira-bello-06b17067/"}
     - {name: "github", link: "https://github.com/mairatma"}
+-
+  id: 17
+  name: "Raíssa"
+  surname: "Rotolo"
+  company: "VTEX"
+  title: "Former Sales Manager / Future Product Owner"
+  bio: "Engenheira de Produção pela Universidade Federal do Rio de Janeiro com MBA em Marketing pela mesma instituição, Raíssa se encanta em trabalhar no mercado de tecnologia e com a perspectiva de impacto que ele tem a trazer para a sociedade. Está, desde o lançamento, atuando na comercialização e no business development do VTEX OMS, a solução de Omnichannel da VTEX, que se consolida a cada dia como referência não mais só para o comércio eletrônico como para digitalização do varejo como um todo. Por ora, está finalizando sua atuação em vendas e, em breve, atuará como Product Owner em novos produtos da VTEX. Já atuou em outras frentes como Finanças, Sales Operations, Gestão de Pessoas, de Processos e de Projetos. Além disso, tem grande entusiasmo em compartilhar conhecimento e desenvolver pessoas, por isso, se mantém próxima do meio acadêmico, onde atua como orientadora e palestrante em turmas de graduação e pós-graduação."
+  thumbnailUrl: raissa.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "VTEX", title: "Former Sales Manager / Future Product Owner", url: "https://vtex.com/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/raissa-rotolo"}
+    - {name: "twitter", link: "https://twitter.com/rotoloraissa"}

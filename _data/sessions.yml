@@ -148,6 +148,13 @@
   subtype: presentation
   speakers: [16]
   complexity: "Advanced"
+-
+  id: 117
+  title: "Como desenvolvedores impactam clientes: o que o time de negócios espera do time de engenharia no dia-a-dia?"
+  description: "Com a tecnologia sendo cada vez mais protagonista das transformações na sociedade e seu comportamento, é fundamental que os esforços na criação e desenvolvimento de novos produtos estejam voltados para a resolução de problemas reais e tragam benefício para seu cliente final. Nessa apresentação, utilizando um case real, vamos falar sobre como os ciclos do desenvolvimento de produto impactam não só o time de engenharia, mas também o de negócios e como a estrutura organizacional da empresa e dos times pode se adaptar e suportar todo esse árduo processo."
+  subtype: presentation
+  speakers: [17]
+  complexity: "Beginner"
   
 # Codelabs
 -
