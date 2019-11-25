@@ -46,8 +46,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/#venue", text: "Local"}
  - {permalink: "/#partners", text: "Patrocinadores"}
- #- {permalink: "https://www.facebook.com/ficroficial/videos/339369130125808/", text: "Live"}
- - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Call for Papers"}
+# - {permalink: "https://www.facebook.com/ficroficial/videos/339369130125808/", text: "Live"}
+# - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Call for Papers"}
 
 #bottomNavigationLinks:
 # - {link: "", text: ""}
@@ -62,8 +62,8 @@ typeoutTextValues: '"JSday Recife 2019", "ReactJS", "Angular", "Ciclo de vida de
 typeoutFallback: "JSday Recife 2019"
 heroButtons:
 - {link: "https://www.sympla.com.br/jsday-recife-2019__533369", text: "Inscreva-se.now(&#9829;)"}
-- {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Inscreva sua palestra"}
-- {link: "https://forms.gle/sHa8gomzQC7sSgDB9", text: "Seja voluntário"}
+# - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Inscreva sua palestra"}
+# - {link: "https://forms.gle/sHa8gomzQC7sSgDB9", text: "Seja voluntário"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
