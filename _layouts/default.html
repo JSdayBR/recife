@@ -103,6 +103,13 @@ layout: compress
         {% endif %}
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
+    <script>    
+        window.lazyLoadOptions = {  
+            elements_selector: ".lazy"
+        };
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.4.0/dist/lazyload.min.js" async></script>
+    
     {% if page.permalink == '/schedule/' %}
         <script type="text/javascript">
             $(document).ready(function () {
