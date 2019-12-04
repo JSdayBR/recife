@@ -73,9 +73,12 @@
             font-weight: $regular;
             margin: 12px 0;
         }
+
         .btn {
             margin: 0 3px;
+            text-transform: uppercase;
         }
+        
         @media (max-width: 767px) {
             margin: 0;
             padding: 0;
