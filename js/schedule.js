@@ -13,6 +13,11 @@
             });
         });
 
+        var navHeight = $('#top-header').height();
+        var headerHeight = $('.track-header').first().height();
+        $('.stick-header').stick_in_parent({sticky_class: 'sticky', offset_top: navHeight});
+        $('.stick-label').stick_in_parent({offset_top: navHeight + headerHeight});
+
         $(window).resize(function() {
             if ($(window).width() < 768) {
                 $('.same-height').css('height', '100%');

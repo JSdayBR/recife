@@ -1,5 +1,7 @@
 (function($) {
     $(document).ready(function() {
+        Waves.displayEffect();
+        
         $(window).load(function() {
             $('#st-container').removeClass('disable-scrolling');
             $('#loading-animation').fadeOut();

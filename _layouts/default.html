@@ -37,15 +37,10 @@ layout: compress
     {% include analytics.html %}
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script>
-        window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>')
-    </script>
-    <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/default.js" | prepend: site.baseurl }}" defer></script>
     
     <script>
-        Waves.displayEffect();
         {% if page.permalink == '/' %}
-            var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
                 $(function () {
                     if ($(window).width() > 767) {
@@ -79,47 +74,15 @@ layout: compress
                     }
                 }
             });
-        {% elsif page.permalink == '/logistics/' %}
-            var googleMaps = 'logistics',
-                eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
-                centerMap = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates }}),
-                mobileCenterMap = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates }}),
-                icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-        {% elsif page.permalink == '/hackathon/' %}
-            if ($(window).width() > 767) {
-                var googleMaps = 'hackathon',
-                    eventPlace = new google.maps.LatLng({{ site.hackathonPlaceCoordinates }}),
-                    centerMap = new google.maps.LatLng({{ site.hackathonMapCenterCoordinates }}),
-                    mobileCenterMap = new google.maps.LatLng({{ site.hackathonMapMobileCenterCoordinates }}),
-                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-            } else {
-               var staticGoogleMaps = true,
-                eventPlaceCoordinates = '{{ site.hackathonPlaceCoordinates | replace:' ','' }}',
-                centerMapCoordinates = '{{ site.hackathonMapCenterCoordinates | replace:' ','' }}',
-                mobileCenterMapCoordinates = '{{ site.hackathonMapMobileCenterCoordinates | replace:' ','' }}',
-                icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
-            }
-
         {% endif %}
     </script>
-    <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}" defer></script>
     <script>    
         window.lazyLoadOptions = {  
             elements_selector: ".lazy"
         };
     </script>
     <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.4.0/dist/lazyload.min.js" async></script>
-    
-    {% if page.permalink == '/schedule/' %}
-        <script type="text/javascript">
-            $(document).ready(function () {
-                var navHeight = $('#top-header').height();
-                var headerHeight = $('.track-header').first().height();
-                $('.stick-header').stick_in_parent({sticky_class: 'sticky', offset_top: navHeight});
-                $('.stick-label').stick_in_parent({offset_top: navHeight + headerHeight});
-            });
-        </script>
-    {% endif %}
 
     {% include schema-event.html %}
 </body>
