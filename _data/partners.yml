@@ -16,6 +16,7 @@
   group: ""
   elements:
     - {name: "Globo.com", description: "Globo.com.", link: "https://talentos.globo.com/", imageUrl: "gcom.png", width: "200px"}
+    - {name: "PROTEIN NOW", description: "Usar o Protein Now é muito fácil: você só precisar baixar o nosso aplicativo - disponível na App Store ou Google Play - se registrar e começar a usar.", link: "https://proteinnow.com.br/", imageUrl: "proteinnow.png", width: "200px"}
 #    - {name: "Max Milhas", description: "Um novo jeito de voar com milhas aéreas", link: "http://www.maxmilhas.com.br/", imageUrl: "maxmilhas.png", width: "250px"}
 #    - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
 #    - {name: "Stone Pagamentos", description: "Stone - Porque tudo evolui", link: "http://www.stone.com.br/", imageUrl: "stone.png", width: "250px"}
