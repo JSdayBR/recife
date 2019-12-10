@@ -1,14 +1,5 @@
 (function($) {
     $(document).ready(function() {
-        Waves.displayEffect();
-        
-        $(window).load(function() {
-            $('#st-container').removeClass('disable-scrolling');
-            $('#loading-animation').fadeOut();
-            $('#preloader').delay(350).fadeOut(800);
-            equalheight('.same-height');
-        });
-
         if ($(window).width() < 768) {
             $('.animated').removeClass('animated').removeClass('hiding');
             $('.stat span').removeClass('timer');
