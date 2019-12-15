@@ -1,4 +1,5 @@
-@include web-fonts(($fixed-font-family:($light, $regular, $bold)));
+// @include web-fonts(($fixed-font-family:($light, $regular, $bold)));
+
 body, html {
     font-family: $fixed-font-family, $base-font-family;
     font-size: $base-font-size;
@@ -119,15 +120,7 @@ time {
         opacity: 1;
     }
 }
-.preloader {
-    position: fixed;
-    z-index: 9999;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-color: #fff;
-}
+
 .loader-gplus {
     display: inline-block;
     position: absolute;

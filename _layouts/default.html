@@ -8,12 +8,6 @@ layout: compress
 {% include head.html %}
 
 <body>
-    <div id="preloader" class="preloader">
-        <div class="battery">
-            <div class="liquid"></div>
-        </div>
-    </div>
-
     <div id="st-container" class="st-container disable-scrolling">
         <div class="st-pusher">
             <div class="st-content">
@@ -27,7 +21,7 @@ layout: compress
     </div>
 
     {% if page.modal != null %}
-    	{% include speakers-modals.html %}
+        {% include speakers-modals.html %}
     {% endif %}
 
     {% if page.permalink == '/schedule/' %}
@@ -37,45 +31,10 @@ layout: compress
     {% include analytics.html %}
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="{{ "/js/default.js" | prepend: site.baseurl }}" defer></script>
+    
     <script>
-        window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>')
-    </script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script>
-    if (typeof($.fn.modal) === 'undefined') {
-        document.write('<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}><\/script>')
-    }
-    </script>
-    <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
-    <script>
-        if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
-        }
-    </script>
-    {% elsif page.permalink == '/logistics/' %}
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
-        <script type="text/javascript">
-            var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
-        </script>
-    {% endif %}
-    <script>
-        Waves.displayEffect();
         {% if page.permalink == '/' %}
-            if ($(window).width() > 767) {
-                var googleMaps = 'index',
-                    eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
-                    centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates | replace:' ','' }}),
-                    mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates | replace:' ','' }}),
-                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-            } else {
-               var staticGoogleMaps = true,
-                eventPlaceCoordinates = '{{ site.eventPlaceCoordinates | replace:' ','' }}',
-                centerMapCoordinates = '{{ site.mapCenterCoordinates | replace:' ','' }}',
-                mobileCenterMapCoordinates = '{{ site.mapMobileCenterCoordinates | replace:' ','' }}',
-                icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
-            }
-            var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
                 $(function () {
                     if ($(window).width() > 767) {
@@ -109,40 +68,15 @@ layout: compress
                     }
                 }
             });
-        {% elsif page.permalink == '/logistics/' %}
-            var googleMaps = 'logistics',
-                eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
-                centerMap = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates }}),
-                mobileCenterMap = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates }}),
-                icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-        {% elsif page.permalink == '/hackathon/' %}
-            if ($(window).width() > 767) {
-                var googleMaps = 'hackathon',
-                    eventPlace = new google.maps.LatLng({{ site.hackathonPlaceCoordinates }}),
-                    centerMap = new google.maps.LatLng({{ site.hackathonMapCenterCoordinates }}),
-                    mobileCenterMap = new google.maps.LatLng({{ site.hackathonMapMobileCenterCoordinates }}),
-                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-            } else {
-               var staticGoogleMaps = true,
-                eventPlaceCoordinates = '{{ site.hackathonPlaceCoordinates | replace:' ','' }}',
-                centerMapCoordinates = '{{ site.hackathonMapCenterCoordinates | replace:' ','' }}',
-                mobileCenterMapCoordinates = '{{ site.hackathonMapMobileCenterCoordinates | replace:' ','' }}',
-                icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
-            }
-
         {% endif %}
     </script>
-    <script src="{{ "/js/scripts.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/schedule/' %}
-        <script type="text/javascript">
-            $(document).ready(function () {
-                var navHeight = $('#top-header').height();
-                var headerHeight = $('.track-header').first().height();
-                $('.stick-header').stick_in_parent({sticky_class: 'sticky', offset_top: navHeight});
-                $('.stick-label').stick_in_parent({offset_top: navHeight + headerHeight});
-            });
-        </script>
-    {% endif %}
+    <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}" defer></script>
+    <script>    
+        window.lazyLoadOptions = {  
+            elements_selector: ".lazy"
+        };
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.4.0/dist/lazyload.min.js" async></script>
 
     {% include schema-event.html %}
 </body>

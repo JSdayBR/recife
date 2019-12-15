@@ -1,4 +1,5 @@
 .top-section-hero {
+    background-color: $base-section-background;
     background-image: url("/img/sections-background/bgtransparent2019.png") !important;
     width: 100%;
     height: 100%;
@@ -40,9 +41,10 @@
             justify-content: center;
             -webkit-clip-path: polygon(4% 0%, 100% 0%, 96% 100%, 0% 100%);
             clip-path: polygon(4% 0%, 100% 0%, 96% 100%, 0% 100%);
+            font-weight: lighter;
 
             .dot {
-                padding: 0 8px;
+                padding: 0;
                 position: relative;
                 top: -9px;
                 letter-spacing: .4rem;
@@ -72,10 +74,19 @@
             font-size: $base-font-size * 2;
             font-weight: $regular;
             margin: 12px 0;
+            color: #000000;
         }
+
         .btn {
+            border: none;
             margin: 0 3px;
+            text-transform: uppercase;
+
+            &:hover {
+                font-size: 1em;
+            }
         }
+        
         @media (max-width: 767px) {
             margin: 0;
             padding: 0;
