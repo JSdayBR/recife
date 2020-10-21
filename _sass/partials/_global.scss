@@ -133,7 +133,7 @@ time {
     position: absolute;
     top: calc(50% - 50px);
     left: calc(50% - 40px);
-    
+    overflow: hidden;
 }
 
 .loader-gplus {
