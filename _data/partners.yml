@@ -1,30 +1,5 @@
--
-  group: ""
-  elements:
-    - {name: "Vtex", description: "Unified commerce platform for unified businesses.", link: "https://www.vtex.com/", imageUrl: "vtex.svg", width: "430px"}
-    - {name: "Toptal", description: "Toptal enables start-ups, businesses, and organizations to hire freelancers from a growing network of top talent in the world.", link: "https://www.toptal.com/", imageUrl: "toptal-blue.png", width: "400px"}
-    - {name: "FICR", description: "Faculdade Imaculada Conceição do Recife", link: "https://www.ficr.edu.br/", imageUrl: "ficr.png", width: "410px"}
-
-#    - {name: "ThoughtWorks", description: "Uma comunidade de pessoas apaixonadas com o propósito de revolucionar o design e a criação de software, enquanto defendemos uma mudança social positiva.", link: "https://www.thoughtworks.com/pt/", imageUrl: "tw-logo.png", width: "430px"}
--
-  group: ""
-  elements:
-    - {name: "Pitang", description: "Pitang", link: "https://www.pitang.com/", imageUrl: "pitang.png", width: "330px"}
-    - {name: "Linx", description: "Linx", link: "https://www.linx.com.br/", imageUrl: "linx.png", width: "330px"}
-    
--
-  group: ""
-  elements:
-    - {name: "Globo.com", description: "Globo.com.", link: "https://talentos.globo.com/", imageUrl: "gcom.png", width: "200px"}
-    - {name: "PROTEIN NOW", description: "Usar o Protein Now é muito fácil: você só precisar baixar o nosso aplicativo - disponível na App Store ou Google Play - se registrar e começar a usar.", link: "https://proteinnow.com.br/", imageUrl: "proteinnow.png", width: "200px"}
-#    - {name: "Max Milhas", description: "Um novo jeito de voar com milhas aéreas", link: "http://www.maxmilhas.com.br/", imageUrl: "maxmilhas.png", width: "250px"}
-#    - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
-#    - {name: "Stone Pagamentos", description: "Stone - Porque tudo evolui", link: "http://www.stone.com.br/", imageUrl: "stone.png", width: "250px"}
-#    - {name: "In loco Media", description: "A Maior Rede de Anúncios Mobile do Brasil!", link: "https://www.inlocomedia.com/", imageUrl: "inlocomedia-master-logo-blue.png", width: "360px"}
-#    - {name: "ceweb, nic, cgi", link: "http://ceweb.br/", imageUrl: "ceweb_nic_cgi.png", width: "160px"}
-#-
-#  group: ""
-#  elements:
-#     - {name: "CodeSchool", description: "Code School is an online learning destination for existing and aspiring developers that teaches through entertaining content.", link: "http://www.codeschool.com/jsdayrecife ", imageUrl: "codeschool.png", width: "160px"}
-#     - {name: "Bocoup", description: "Bocoup is an Open Web technology company by and for programmers. We create, support, and advance Open Web technologies through consulting, education, and community development.", link: "http://bocoup.com/", imageUrl: "bocoup.png", width: "150px"}
-#     - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "90px"}
+- 
+  group: "Patrocinadores"
+  elements: 
+  #  - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+  #  - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}

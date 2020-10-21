@@ -1,8 +1,5 @@
-<link href="{{ "/css/speakers.css" | prepend: site.baseurl }}" rel="stylesheet" media="all">
-
 <!-- Begin Speakers List-->
 <section id="speakers" class="speakers">
-    <p>Os palestrantes e o conteúdo do evento serão atualizados gradualmente. Teremos mais de 16 palestras e alguns workshops que serão divulgados em breve.</p>
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <div class="row text-left appear-animation-trigger">
@@ -33,15 +30,15 @@
                         <div class="lily-bottom">
                             <ul class="slider">
                                 {% assign sessionsNumber = 0 %}
-                                {% if site.showSessions %}
-                                    {% for session in site.data.sessions %}
-                                        {% for session_speaker in session.speakers %}
+                                {% if site.showSessions %} 
+                                    {% for session in site.data.sessions %} 
+                                        {% for session_speaker in session.speakers %} 
                                             {% if session_speaker == speaker.id %}
                                             {% assign sessionsNumber = sessionsNumber | plus: 1 %}
                                                 <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
-                                            {% endif %}
-                                        {% endfor %}
-                                    {% endfor %}
+                                            {% endif %} 
+                                        {% endfor %} 
+                                    {% endfor %} 
                                 {% else %}
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                     <p class="position">{{ speaker.company }}</p>
@@ -52,11 +49,9 @@
                     </div>
                 </div>
                 {% endfor %}
-            </div>
+            </div> 
+            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Seja um palestrante</a>     
         </div>
     </div>
 </section>
 <!-- End Speakers List -->
-
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js" defer></script>
-<script src="{{ "/js/speakers.min.js" | prepend: site.baseurl }}" defer></script>

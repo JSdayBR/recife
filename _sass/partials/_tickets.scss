@@ -18,15 +18,17 @@ $button-background-color-hover: #4d4d4d;
     }
     &:last-child {
         border-right: 1px $col-border-color solid;
+        border-left: none;
         @media (max-width: 767px) {
-            border: 1px $col-border-color solid;
+            border: 1px $col-border-color solid;    
         }
     }
     &.pricing-col-featured {
-        top: -27px;
+        // top: -27px;
         &:not(:first-child) {
             margin-left: 0;
-            border: solid 1px $primary-color;
+            // border: solid 1px $primary-color;
+            border: 1px $col-border-color solid;
         }
         @media (max-width: 767px) {
             top: 0;
@@ -35,26 +37,26 @@ $button-background-color-hover: #4d4d4d;
             background: $primary-color;
         }
         .title {
-            margin-bottom: 33px;
+            // margin-bottom: 33px ;
             @media (max-width: 767px) {
                 margin: 0;
             }
         }
         .price {
-            margin-bottom: 30px;
-            color: $primary-color;
+            // margin-bottom: 30px;
+            // color: $primary-color;
         }
         .pricing-content {
-            padding-top: 2px;
+            // padding-top: 2px;
             @media (max-width: 767px) {
                 padding: 0;
             }
         }
         .button {
-            margin-top: 45px;
-            background: $primary-color;
+            // margin-top: 45px;
+            // background: $primary-color;
             &:hover {
-                background: $primary-color-hover;
+                // background: $primary-color-hover;    
             }
             @media (max-width: 767px) {
                 margin: 0;
@@ -62,7 +64,7 @@ $button-background-color-hover: #4d4d4d;
             &.disabled {
                 &:hover {
                     background: $primary-color;
-                }
+                }      
             }
         }
     }
@@ -84,10 +86,10 @@ $button-background-color-hover: #4d4d4d;
         font-size: 32px;
     }
     .button {
-        height: 60px;
-        line-height: 60px;
         font-size: 32px;
         display: block;
+        margin-top: 30px;
+        padding: 7px 25px 10px;
         color: #fff;
         background: $button-background-color;
         font-weight: $light;
@@ -98,10 +100,11 @@ $button-background-color-hover: #4d4d4d;
         &.disabled {
             &:hover {
                 background: $button-background-color;
-            }
+            }      
         }
         &.fallback {
             font-size: 18px;
+            line-height: 1.4;
         }
     }
     .pricing-ribbon {

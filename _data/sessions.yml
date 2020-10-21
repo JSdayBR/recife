@@ -1,189 +1,71 @@
 -
-  id: 001
-  title: "Credenciamento"
-  place: "Lounge"
-  service: true
--
-  id: 002
+  id: 301
   title: "Abertura"
-  place: "Lounge"
+  place: "Hall"
   service: true
+  description: "Abertura do evento"
 -
-  id: 003
-  title: "Coffee Break"
-  place: "Lounge"
+  id: 302
+  title: "Networking com os patrocinadores."
+  place: "Hall"
   service: true
+  description: "Momento para o patrocinador interagir com o publico."
 -
-  id: 004
-  title: "Almoço"
-  place: ""
-  service: true
--
-  id: 005
+  id: 303
   title: "Encerramento"
-  place: ""
+  place: "Hall"
   service: true
-  description: "Thank you and... always bet on JS!"
+  description: "Muito obrigado a todos"
 -
-  id: 006
-  title: "Em breve"
-  place: ""
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
   service: true
 -
-  id: 100
-  title: "Ciclo de vida de um modulo npm"
-  description: "Todo mundo conhece modulos npm, mas como trabalhar com eles? Como é o ciclo de vida (inserir features, corrigir bugs, publicar releases) deles e quais atitudes adotar ao manter um projeto no npm? Saberemos em breve."
-  subtype: presentation
-  speakers: [0]
-  complexity: "Advanced"
--
-  id: 101
-  title: "DevOps, Cloud Native, Containers e JavaScript"
-  description: "Em um mundo onde só se fala sobre DevOps, Cloud Native e Containers falarei sobre o futuro das aplicações JavaScript com essa nova abordagem e o que o mercado espera que você conheça como desenvolvedor de software ou arquiteto. Farei uma pequena POC demonstrando como colocar uma aplicação JavaScript em Container e como subir na nuvem no OpenShift."
-  subtype: presentation
-  speakers: [1]
-  complexity: "Intermediate"
--
-  id: 102
-  title: "Utilizando chatbots no desenvolvimento de interfaces do usuário em soluções de Internet das Coisas"
-  description: "Em toda solução que será utilizada por um humanos, uma das etapas que requer atenção especial é aquela responsável pela interação entre o usuário e o sistema. Nas soluções de IoT isso não é diferente, seja para ligar uma lâmpada no interruptor ou através de uma aplicativo, requisitos não funcionais como usabilidade se tornam desafios interessantes. A utilização de um chatbot em redes sociais e aplicativos já conhecidos pela sociedade apresenta-se como bom potencial de solução, pois os usuários já estão familiarizados e as utilizam diariamente. Essa palestra visa apresentar como desenvolver uma solução de IoT utilizando o chatbot do Telegram API e serviços do IBM Watson integrados com a meta-plataforma KNoT criada pelo C.E.S.A.R."
-  subtype: presentation
-  speakers: [2]
-  complexity: "Intermediate"
--
-  id: 103
-  title: "Porque Débito Técnico vai estragar teu software"
-  description: "Um dos mais importantes fatores responsáveis por denegrir a qualidade interna de softwares é o Débito Técnico, a má qualidade de software tornou-se um dos tópicos mais caros da história da humanidade e estamos acostumados a pensar que o Débito Técnico se resume apenas em código ruim ou feio, com essa palestra quero propor uma visão mais ampla do que podemos chamar de Débito Técnico em uma era de Software Sustentável, como podemos identificar gargalos que estão gerando mais débito e então como lidar com isso."
+  id: 001
+  title: "User Timing API: because performance matters"
+  description: "Are you working with large frontend application and you are facing problems in your project? Problems like memory leaks, and performance bottlenecks can be real issues in your site and there are some of the features there are really useful to improve the performance of your web app… but what if it’s not enough? How to combine performance validation between backend and frontend via instrumentation, analysing and improving the reliability of your web app by user journey improvements? What if you want to track a specific feature in your code? In this talk, I will share my experience and decisions creating frontend components and applications focused on performance, how to manage quality, monitoring, and other techniques that will make your application blaze fast!"
   subtype: presentation
   speakers: [3]
+  language: pt-br
   complexity: "Intermediate"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 104
-  title: "Uma análise sobre REST e GraphQL utilizando Node.js"
-  description: "Entenda como esses dois conceitos se encaixam no desenvolvimento da sua API, suas propostas, características, propriedades e benefícios que cada uma leva ao seu sistema. Saiba o que levar em consideração na sua escolha e como REST e GraphQL impactam na relação cliente-servidor e no desenvolvimento da sua aplicação Node."
+  id: 002
+  title: "Em breve"
+  description: "Em breve"
   subtype: presentation
   speakers: [4]
-  complexity: "Intermediate"
+  language: en
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 105
-  title: "Web Performance: Não deixe o usuário desistir do seu site"
-  description: "O tempo de carregamento é classificado com os critérios importantes e mais esperados pelos usuários ao entrar em um site. Tendo isso em mente não podemos deixar os usuários escaparem uma vez que eles encontram nosso site. Nesta palestra veremos dicas e exemplos práticos sobre como melhorar a performance do seu site."
+  id: 003
+  title: "Android L Animation"
+  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
   subtype: presentation
-  speakers: [5]
-  complexity: "Intermediate"
+  speakers: []
+  #language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
-  id: 106
-  title: "Todo site merece um service-worker"
-  description: "Seu site funciona offline? Se não, deveria. Entenda os benefícios da utilização do service-worker em executar boas práticas para manter seu site funcionando mesmo em redes com baixa latência e até mesmo sem conexão alguma. Descubra como fazer seu site funcionar offline e proporcionar uma melhor experiência para o usuário na navegação do seu web app. Abordaremos algumas Web APIs e conceitos da Web moderna que auxiliam no melhor desenvolvimento do seu app, utilizando todos os recursos necessário para tornar a jornada do usuário mais satisfatória em um aplicativo da web."
-  subtype: presentation
+  id: 004
+  title: "Polymer: Interacting with Google Services using nothing but HTML"
+  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  subtype: keynote
   speakers: [6]
+  #language: uk
   complexity: "Beginner"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 107
-  title: "React Native, construindo aplicativos com JavaScript"
-  description: "Sabia que é possível programar aplicativos mobile em JavaScript? E o melhor, que esses aplicativos podem rodar tendo em Android quanto iOS? Nesse talk iremos conhecer o React Native, um framework híbrido de desenvolvimento mobile."
-  subtype: presentation
-  speakers: [7]
-  complexity: "Beginner"
--
-  id: 108
-  title: "Gerenciamento de estado com Observer Pattern e React Hooks"
-  description: "Observer Pattern é uma das bases da programação reativa. Somado ao React Hooks, esse padrão pode nos gerar uma alternativa ao gerenciamento de estado de aplicações front-end muito leve. Como implantação pratica desses princípios, apresentaremos também o use-global-hook, um gerenciador de estado mais amigável que o Redux e mais performático que o Context API."
-  subtype: presentation
-  speakers: [8]
-  complexity: "Intermediate"
--
-  id: 109
-  title: "A web evoluiu e os testes também 🙂 "
-  description: "Cypress é uma ferramenta de teste que torna mais fácil, rápido e confiável a forma que escrevemos testes para qualquer aplicação que seja executada no browser. Para finalizar, irei realizar uma pequena demonstração do uso da ferramenta e como a utilizamos dentro do iFood. Com Cypress você testa seu código, não sua paciência."
-  subtype: presentation
-  speakers: [9]
-  complexity: "Intermediate"
--
-  id: 110
-  title: "Quartinho: Construindo uma CDN do Nubank"
-  description: "Na talk iremos mostrar como foi o processo de construção de uma CDN in-house do Nubank, da identificação do problema a ser resolvido, passando pelo desenvolvimento técnico até os resultados. Antes do Quartinho o website do Nubank era utilizado como depósito de arquivos estáticos, como js, css e imagens que não pertenciam ao contexto do projeto. O que acarretava aumento do bundle, manutenção dos assets e dependência do squad responsável pelo site. O Quartinho, como apelidamos o projeto, foi criado com o objetivo de remover esses arquivos do website, com ferramentas já utilizadas e conhecidas pelo time de engenharia. E trouxe como ganho a autonomia e agilidade para pessoas que necessitavam servir arquivos estáticos e ter controle sobre os mesmos."
-  subtype: presentation
-  speakers: [10]
-  complexity: "Intermediate"
--
-  id: 111
-  title: "O desafio de ser mulher na área de TI, vindo de outra área profissional e começando do zero"
-  description: "Desafios de quem sai de um contexto profissional estável, começa a estudar TI do zero, o engajamento com o ambiente acadêmico e com as comunidades de tecnologia e como as comunidades de tecnologia podem te beneficiar. Ser mulher neste contexto, o engajamento feminino na comunidade JavaScript."
-  subtype: presentation
-  speakers: [11]
-  complexity: "Beginner"
--
-  id: 112
-  title: "Do's & Don'ts em JavaScript: 15 boas práticas"
-  description: "Nessa lightning talk, vou compartilhar 15 boas práticas rápidas pra melhorarem a qualidade do seu código JavaScript no dia a dia de trabalho."
-  subtype: presentation
-  speakers: [12]
-  complexity: "Beginner"
--
-  id: 113
-  title: "Sobrevivência Financeira do PJ/Freela"
-  description: "Gostaria de levantar alguns tópicos frequentes em discussões sobre a vida do PJ e que são muito pouco divulgados, como:  Necessidade de uma reserva financeira (na falta do FGTS e INSS); A lógica do 13o e como incorporar isso no cálculo de propostas \"salariais\"; Como tirar férias \"remuneradas\"; O fluxo de grana mensal quando o recebimento é variável; Mencionar os benefícios do INSS pra acidentes, e outros seguros de emergências"
-  subtype: presentation
-  speakers: [13]
-  complexity: "Beginner"
--
-  id: 114
-  title: "Construindo um Page Builder na Globo.com em meio ao caos"
-  description: "Nesta palestra iremos contar a história do Pages, um criador de páginas usado para construir o portal do Valor Econômico e de outros portais do Grupo Globo. A idéia é buscar entender como constraints severas moldam projetos e como fazer para tomar decisões acertadas que não prejudiquem a entrega. Iremos mostrar a ferramenta, as tecnologias (majoritariamente JS), constraints do projeto e o que aprendemos com isso tudo! Vai ter muita solução engenhosa, café e lágrimas derramadas."
-  subtype: presentation
-  speakers: [14]
-  complexity: "Advanced"
--
-  id: 115
-  title: "Utilização do paradigma funcional na VTEX"
-  description: "Hoje em dia o paradigma funcional em javascript é bastante utilizado e nós da VTEX temos adotado bastante essa prática. Com isso vou contar um pouco de como estamos usando esse paradigma em nossas aplicações."
-  subtype: presentation
-  speakers: [15]
-  complexity: "Beginner"
--
-  id: 116
-  title: "Abstract Syntax Trees (ASTs), a base de todas as transformações"
-  description: "Quem trabalha com JS já está acostumado a ter seu código transformado. Pré-processadores, transpiladores, formatters, linters, bundlers, agora são todos parte do nosso dia-a-dia. Mas como essas ferramentas funcionam? E o que acontece se você tiver um caso de uso especial, que não já exista pronto por aí? Nesta talk falarei sobre Abstract Syntax Trees (ASTs), a base de todas essas transformações. Explicarei o que são e como usá-las para construir suas próprias ferramentas."
-  subtype: presentation
-  speakers: [16]
-  complexity: "Advanced"
--
-  id: 117
-  title: "Como desenvolvedores impactam clientes: o que o time de negócios espera do time de engenharia no dia-a-dia?"
-  description: "Com a tecnologia sendo cada vez mais protagonista das transformações na sociedade e seu comportamento, é fundamental que os esforços na criação e desenvolvimento de novos produtos estejam voltados para a resolução de problemas reais e tragam benefício para seu cliente final. Nessa apresentação, utilizando um case real, vamos falar sobre como os ciclos do desenvolvimento de produto impactam não só o time de engenharia, mas também o de negócios e como a estrutura organizacional da empresa e dos times pode se adaptar e suportar todo esse árduo processo."
-  subtype: presentation
-  speakers: [17]
-  complexity: "Beginner"
-  
-# Codelabs
--
-  id: 200
-  title: "Fundamentos do JavaScript by Women Who Code Recife"
-  description: "É para as mulheres que querem aprender uma das linguagens mais poderosas para desenvolvimento web. Em 4 horas você vai aprender os fundamentos da linguagem e praticar! Se você não tem experiência com programação, não se preocupe, as atividades práticas serão em dupla (pair-programming). Portanto, meninas, participem!! Experientes e aspirantes são bem-vindas, traga um laptop e uma amiga!"
-  subtype: codelab
+  id: 000
+  title: "Em breve!"
+  description: "Estamos selecionando as melhores palestras para você!"
+  subtype: keynote
   speakers: []
-  complexity: "Beginner"
-# Workshops
--
-  id: 301
-  title: "Iniciando com JavaScript"
-  description: "Workshop de 6h sobre o JavaScript, vai ter o foco em iniciantes e pessoas que querem aprender os conceitos da linguagem JavaScript. Será facilitado por Felipe de Albuquerque no dia 30 de Novembro nas instalações da FICR. Os ingressos para o workshop custa R$100 e pode ser dividido em até 12x no site da Sympla. As vagas são limitadas em 25 alunos, e caso não tenha um número mínimo de 10 alunos ou você não goste do curso, devolvemos o valor do seu ingresso."
-  subtype: workshop
-  speakers: []
-  complexity: "Beginner"
-# -
-#   id: 201
-#   title: "React.js"
-#   description: ""
-#   subtype: codelab
-#   speakers: []
-#   complexity: ""
-
-# -
-#   id: 300
-#   title: ""
-#   description: ""
-#   subtype: workshop
-#   speakers: []
-#   complexity: ""
+  #language: uk
+  complexity: ""
+  #presentation: "https://forms.gle/mf8nqs6xiEQmGQov9"
+  #video: ""

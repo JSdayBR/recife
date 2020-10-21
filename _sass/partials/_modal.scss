@@ -60,17 +60,7 @@ $modal-highlight-color: #212121;
         margin: 12px 0 20px;
     }
     .theme-presentation {
-        color: $modal-highlight-color;
         font-size: 15px;
-        &:after {
-            content: "\2192";
-            margin-right: 2px;
-        }
-
-        &:focus,
-        &:hover {
-            color: $modal-color;
-        }
     }
     .people-details {
         .row {
@@ -118,9 +108,7 @@ $modal-highlight-color: #212121;
 .modal-ribbon-wrapper {
     margin-bottom: 5px;
     .modal-ribbon {
-        background-color: #A0A0A0;
         margin-right: 7px;
-        padding: 0 5px 2px;
         font-size: 14px;
     }
 }

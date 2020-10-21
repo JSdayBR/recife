@@ -8,8 +8,9 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
+
 # Site Settings
-title: "JSDay Recife 2019"
+title: "JSDay Recife 2020 Online Edition"
 email: "jsdaybr@gmail.com"
 description: "O JSday é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
@@ -31,101 +32,100 @@ organizerLogo: "/img/seo/organizer-logo.jpg"
 # Head
 metaKeywords: "event, javascript, js, angularjs, reactjs, accessibility, google maps, ionic, firebase, aplicativos híbridos, nodebots"
 twitterAccount: "@jsdaybr"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.jpg"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.jpg"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.jpg"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2019"
+c4pUrl: "https://forms.gle/mf8nqs6xiEQmGQov9"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/#about", text: "Sobre"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/#venue", text: "Local"}
+ # - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Programação"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/#tickets", text: "Inscrições"}
+ # - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/#partners", text: "Patrocinadores"}
-# - {permalink: "https://www.facebook.com/ficroficial/videos/339369130125808/", text: "Live"}
-# - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Call for Papers"}
-
-#bottomNavigationLinks:
-# - {link: "", text: ""}
+bottomNavigationLinks:
+ - {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um palestrante"}
 rightNavigationButtons:
- - {link: "https://www.sympla.com.br/jsday-recife-2019__533369", text: "Inscreva-se.now(&#9829;)"}
+ - {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um palestrante"}
 
 # Hero Block
-heroImage: "bghero.png"
-heroTitle: "<typeout>"
-eventDate: "14 de Dezembro, 2019"
-typeoutTextValues: '"JSday Recife 2019", "ReactJS", "Angular", "Ciclo de vida de um modulo npm","DevOps, Cloud Native, Containers e JavaScript"'
-typeoutFallback: "JSday Recife 2019"
+heroImage: "herofullimage.png"
+heroTitle: "O JSDay é <typeout>"
+eventDate: "12 de Dezembro, 2020"
+typeoutTextValues: '"", "JavaScript", "React", "Angular", "Online"'
+typeoutFallback: "JavaScript"
 heroButtons:
-- {link: "https://www.sympla.com.br/jsday-recife-2019__533369", text: "Inscreva-se.now(&#9829;)"}
-# - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Inscreva sua palestra"}
-# - {link: "https://forms.gle/sHa8gomzQC7sSgDB9", text: "Seja voluntário"}
+ - {permalink: "/#tickets", text: "Inscreva-se!"}
+ - {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um Palestrante"}
 
 # About Block
-aboutTitle: "Sobre o JSday Recife"
+aboutTitle: "Sobre o JSDay Recife"
 aboutBlock:
- - {title: "Sobre o <br> JSday Recife", class: "aboutSection", colWidth-xs: "12", image: "javascript.jpg", text: "O JSDay Brasil é um evento imersivo dedicado ao JavaScript, que acontecerá nas instalações de um dos maiores institutos de ensino do Brasil, a FICR." }
- - {title: "JavaScript", class: "parallelogram", colWidth-xs: "6", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
- - {title: "Mercado", class: "parallelogram", colWidth-xs: "6", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do JavaScript e estejam por dentro de suas novidades." }
- - {title: "Networking", class: "parallelogram", colWidth-xs: "6", image: "networking.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte." }
+ - {title: "Conferência", image: "conference.jpg", text: "O JSDay Brasil é um evento imersivo dedicado ao desenvolvimento de software com JavaScript. Devido ao COVID-19 toda programação de 2020 será online." }
+ - {title: "JavaScript", image: "workshop.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
+ - {title: "Mercado", image: "hackathon.jpg", text: "O mercado de TI tem uma demanda gigantesca por profissionais que conhecem as nuances do JavaScript e estejam por dentro de suas novidades." }
 
 # Statistic Block
-statisticBlockImage: ""
+statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "Participantes", detail: "Empresas, profissionais e estudantes"}
- - {count: "+16", specialCharacter: "+", info: "Palestras", detail: "Duas trilhas com tópicos incríveis"}
- - {count: "8", specialCharacter: "+", info: "Horas", detail: "de puro código"}
- # - {count: "1", specialCharacter: "+", info: "Workshop e Codelab", detail: "Foco total em JavaScript"}
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Novidades"
+latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: ""
+rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "JS Experts"
-rockstarSpeakersSubTitle: "Palestras com alguns dos melhores especialistas da área. Mesclamos atrações locais com internacionais e também selecionamos pelo nosso call for papers."
-rockstarSpeakersButtonText: "Conheça todos Palestrantes"
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "Conheça os palestrantes"
 
 # Location Block
-locationBlockTitle: "Localização"
-eventLocationName: "Faculdade Imaculada Conceição do Recife (FICR)"
-eventLocationLink: "https://www.ficr.edu.br/"
-eventStreetAddress: "Avenida Caxangá 3841, 3841, Iputinga"
-eventAddressLocality: "Recife"
-eventAddressLocalityRegion: "PE"
-eventPostalCode: "50670-902"
-eventAddressCountry: "Brasil"
-eventStartTime: "2018-12-16T08:00"
-eventDoorTime: "08:00"
-eventEndTime: "2018-12-16T18:00"
-eventPlaceCoordinates: "-8.040965,-34.94011"
-mapCenterCoordinates: "-8.040965,-34.94011"
-mapMobileCenterCoordinates: "-8.0191395,-34.939734"
+locationBlockTitle: "Location"
+eventLocationName: "Conference Hall"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "22 Teatral'na St"
+eventAddressLocality: "Lviv"
+eventAddressLocalityRegion: "Lvivska"
+eventPostalCode: "79000"
+eventAddressCountry: "Ukraine"
+eventStartTime: "2014-10-25T10:00"
+eventDoorTime: "09:00"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "49.843237, 24.028751"
+mapCenterCoordinates: "49.842537, 24.025701"
+mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-venueBlockTitle: "Local do Evento"
-venueBigImage: "ficr2018.jpg"
-venueSmallImage1: "auditorio2019.jpg"
-venueSmallImage2: "sala2019.jpg"
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "FICR"
-venueFeatures: ["Salas climatizadas e com tratamento acústico, labs de informática, cantina, elevador e um amplo estacionamento."]
+venueTitle: "Kinopalace Cinema"
+venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "Tweets.get()"
-twitterHashTag: "jsdayrec"
-twitterFeed: "#"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "devfest"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organização"
+#corganizersTitle: "Organizers"
 partnersTitle: "Patrocinadores"
-partnersC4sponsorsButton: "Ajude-nos a codificar. Patrocine!"
+partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -134,72 +134,69 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Ingressos"
+ticketsTitle: "Inscrições"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early JS Lovers"
-  price: "R$ 70"
-  priceCurrency: ""
-  buyButtonLink: "https://www.sympla.com.br/jsday-recife-2019__533369"
-  buyButtonText: "Esgotado"
-  validFrom: "YYYY-MM-DDThh:mm"
-  validThrough: "YYYY-MM-DDThh:mm"
+  name: "Palestras"
+  price: "0"
+  priceCurrency: "R$"
+  ticketsNumber: "100"
+  #ribbon: "-5%"
+  buyButtonLink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806"
+  buyButtonText: "Inscreva-se!"
+  ticketContentList: ["O acesso as palestras é gratuito"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
  -
-  name: "Social e Estudante"
-  price: "R$ 90"
-  priceCurrency: ""
-  buyButtonLink: "https://www.sympla.com.br/jsday-recife-2019__533369"
-  buyButtonText: "Comprar"
-  validFrom: "YYYY-MM-DDThh:mm"
-  validThrough: "YYYY-MM-DDThh:mm"
+  name: "Certificado"
+  price: "35"
+  priceCurrency: "R$"
+  ticketsNumber: "100"
+  #ribbon: "-20%"
+  featured: false
+  buyButtonLink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806"
+  buyButtonText: "Garanta o seu!"
+  ticketContentList: ["Emissão do certificado digital"]
+  validFrom: "2014-10-01T00:00"
+  validThrough: "2014-10-23T23:59"
+  #disabled: false
  -
-  name: "JS Lovers"
-  price: "R$ 120"
-  priceCurrency: ""
-  buyButtonLink: "https://www.sympla.com.br/jsday-recife-2019__533369"
-  buyButtonText: "Comprar"
-  validFrom: "YYYY-MM-DDThh:mm"
-  validThrough: "YYYY-MM-DDThh:mm"
-
+  name: "Camisa"
+  price: "50"
+  priceCurrency: "R$"
+  ticketsNumber: "50"
+  buyButtonLink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806"
+  buyButtonText: "Reserve a sua!"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Camisa do evento"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+  soldOut: false
+  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=jsdaybr", icon: "twitter"}
- - {link: "https://www.facebook.com/jsdaybr/", icon: "facebook"}
-
+ - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.ficr.edu.br/", text: "FICR"}
-   - {link: "https://www.vtex.com/", text: "Vtex"}
-   - {link: "https://www.linx.com.br/", text: "Linx"}
-   - {link: "https://talentos.globo.com/", text: "Globo.com"}
-   #- {link: "http://artics.com.br/", text: "Artics"}
- #-
-  #title: "Edições Anteriores"
-  #links:
-  # - {link: "http://rio.jsday.com.br", text: "Rio 2018"}
-  # - {link: "http://fsa.jsday.com.br", text: "Feira de Santana 2018"}
-  # - {link: "http://fsa.jsday.com.br/2017", text: "Feira de Santana 2017"}
-  # - {link: "http://rec.jsday.com.br/2017", text: "Recife 2017"}
-  # - {link: "http://rec.jsday.com.br/2016", text: "Recife 2016"}
-  # - {link: "http://rec.jsday.com.br/2015", text: "Recife 2015"}
-  # - {link: "http://cg.jsday.com.br", text: "Campina Grande 2016"}
-  # - {link: "http://mcz.jsday.com.br", text: "Maceió 2015"}
+   - {link: "https://ficr.catolica.edu.br/", text: "FICR"}
+   # - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contato"
+  title: "Contacts"
   links:
-   - {link: "mailto:jsdaybr@gmail.com", text: "jsdaybr@gmail.com"}
-   - {link: "mailto:felipealbuquerque81@gmail.com", text: "felipealbuquerque81@gmail.com"}
+   - {link: "mailto:jsdaybr@gmail.com", text: "JSDay Brasil"}
+   - {link: "mailto:felipealbuquerque81@gmail.com", text: "Felipe A (Curador da Conferência)"}
+   - {link: "mailto:andre.melo@p.ficr.edu.br", text: "André Melo (Curador da Conferência)"}
  -
   title: "FAQ"
   links:
-   - {link: "https://forms.gle/sHa8gomzQC7sSgDB9", text: "Seja um voluntário"}
-   - {link: "https://forms.gle/3uz5mpe4ovKvKAZu5", text: "Inscreva sua palestra"}
-   - {link: "http://rec.jsday.com.br/assets/JSDayRecife2019ProjetoExecutivo.pdf", text: "Projeto executivo"}
-   - {link: "http://pt-br.confcodeofconduct.com/", text: "Código de Conduta"}
-#   - {link: "http://womentechmakers.com", text: "WTM (Women Techmakers)"}
+   - {link: "https://pt-br.confcodeofconduct.com/", text: "Codigo de conduta"}
 
 # Blog
 blogTitle: "Latest news"
@@ -212,30 +209,6 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
-
-# Call for Papers
-cfpTitle: "Espalhe o amor pelo JavaScript"
-cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScript é capaz. Se você já está por dentro das novidades de ES2015 e ES2016, sabe utilizar componentes React ou Angular como ninguém, programa usando JavaScript funcional e reativo ou ainda quer explicar do que se trata esse tal de Babel, participe do JSDay e ajude a comunidade crescer."
-cfpLink: "https://www.sympla.com.br/jsday-recife-2017__108032"
-cfpLinkText: "Inscreva-se <3"
-
-# O que esperar do JSDay Recife 2018?
-oqjsday2016Title: "O que esperar do JSDay Recife 2018?"
-oqjsday2016Description: "Palestras com alguns dos melhores especialistas da área, trocas de ideias, atividades práticas, sorteios, networking e várias outras surpresas - é isso que os participantes do JSDay encontrarão."
-oqjsday2016Link: "#"
-oqjsday2016LinkText: "Leia mais"
-
-# Staff equipe JSDay
-staffTitle: "Organização"
-staffImage: ""
-
-#WTM JavaScript Codelab
-wtmCodelabTitle: "WTM JavaScript Codelab"
-trainingImage: "womentechmakers.jpg"
-trainingTitle: "Instrutora"
-wtmJavaScriptCodelabRows:
- - {title: "Codelab Gratuito para Mulheres", image: "1.png", details: "O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"}
- - {title: "Por que JavaScript?", image: "2.png", details: "Uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas.<br><br>Hoje o JavaScript está entrando num processo de evolução, inovação e padronização, com novos desenvolvimentos, como Node.js, permitindo usar o JavaScript no servidor, além de APIs HTML5 para obter dados sobre a localização de dispositivos e características geográficas e muito mais."}
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -284,8 +257,25 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: false
+enableHackathon: true
 
+# Hackathon About Block
+aboutHackathonTitle: "Meet our themes"
+hackathonRows:
+ - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+ - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+ - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Prizes Block
+prizesTitle: "Prizes"
+prizes:
+ - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+ - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"

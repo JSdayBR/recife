@@ -1,18 +1,3 @@
-#venue {
-    background: #e7e7e7;
-}
-
-.venue-img {
-    transition: all 0.5s ease-in-out;
-    -webkit-filter: grayscale(100%);
-      filter: grayscale(100%);
-}
-
-.venue-img:hover {
-    -webkit-filter: grayscale(0%);
-      filter: grayscale(0%);
-}
-
 .venue-col {
     height: 100%;
     padding: 0;
@@ -50,51 +35,46 @@
 .venue-big-elem {
     height: 610px;
     @media (min-width: 768px) and (max-width: 991px) {
-        height: 580px;
+        height: 580px;    
     }
     @media (max-width: 767px) {
-        height: 340px;
+        height: 340px;    
     }
 }
 .venue-small-elem {
     height: 200px;
     @media (min-width: 768px) and (max-width: 991px) {
-        height: 190px;
+        height: 190px;    
     }
     @media (max-width: 767px) {
-        height: 200px;
+        height: 200px;    
     }
 }
 .venue-text {
     padding: 30px 20px;
-    color: #333;
-    background: #f4de50;
-    .bt-parallelogram {
-        background: #000;
-        color: #fff;
-        padding: 5px 10px;
-    }
+    color: #fff;
+    background: $main-color;
     @media (max-width: 767px) {
-        padding: 20px 15px;
+        padding: 20px 15px;    
     }
     h5 {
         margin-top: 0;
         @media (min-width: 768px) and (max-width: 991px) {
-            font-size: 26px;
+            font-size: 26px;    
         }
         @media (max-width: 767px) {
-            font-size: 21px;
+            font-size: 21px;    
         }
     }
     p {
         font-size: 17px;
         @media (min-width: 768px) and (max-width: 991px) {
             font-size: 16px;
-            line-height: 19px;
+            line-height: 19px;    
         }
         @media (max-width: 767px) {
             font-size: 14px;
-            line-height: 16px;
+            line-height: 16px;    
         }
     }
 }

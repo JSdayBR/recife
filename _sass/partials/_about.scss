@@ -1,62 +1,8 @@
 .about-details {
-
     img {
         width: 128px;
     }
     p {
-        text-align: left;
         margin-top: 10px;
-    }
-}
-
-.aboutSection {
-    text-align: right;
-    h5 {
-        
-        font-weight: bolder;
-    }
-    @media (max-width: 767px) {
-        text-align: center;
-        padding: 0 8%;
-    }
-    
-}
-.parallelogram h5 {
-    display: table;
-    text-transform: uppercase;
-    font-size: 24px;
-    font-weight: bolder;
-    font-style: italic;
-    background: #fdf202;
-    padding: 5px 10px;
-    -webkit-clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
-    		clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
-}
-
-.cfp-step-by-step {
-    margin-top: 2em;
-    padding-left: 0;
-    list-style-position: inside;
-
-    li {
-        font-size: 18px;
-        margin-bottom: 1em;
-        text-align: left;
-
-        a {
-            color: #f8dc3d;
-            font-weight: 400;
-
-            &:hover {
-                text-decoration: underline;
-            }
-        }
-    }
-}
-
-.cfp {
-    .cfp-link {
-        background: #f8d75d;
-        margin: 2em 0 3em 0;
     }
 }

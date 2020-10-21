@@ -3,7 +3,7 @@
   name: "Vitaliy"
   surname: "Zasadnyy"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: felipealbuquerque.jpg
+  thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -17,7 +17,7 @@
   name: "Oleh"
   surname: "Zasadnyy"
   title: "Designer and Web Developer"
-  thumbnailUrl: felipealbuquerque.jpg
+  thumbnailUrl: OlehZasadnyy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -29,7 +29,7 @@
   name: "Ostap"
   surname: "Andrusiv"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: felipealbuquerque.jpg
+  thumbnailUrl: OstapAndrusiv.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -42,7 +42,7 @@
   name: "Dmytro"
   surname: "Danylyk"
   title: "Android Program Committee"
-  thumbnailUrl: felipealbuquerque.jpg
+  thumbnailUrl: DmytroDanylyk.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -53,7 +53,7 @@
   name: "Valentyn"
   surname: "Shybanov"
   title: "Web and Cloud Program Committee"
-  thumbnailUrl: felipealbuquerque.jpg
+  thumbnailUrl: ValentynShybanov.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}

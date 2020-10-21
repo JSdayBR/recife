@@ -6,29 +6,25 @@
             {% for ticketsOffer in site.ticketsOffers %}
 	            {% assign colWidth = 12 | divided_by: forloop.length %}
 	            {% assign check = forloop.index | modulo:2 %}
-	            <div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} pricing-col">
+	            <div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} pricing-col {% if ticketsOffer.featured != null %}pricing-col-featured{% endif %} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}" data-delay="{% if check == 0 %}0{% else %}500{% endif %}">
 	            	{% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %}
-					{% if ticketsOffer.price != null %}
 					<div class="pricing-header">
 						<p class="title">{{ ticketsOffer.name }}</p>
-						<p class="price">{{ ticketsOffer.price }} <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p>
+						<p class="price"><span class="currency">{{ ticketsOffer.priceCurrency }}</span> {{ ticketsOffer.price }} </p>
 					</div>
-					{% endif %}
 					<div class="pricing-content">
-						{% if ticketsOffer.ticketContentList != null %}
 						<ul>
 							{% for listItem in ticketsOffer.ticketContentList %}
 							<li>{{ listItem }}</li>
 							{% endfor %}
 						</ul>
-						{% endif %}
 						{% if ticketsOffer.soldOut == true %}
 						<span class="button disabled">{{ ticketsOffer.soldOutText }}</span>
 						{% elsif ticketsOffer.disabled != true %}
 						<a class="button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
 						{% else %}
 		           		{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
-						<span class="button disabled fallback">Disponível em {{ ticketValidFrom[0] | date: "%-d %b %Y"}} {{ ticketValidFrom[1] }}</span>
+						<span class="button disabled fallback">Ticket sales will begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</span>
 						{% endif %}
 					</div>
 				</div>

@@ -3,25 +3,25 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
-    <meta name="author" content="JSDay Brasil">
+    <meta name="author" content="Oleh Zasadnyy, GDG Lviv">
     <meta name="description" content="{{ site.description }}">
     <meta name="keywords" content="{{ site.metaKeywords }}">
     <meta name="google-site-verification" content="{{ site.siteVerification }}" />
-    <link rel="canonical" href="{{ site.seasonUrl }}">
+    <link rel="canonical" href="{{ site.url }}">
     <!-- Social: Twitter -->
-    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="{{ site.twitterAccount }}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{{ site.description }}">
-    <meta name="twitter:image:src" content="{{ site.socialImageSrcTwitter | prepend: site.baseurl | prepend: site.seasonUrl }}">
+    <meta name="twitter:image:src" content="{{ site.socialImageSrcTwitter | prepend: site.baseurl | prepend: site.url }}">
     <!-- Social: Facebook / Open Graph -->
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta property="og:site_name" content="{{ site.title }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="{{ site.seasonUrl }}" />
-    <meta property="og:image" content="{{ site.socialImageSrcFacebook | prepend: site.baseurl | prepend: site.seasonUrl }}" />
-    <meta property="og:description" content="{{ site.description }}" />
-
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" /> 
+    <meta property="og:site_name" content="{{ site.title }}" /> 
+    <meta property="og:type" content="website" /> 
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:image" content="{{ site.socialImageSrcFacebook | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:description" content="{{ site.description }}" /> 
+    
     <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="shortcut icon" href="{{ "/img/favicons/favicon.ico" | prepend: site.baseurl }}">
     <link rel="apple-touch-icon" sizes="152x152" href="{{ "/img/favicons/apple-touch-icon-152x152.png" | prepend: site.baseurl }}">
@@ -40,13 +40,10 @@
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-TileImage" content="{{ "/img/favicons/mstile-144x144.png" | prepend: site.baseurl }}">
     <meta name="msapplication-config" content="{{ "/img/favicons/browserconfig.xml" | prepend: site.baseurl }}">
-
+    
     <meta name="theme-color" content="#2b5797">
-
-    <link href="{{ "/css/main.css" | prepend: site.baseurl }}" rel="prefetch" media="all" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}"></noscript>
-
-    <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Roboto&display=swap" type="font/woff2" crossorigin="anonymous">
+    
+    <link href="{{ "/css/main.css" | prepend: site.baseurl }}" rel="stylesheet"> 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -54,9 +51,4 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
       <![endif]-->
-
-    <style>
-        {% include critical.css %}
-    </style>
-
   </head>
