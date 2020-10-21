@@ -6,10 +6,10 @@
   description: "Abertura do evento"
 -
   id: 302
-  title: "Networking com os patrocinadores."
+  title: "Pausa e networking"
   place: "Hall"
   service: true
-  description: "Momento para o patrocinador interagir com o publico."
+  description: "Momento para a pausa e interação entre os participantes e patrocinadores."
 -
   id: 303
   title: "Encerramento"
