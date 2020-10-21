@@ -45,7 +45,6 @@ c4pUrl: "https://forms.gle/mf8nqs6xiEQmGQov9"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/#tickets", text: "Inscrições"}
