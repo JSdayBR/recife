@@ -48,8 +48,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/#tickets", text: "Inscrições"}
- # - {permalink: "/team/", text: "Team"}
- # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/#partners", text: "Patrocinadores"}
 bottomNavigationLinks:
  - {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um palestrante"}
