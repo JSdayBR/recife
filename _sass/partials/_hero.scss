@@ -24,7 +24,7 @@
     }
 }
 
-.img-hero-responsive {
+.img-hero-responsive { 
     background-image: url($hero-image) !important;
     @media (max-width: 767px) {
         background-image: url($hero-smartphone-image) !important;
