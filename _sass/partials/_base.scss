@@ -54,4 +54,7 @@ $image-dir: "../img";
 $sprites-dir: $image-dir + "/sprites";
 $logos-sprite: $sprites-dir + "/logo-sprites.png";
 
+$hero-image: $image-dir + "/sections-background/herofullimage.png";
+$hero-smartphone-image: $image-dir + "/sections-background/herosmartphone.jpg";
+
 @import "modules/all";
