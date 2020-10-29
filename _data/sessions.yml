@@ -42,13 +42,13 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "7 Hábitos de Desenvolvedores Altamente Produtivos"
+  description: "Você pode aprender os framework mais populares, usar as melhores linguagens de programação e trabalhar nas maiores empresas de tecnologia, mas se você cultivar maus hábitos, vai ser difícil se tornar um desenvolvedor de ponta. Essa palestra não oferece um caminho definitivo ou fórmula predefinida de sucesso. Essa palestra busca mostrar quais hábitos podem ser cultivados para se tornar um melhor engenheiro de software."
   subtype: presentation
-  speakers: []
-  #language: en
+  speakers: [5]
+  language: pt-br
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"

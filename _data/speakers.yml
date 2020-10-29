@@ -24,3 +24,18 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/stoyanstefanov/"}
+- 
+  id: 5
+  name: "Zeno"
+  surname: "Rocha"
+  company: "Liferay"
+  title: "Chief Product Officer"
+  bio: 'Zeno Rocha é um criador e programador. Atualmente, ele mora em Los Angeles, Califórnia, onde é Chief Product Officer na Liferay Cloud. Seu amor por software e compartilhar conhecimento o levou a falar em mais de 110 conferências em todo o mundo. Sua paixão por código aberto o colocou entre os 20 usuários mais ativos do GitHub com 22 anos. Antes de se mudar para os EUA, Zeno desenvolveu vários aplicativos, orientou startups e trabalhou em grandes empresas do Rio de Janeiro e Recife, como Globo e Petrobras.'
+  thumbnailUrl: zenorocha.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "CPO", title: "Chief Product Officer at Liferay", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/zenorocha"}
+    - {name: "github", link: "https://github.com/zenorocha"}
+    - {name: "twitter", link: "https://twitter.com/zenorocha"}
