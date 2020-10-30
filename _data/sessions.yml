@@ -35,7 +35,7 @@
   title: "Em breve"
   description: "Em breve"
   subtype: presentation
-  speakers: [4]
+  speakers: []
   language: en
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -51,14 +51,14 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "React state management with hooks, contexts and reducers"
+  description: "Hooks were initially an answer to a question of performance optimization: get rid of classes and only use functional components. The initial goal was to allow state management in a functional components. But turns out hooks offered a whole new way of thinking about components' lifecycles. Learning hooks is a powerful new tool in your React toolbox. You can write your own hooks and you can also master some of the powerful built-in ones. `useContext` and `useReducer` are examples of two new APIs that solve problems that required people to use third-party libraries in the past."
   subtype: keynote
-  speakers: [6]
-  #language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 000
   title: "Em breve!"

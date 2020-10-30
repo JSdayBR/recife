@@ -17,13 +17,14 @@
   id: 4
   name: "Stoyan"
   surname: "Stefanov"
-  company: "Facebook"
+  company: "Ex Facebook"
   title: "Software Engieneer"
   bio: 'Stoyan Stefanov is a front-end performance engineer at Yahoo! Search, speaker, author of Object-Oriented JavaScript and contributor to Even Faster Web Sites, High-Performance JavaScript, co-creator of the smush.it image optimizer, YSlow 2.0 architect, beach bum and guitar virtuoso wannabe.'
   thumbnailUrl: stoyan.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/stoyanstefanov/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/stoyanstefanov/"} 
+    - {name: "twitter", link: "https://twitter.com/stoyanstefanov"}
 - 
   id: 5
   name: "Zeno"
