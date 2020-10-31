@@ -9,7 +9,7 @@
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: ""}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/community/gdg"}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/willmendesneto/"}
     - {name: "twitter", link: "https://twitter.com/willmendesneto"}
