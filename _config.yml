@@ -50,9 +50,10 @@ navigationLinks:
  - {permalink: "/#tickets", text: "Inscrições"}
  - {permalink: "/#partners", text: "Patrocinadores"}
 bottomNavigationLinks:
- - {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um palestrante"}
+ #- {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um palestrante"}
 rightNavigationButtons:
- - {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um palestrante"}
+ - {permalink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806", text: "Inscreva-se!"}
+ # - {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um palestrante"}
 
 # Hero Block
 heroImage: "herofullimage.png"
@@ -63,7 +64,7 @@ typeoutTextValues: '"", "JavaScript", "React", "Angular", "Online"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {permalink: "/#tickets", text: "Inscreva-se!"}
- - {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um Palestrante"}
+ #- {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um Palestrante"}
 
 # About Block
 aboutTitle: "Sobre o JSDay Recife"

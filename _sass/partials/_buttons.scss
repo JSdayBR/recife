@@ -15,3 +15,14 @@
         background: #fff;
     }
 }
+
+.jumbotron {
+    .btn-primary {
+            color: black !important;
+            background: #fff;
+        &:hover, &:focus, &:active, &.active {
+            color: #fff !important;
+            background: black;
+        }
+    }
+}
