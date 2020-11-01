@@ -50,7 +50,7 @@ navigationLinks:
  - {permalink: "/#tickets", text: "Inscrições"}
  - {permalink: "/#partners", text: "Patrocinadores"}
 bottomNavigationLinks:
- #- {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um palestrante"}
+ - {permalink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806", text: "Inscreva-se!"}
 rightNavigationButtons:
  - {permalink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806", text: "Inscreva-se!"}
  # - {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um palestrante"}
@@ -160,19 +160,7 @@ ticketsOffers:
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
   #disabled: false
- -
-  name: "Camisa"
-  price: "50"
-  priceCurrency: "R$"
-  ticketsNumber: "50"
-  buyButtonLink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806"
-  buyButtonText: "Reserve a sua!"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Camisa do evento"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: false
-  soldOutText: "Sold Out"
+
 
 # Footer
 socialLinks:
