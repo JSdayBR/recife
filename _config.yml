@@ -170,9 +170,12 @@ socialLinks:
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Edições anteriores"
   links:
-   - {link: "https://ficr.catolica.edu.br/", text: "FICR"}
+   - {link: "http://recife2019.jsday.com.br/", text: "Recife 2019"}
+   - {link: "https://recife2018.jsday.com.br/", text: "Recife 2018"}
+   - {link: "https://recife2017.jsday.com.br/", text: "Recife 2017"}
+   - {link: "https://recife2016.jsday.com.br/", text: "Recife 2016"}
    # - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
@@ -180,6 +183,11 @@ footerBlocks:
    - {link: "mailto:jsdaybr@gmail.com", text: "JSDay Brasil"}
    - {link: "mailto:felipealbuquerque81@gmail.com", text: "Felipe A (Curador da Conferência)"}
    - {link: "mailto:andre.melo@p.ficr.edu.br", text: "André Melo (Curador da Conferência)"}
+ -
+  title: "Links"
+  links:
+   - {link: "https://ficr.catolica.edu.br/", text: "FICR"}
+   # - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "FAQ"
   links:
