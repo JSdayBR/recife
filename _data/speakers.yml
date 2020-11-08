@@ -40,3 +40,31 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/zenorocha"}
     - {name: "github", link: "https://github.com/zenorocha"}
     - {name: "twitter", link: "https://twitter.com/zenorocha"}
+- 
+  id: 6
+  name: "Marlon"
+  surname: "Vasconcelos"
+  company: "Transatlantic Translations Group - NY"
+  title: "Tradutor, Intérprete e Professor de Inglês"
+  bio: 'Graduado em Comércio Exterior pela UNINTER, cursando 5º período de Letras EN-PT-UNIP. Atua como professor de Inglês (ESL) e também como tradutor/intérprete em reuniões de negócios de importação/exportação, segurança bancária, engenharia civil, mecânica pesada e treinamento de equipes para os maiores players do mercado. Entusiasta de informática, inovação e empreendedorismo.'
+  thumbnailUrl: marlon.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "TTG", title: "Transatlantic Translations Group", url: "https://ttgtranslates.com/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marlonpierrevasconcelos/"}
+- 
+  id: 7
+  name: "Eduarda"
+  surname: "Scharnhorst"
+  company: "Nubank"
+  title: "Software Engineer"
+  bio: 'Recifense, mas me aventurando por São Paulo há 2 anos. Sou Software Engineer no Nubank e trabalho com web desde 2016, quando me apaixonei por desenvolvimento e decidir migrar de administração para computação. No instagram, compartilho conteúdo de tecnologia para quem tá começando na área.'
+  thumbnailUrl: eduarda.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Nubank", title: "Nubank - Software Engineer", url: "https://nubank.com.br/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dudaschar"}
+    - {name: "github", link: "https://github.com/dudaschar"}
+    - {name: "twitter", link: "https://twitter.com/dudaschar"}

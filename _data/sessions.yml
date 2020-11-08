@@ -60,6 +60,24 @@
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
+  id: 005
+  title: "Indo além de mudanças de cor com testes A/B"
+  description: "Quando falamos de experimentos para aumento de conversão com testes A/B sem lembramos dos clássicos exemplos de mudança de cor do botão, ou alteração de textos. Mas a medida que a cultura de experimentação cresce no time, cada vez mais queremos fazer testes mais complexos. Nessa talk vou apresentar como criamos uma estrutura de testes A/B no Nubank, usando como base ferramentas já conhecidas no mercado."
+  subtype: presentation
+  speakers: [7]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 010
+  title: "Tradução e Interpretação"
+  description: "Não fique preocupado se você não sabe Inglês! O JSDay Brasil vai contar com o tradutor Marlon Vasconcelos, ele vai traduzir e interpretar a palestra do Stoyan 'React state management with hooks, contexts and reducers'."
+  subtype: presentation
+  speakers: [6]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
   id: 000
   title: "Em breve!"
   description: "Estamos selecionando as melhores palestras para você!"
