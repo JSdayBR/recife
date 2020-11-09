@@ -68,3 +68,17 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/dudaschar"}
     - {name: "github", link: "https://github.com/dudaschar"}
     - {name: "twitter", link: "https://twitter.com/dudaschar"}
+- 
+  id: 8
+  name: "Ramon"
+  surname: "Bezerra"
+  company: "Booking.com - Holanda"
+  title: "Principal Front-End Developer"
+  bio: 'Sou Recifense de coração e moro em Amsterdã desde o final de 2014. O que mais sinto do Recife? Sol todo dia e do bolo de rolo também. :) Nos últimos anos venho explorando Vue.js, micro-frontends, design systems, Node.js, GraphQL, etc. Nas horas vagas gosto de tocar cavaquinho e passar tempo com minha esposa e meu filho.'
+  thumbnailUrl: ramon.jpg
+  rockstar: true
+  ribbon: 
+    # - {abbr: "Nubank", title: "Nubank - Software Engineer", url: "https://nubank.com.br/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ramonvictor/"}
+    - {name: "twitter", link: "https://twitter.com/ramonvictor"}

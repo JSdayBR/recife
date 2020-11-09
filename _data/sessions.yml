@@ -78,6 +78,15 @@
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
+  id: 011
+  title: "Vue.js e design systems em larga escala"
+  description: "Nessa palestra gostaria de compartilhar o que venho aprendendo na Booking.com em relação a manter uma component library em Vue.js. Dicas de como evitar erros que comentemos no início, recomendação de ferramentas úteis para manter alto padrão de qualidade e o que esperar do futuro."
+  subtype: presentation
+  speakers: [8]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
   id: 000
   title: "Em breve!"
   description: "Estamos selecionando as melhores palestras para você!"
