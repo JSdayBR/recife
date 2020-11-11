@@ -1,7 +1,7 @@
 - 
   group: "Patrocinadores"
   elements:
-    - {name: "Globo", description: "globo", link: "https://www.globo.com/", imageUrl: "globo.png", width: "36%"}
+    - {name: "Globo", description: "globo", link: "https://talentos.globo.com/", imageUrl: "globo.png", width: "36%"}
 - 
   group: ""
   elements:
