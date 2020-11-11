@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/#tickets", text: "Inscrições"}
+ - {permalink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806", text: "Inscrições"}
  - {permalink: "/#partners", text: "Patrocinadores"}
 bottomNavigationLinks:
  - {permalink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806", text: "Inscreva-se!"}
@@ -63,7 +63,7 @@ eventDate: "12 de Dezembro, 2020"
 typeoutTextValues: '"", "JavaScript", "React", "Angular", "Online"'
 typeoutFallback: "JavaScript"
 heroButtons:
- - {permalink: "/#tickets", text: "Inscreva-se!"}
+ - {permalink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806", text: "Inscreva-se!"}
  #- {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um Palestrante"}
 
 # About Block
