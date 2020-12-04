@@ -87,6 +87,14 @@
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
+  id: 012
+  title: "React Native & Animations"
+  description: "Animações devem ser usadas para melhorar a experiência do usuário do seu aplicativo. Eles não devem ser usados ​​apenas para encantar o usuário. Essa talk busca mostrar algumas animação e exemplos que devem servir de experiência do usuário e não apenas como algo encantador..."
+  subtype: keynote
+  speakers: [9]
+  language: pt-br
+  complexity: "Intermediate"
+-
   id: 000
   title: "Em breve!"
   description: "Estamos selecionando as melhores palestras para você!"

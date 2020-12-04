@@ -82,3 +82,18 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/ramonvictor/"}
     - {name: "twitter", link: "https://twitter.com/ramonvictor"}
+- 
+  id: 9
+  name: "Carlos"
+  surname: "Carmo"
+  company: "Globo"
+  title: "Software Engineer"
+  bio: 'Mobile Software Engineer at @globocom CartolaFC, speaker in Meetups and Confs, organizer at @cocoaheadsRj | @reactRio, gamer, musician, and Cinephilia.'
+  thumbnailUrl: carlos-carmo.jpg
+  rockstar: true
+  ribbon: 
+    # - {abbr: "Nubank", title: "Nubank - Software Engineer", url: "https://nubank.com.br/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/carloshperc/"}
+    - {name: "twitter", link: "https://twitter.com/Carloshperc"}
+    - {name: "github", link: "https://github.com/carloshpdoc"}
