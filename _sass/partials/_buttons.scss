@@ -12,17 +12,17 @@
     &:hover, &:focus, &:active, &.active {
         outline: none;
         color: black !important;
-        background: #fff;
+        background: #ffdd15; 
     }
 }
 
 .jumbotron {
     .btn-primary {
             color: black !important;
-            background: #fff;
+            background: #ffdd15;
         &:hover, &:focus, &:active, &.active {
-            color: #fff !important;
-            background: black;
+            // color: #fff !important;
+            background: white; 
         }
     }
 }

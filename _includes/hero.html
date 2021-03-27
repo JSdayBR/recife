@@ -1,8 +1,9 @@
 <!-- Begin Hero Section -->
-<section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
+<section id="top-section-hero" class="top-section-hero top-section image-section">
     {% include navigation.html %}
     <div class="content-wrapper">
     <div class="jumbotron">
+        <img src="{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}" />
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <p>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</p>

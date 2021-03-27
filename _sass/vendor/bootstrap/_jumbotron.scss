@@ -9,6 +9,11 @@
   color: $jumbotron-color;
   background-color: $jumbotron-bg;
 
+  img {
+    margin-bottom: 2%;
+    width: 100%;
+    max-width: 518px;
+  }
   h1,
   .h1 {
     color: $jumbotron-heading-color;
@@ -17,6 +22,7 @@
   p {
     margin-bottom: ($jumbotron-padding / 2);
     font-size: $jumbotron-font-size;
+    margin-bottom: 2%;
     font-weight: 200;
   }
 
@@ -31,7 +37,7 @@
 
   .container {
     max-width: 100%;
-  }
+  } 
 
   @media screen and (min-width: $screen-sm-min) {
     padding: ($jumbotron-padding * 1.6) 0;

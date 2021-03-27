@@ -1,99 +1,28 @@
 - 
-  id: 3
-  name: "Wilson"
-  surname: "Mendes Neto"
-  company: "Atlassian - Sydney, Australia"
-  title: "Senior Software Engineer"
-  bio: "I'm a Google Developer Expert (GDE) in Angular and Web technologies and Microsoft Most Valuable Professional (MVP) in Developer technologies. I published a free e-book titled Nodebots: javascript and robotics in the real world in English and Brazilian Portuguese, which explains several architectural points such as testability, task automation and application evolution in IoT applications."
-  thumbnailUrl: wil-mendes.jpg
+  id: 1
+  name: "Raí"
+  surname: "Siqueira"
+  company: "Justa"
+  title: "Software Engineer e Tech lead Frontend"
+  bio: "Engenheiro de Software na Justa Soluções Financeiras. 5+ anos de experiência com JavaScript/TypeScript, atualmente trabalhando com React, Angular e Micro frontends."
+  thumbnailUrl: rai.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/community/gdg"}
+    #- {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/community/gdg"}
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/willmendesneto/"}
-    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
+    - {name: "github", link: "https://github.com/raisiqueira"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/raisiqueira/"}
 - 
-  id: 4
-  name: "Stoyan"
-  surname: "Stefanov"
-  company: "Ex Facebook - Los Angeles"
-  title: "Software Engieneer"
-  bio: 'Stoyan Stefanov (www.phpied.com) is ex-Facebook engineer, ex-Yahoo, architect of the YSlow 2.0 performance tool and creator of the smush.it image optimization tool. <p>He''s the author of the books: "React Up and Running" (O''Reilly), "JavaScript Patterns" (O''Reilly) and "Object-Oriented JavaScript" (Packt) among others. Stoyan blogs at phpied.com and has spoken at conferences and meetups around the world (Velocity, JSConf, OSCON, Web Directions, Fronteers...). He also runs the web performance portal (https://www.perfplanet.com/).</p> <p>He spends his offline hours biking around the beach and making music (rarely at the same time though).</p>'
-  thumbnailUrl: stoyan.jpg
+  id: 2
+  name: "Luciano"
+  surname: "Ratamero"
+  company: "Hoshi Software"
+  title: "Consultor JS/Python"
+  bio: 'Luciano é consultor JS/Python e ex-jornalista que aprendeu a ser social nas comunidades de software livre. Atualmente presta consultoria para a Labcodes Software Studio e a Simple Fractal. De vez em quando faz lives no twitch e vídeos no youtube, sempre sobre software. Ama: música, videogames, poesia, svelte, vídeos de gatinho, NaN.'
+  thumbnailUrl: luciano.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/stoyanstefanov/"} 
-    - {name: "twitter", link: "https://twitter.com/stoyanstefanov"}
-- 
-  id: 5
-  name: "Zeno"
-  surname: "Rocha"
-  company: "Liferay - Los Angeles"
-  title: "Chief Product Officer"
-  bio: 'Zeno Rocha é um criador e programador. Atualmente, ele mora em Los Angeles, Califórnia, onde é Chief Product Officer na Liferay Cloud. Seu amor por software e compartilhar conhecimento o levou a falar em mais de 110 conferências em todo o mundo. Sua paixão por código aberto o colocou entre os 20 usuários mais ativos do GitHub com 22 anos. Antes de se mudar para os EUA, Zeno desenvolveu vários aplicativos, orientou startups e trabalhou em grandes empresas do Rio de Janeiro e Recife, como Globo e Petrobras.'
-  thumbnailUrl: zenorocha.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "CPO", title: "Chief Product Officer at Liferay", url: "https://www.liferay.com/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/zenorocha"}
-    - {name: "github", link: "https://github.com/zenorocha"}
-    - {name: "twitter", link: "https://twitter.com/zenorocha"}
-- 
-  id: 6
-  name: "Marlon"
-  surname: "Vasconcelos"
-  company: "Transatlantic Translations Group - NY"
-  title: "Tradutor, Intérprete e Professor de Inglês"
-  bio: 'Graduado em Comércio Exterior pela UNINTER, cursando 5º período de Letras EN-PT-UNIP. Atua como professor de Inglês (ESL) e também como tradutor/intérprete em reuniões de negócios de importação/exportação, segurança bancária, engenharia civil, mecânica pesada e treinamento de equipes para os maiores players do mercado. Entusiasta de informática, inovação e empreendedorismo.'
-  thumbnailUrl: marlon.jpg
-  rockstar: false
-  ribbon: 
-    - {abbr: "TTG", title: "Transatlantic Translations Group", url: "https://ttgtranslates.com/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/marlonpierrevasconcelos/"}
-- 
-  id: 7
-  name: "Eduarda"
-  surname: "Scharnhorst"
-  company: "Nubank"
-  title: "Software Engineer"
-  bio: 'Recifense, mas me aventurando por São Paulo há 2 anos. Sou Software Engineer no Nubank e trabalho com web desde 2016, quando me apaixonei por desenvolvimento e decidir migrar de administração para computação. No instagram, compartilho conteúdo de tecnologia para quem tá começando na área.'
-  thumbnailUrl: eduarda.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "Nubank", title: "Nubank - Software Engineer", url: "https://nubank.com.br/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/dudaschar"}
-    - {name: "github", link: "https://github.com/dudaschar"}
-    - {name: "twitter", link: "https://twitter.com/dudaschar"}
-- 
-  id: 8
-  name: "Ramon"
-  surname: "Bezerra"
-  company: "Booking.com - Holanda"
-  title: "Principal Front-End Developer"
-  bio: 'Sou Recifense de coração e moro em Amsterdã desde o final de 2014. O que mais sinto falta do Recife? Sol todo dia e do bolo de rolo também. :) Nos últimos anos venho explorando Vue.js, micro-frontends, design systems, Node.js, GraphQL, etc. Nas horas vagas gosto de tocar cavaquinho e passar tempo com minha esposa e meu filho.'
-  thumbnailUrl: ramon.jpg
-  rockstar: true
-  ribbon: 
-    # - {abbr: "Nubank", title: "Nubank - Software Engineer", url: "https://nubank.com.br/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ramonvictor/"}
-    - {name: "twitter", link: "https://twitter.com/ramonvictor"}
-- 
-  id: 9
-  name: "Carlos"
-  surname: "Carmo"
-  company: "Globo"
-  title: "Software Engineer"
-  bio: 'Mobile Software Engineer at @globocom CartolaFC, speaker in Meetups and Confs, organizer at @cocoaheadsRj | @reactRio, gamer, musician, and Cinephilia.'
-  thumbnailUrl: carlos-carmo.jpg
-  rockstar: true
-  ribbon: 
-    # - {abbr: "Nubank", title: "Nubank - Software Engineer", url: "https://nubank.com.br/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/carloshperc/"}
-    - {name: "twitter", link: "https://twitter.com/Carloshperc"}
-    - {name: "github", link: "https://github.com/carloshpdoc"}
+    - {name: "github", link: "https://github.com/lucianoratamero/"} 
+    - {name: "twitter", link: "https://twitter.com/lucianoratamero/"}
+    - {name: "youtube", link: "https://www.youtube.com/channel/UCYBAN_yOwqKG6tlaPHvROqg"}

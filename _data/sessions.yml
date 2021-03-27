@@ -23,19 +23,19 @@
   service: true
 -
   id: 001
-  title: "User Timing API: because performance matters"
-  description: "Are you working with large frontend application and you are facing problems in your project? Problems like memory leaks, and performance bottlenecks can be real issues in your site and there are some of the features there are really useful to improve the performance of your web app… but what if it’s not enough? How to combine performance validation between backend and frontend via instrumentation, analysing and improving the reliability of your web app by user journey improvements? What if you want to track a specific feature in your code? In this talk, I will share my experience and decisions creating frontend components and applications focused on performance, how to manage quality, monitoring, and other techniques that will make your application blaze fast!"
+  title: "Aplicações Frontend dinâmicas com Webpack Module Federation"
+  description: "Desde antes do lançamento oficial da versão 5 do Webpack já ouvimos muito a respeito de uma revolução no frontend devido a facilidade de implementar a arquitetura de micro frontends usando Module Federations. Module Federation é um novo padrão de arquitetura onde conseguimos montar uma aplicação frontend com builds de aplicações diferentes, isso geralmente é conhecido como Micro-Frontends, mas não se limita a isso. Nesta apresentação vamos ver o conceito de Module Federation e de como usar em aplicações Angular e React."
   subtype: presentation
-  speakers: [3]
+  speakers: [1]
   language: pt-br
   complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Em breve"
-  description: "Em breve"
+  title: "Svelte: componentes sem boilerplate"
+  description: "<p>Se eu te dissesse que dá pra fazer seus componentes React terem ~40% menos código, muito mais performance, 1kb de bundle inicial e um código bem mais fácil de ler, você iria querer saber como?</p><p> Chega mais que vou mostrar a ferramenta que me fez nunca mais querer fazer projetos com React. Vou discutir os prós e contras do Svelte, a melhor forma de fazer frontend verdadeiramente reativo desde o advento do React!</p>"
   subtype: presentation
-  speakers: []
+  speakers: [2]
   language: en
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -49,51 +49,6 @@
   language: pt-br
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "React state management with hooks, contexts and reducers"
-  description: "Hooks were initially an answer to a question of performance optimization: get rid of classes and only use functional components. The initial goal was to allow state management in a functional components. But turns out hooks offered a whole new way of thinking about components' lifecycles. Learning hooks is a powerful new tool in your React toolbox. You can write your own hooks and you can also master some of the powerful built-in ones. `useContext` and `useReducer` are examples of two new APIs that solve problems that required people to use third-party libraries in the past."
-  subtype: keynote
-  speakers: [4]
-  language: en
-  complexity: "Intermediate"
-  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Indo além de mudanças de cor com testes A/B"
-  description: "Quando falamos de experimentos para aumento de conversão com testes A/B sem lembramos dos clássicos exemplos de mudança de cor do botão, ou alteração de textos. Mas a medida que a cultura de experimentação cresce no time, cada vez mais queremos fazer testes mais complexos. Nessa talk vou apresentar como criamos uma estrutura de testes A/B no Nubank, usando como base ferramentas já conhecidas no mercado."
-  subtype: presentation
-  speakers: [7]
-  language: pt-br
-  complexity: "Intermediate" 
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 010
-  title: "Tradução e Interpretação"
-  description: "Não fique preocupado se você não sabe Inglês! O JSDay Brasil vai contar com o tradutor Marlon Vasconcelos, ele vai traduzir e interpretar a palestra do Stoyan 'React state management with hooks, contexts and reducers'."
-  subtype: presentation
-  speakers: [6]
-  language: pt-br
-  complexity: "Intermediate" 
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 011
-  title: "Vue.js e design systems em larga escala"
-  description: "Nessa palestra gostaria de compartilhar o que venho aprendendo na Booking.com em relação a manter uma component library em Vue.js. Dicas de como evitar erros que comentemos no início, recomendação de ferramentas úteis para manter alto padrão de qualidade e o que esperar do futuro."
-  subtype: presentation
-  speakers: [8]
-  language: pt-br
-  complexity: "Intermediate" 
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 012
-  title: "React Native & Animations"
-  description: "Animações devem ser usadas para melhorar a experiência do usuário do seu aplicativo. Eles não devem ser usados ​​apenas para encantar o usuário. Essa talk busca mostrar algumas animação e exemplos que devem servir de experiência do usuário e não apenas como algo encantador..."
-  subtype: keynote
-  speakers: [9]
-  language: pt-br
-  complexity: "Intermediate"
 -
   id: 000
   title: "Em breve!"

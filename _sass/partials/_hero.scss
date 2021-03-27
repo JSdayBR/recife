@@ -2,9 +2,11 @@
     width: 100%;
     height: 100%;
     padding-top: 0;
+    background:#000 !important;
+
     .jumbotron {
         position: relative;
-        top: 57%;
+        top: 52%;
         margin: 0;
         left: 0;
         transform: translateY(-60%);
@@ -13,10 +15,10 @@
             padding: 0;
         }
         p {
-            color: black; 
-            font-size: $base-font-size * 2;
+            color: #fff; 
+            font-size: 18px;
             font-weight: $light;
-            margin-bottom: 15px;
+            margin-bottom: 2%;
         }
         .btn {
             margin: 0 3px;
@@ -51,7 +53,7 @@
 .icon-arrow-down {
     width: 32px;
     height: 32px;
-    fill: black;
+    fill: white;
     @media (max-width: 767px) {
         width: 24px;
         height: 24px;

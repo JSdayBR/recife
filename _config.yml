@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "JSDay Recife 2020 Online Edition"
+title: "JSDay Recife 2021 Online Edition"
 email: "jsdaybr@gmail.com"
 description: "O JSday é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
@@ -30,7 +30,7 @@ organizerLogo: "/img/seo/organizer-logo.jpg"
 # organizerLink: "#"
 
 # Head
-metaKeywords: "event, javascript, js, angularjs, reactjs, accessibility, google maps, ionic, firebase, aplicativos híbridos, nodebots"
+metaKeywords: "event, javascript, js, angularjs, reactjs, accessibility, google maps, ionic, firebase, aplicativos híbridos"
 twitterAccount: "@jsdaybr"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2020"
-c4pUrl: "https://forms.gle/mf8nqs6xiEQmGQov9"
+c4pUrl: "https://forms.gle/nxqrkUGsrax7XXgNA"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -47,24 +47,24 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806", text: "Inscrições"}
+ - {permalink: "https://www.sympla.com.br/jsday-recife-2021---online-edition__1169383", text: "Inscrições"}
  - {permalink: "/#partners", text: "Patrocinadores"}
 bottomNavigationLinks:
- - {permalink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806", text: "Inscreva-se!"}
+ - {permalink: "https://www.sympla.com.br/jsday-recife-2021---online-edition__1169383", text: "Inscreva-se!"}
 rightNavigationButtons:
- - {permalink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806", text: "Inscreva-se!"}
- # - {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um palestrante"}
+ - {permalink: "https://www.sympla.com.br/jsday-recife-2021---online-edition__1169383", text: "Inscreva-se!"}
+ #- {link: "https://forms.gle/nxqrkUGsrax7XXgNA", text: "Seja um palestrante"}
 
 # Hero Block
-heroImage: "herofullimage.png"
-heroImageSmartphone: "herosmartphone.jpg"
+heroImage: "herologo.png"
+heroImageSmartphone: "herologo.png"
 heroTitle: "O JSDay é <typeout>"
-eventDate: "12 de Dezembro, 2020"
+eventDate: "17 de Julho, 2021"
 typeoutTextValues: '"", "JavaScript", "React", "Angular", "Online"'
 typeoutFallback: "JavaScript"
 heroButtons:
- - {permalink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806", text: "Inscreva-se!"}
- #- {link: "https://forms.gle/mf8nqs6xiEQmGQov9", text: "Seja um Palestrante"}
+ - {permalink: "https://www.sympla.com.br/jsday-recife-2021---online-edition__1169383", text: "Inscreva-se!"}
+ #- {link: "https://forms.gle/nxqrkUGsrax7XXgNA", text: "Seja um Palestrante"}
 
 # About Block
 aboutTitle: "Sobre o JSDay Recife"
@@ -142,19 +142,19 @@ ticketsOffers:
   priceCurrency: "R$"
   ticketsNumber: "100"
   #ribbon: "-5%"
-  buyButtonLink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806"
+  buyButtonLink: "https://www.sympla.com.br/jsday-recife-2021---online-edition__1169383"
   buyButtonText: "Inscreva-se!"
   ticketContentList: ["O acesso as palestras é gratuito"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
   name: "Certificado"
-  price: "35"
+  price: "40"
   priceCurrency: "R$"
   ticketsNumber: "100"
   #ribbon: "-20%"
   featured: false
-  buyButtonLink: "https://www.sympla.com.br/jsday-2020---oline-edition__905806"
+  buyButtonLink: "https://www.sympla.com.br/jsday-recife-2021---online-edition__1169383"
   buyButtonText: "Garanta o seu!"
   ticketContentList: ["Emissão do certificado digital"]
   validFrom: "2014-10-01T00:00"
@@ -173,6 +173,7 @@ footerBlocks:
  -
   title: "Edições anteriores"
   links:
+   - {link: "http://recife2020.jsday.com.br/", text: "Recife 2020"}
    - {link: "http://recife2019.jsday.com.br/", text: "Recife 2019"}
    - {link: "https://recife2018.jsday.com.br/", text: "Recife 2018"}
    - {link: "https://recife2017.jsday.com.br/", text: "Recife 2017"}
