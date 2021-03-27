@@ -69,7 +69,7 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre o JSDay Recife"
 aboutBlock:
- - {title: "Conferência", image: "conference.jpg", text: "O JSDay Brasil é um evento imersivo dedicado ao desenvolvimento de software com JavaScript. Devido ao COVID-19 toda programação de 2020 será online." }
+ - {title: "Conferência", image: "conference.jpg", text: "O JSDay Brasil é um evento imersivo dedicado ao desenvolvimento de software com JavaScript. Devido ao COVID-19 toda programação de 2021 será online." }
  - {title: "JavaScript", image: "workshop.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
  - {title: "Mercado", image: "hackathon.jpg", text: "O mercado de TI tem uma demanda gigantesca por profissionais que conhecem as nuances do JavaScript e estejam por dentro de suas novidades." }
 
