@@ -8,11 +8,20 @@
         position: relative;
         top: 52%;
         margin: 0;
-        left: 0;
+        //left: 0;
         transform: translateY(-60%);
+        img {
+            margin-bottom: 10px;
+            width: 100%;
+            max-width: 518px;
+          }
         @media (max-width: 767px) {
-            margin: 0;
-            padding: 0;
+            // margin: 0;
+            // padding: 0;
+            img {
+                padding-left: 8%;
+                padding-right: 8%;
+            }
         }
         p {
             color: #fff; 
@@ -26,12 +35,7 @@
     }
 }
 
-.top-section.img-hero-responsive { 
-    background-image: url($hero-image) !important;
-    @media (max-width: 767px) {
-        background-image: url($hero-smartphone-image) !important;
-    }
-}
+
 .typeout-fallback {
     display: none;
     @media (max-width: 767px) {

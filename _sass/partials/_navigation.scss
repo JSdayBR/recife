@@ -159,9 +159,9 @@ nav {
 .icon-menu {
     width: 20px;
     height: 20px;
-    fill: black;
+    fill: #fff;
     .top-header.after-scroll & {
-        fill: #464646;
+        fill: #000;
     }
 }
 .menu-trigger {
