@@ -58,9 +58,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "herologo.png"
 heroImageSmartphone: "herologo.png"
-heroTitle: "O JSDay é <typeout>"
+heroTitle: "<typeout>"
 eventDate: "17 de Julho, 2021"
-typeoutTextValues: '"", "JavaScript", "React", "Angular", "Online"'
+typeoutTextValues: '"", "O JSDay é JavaScript", "O JSDay é React", "O JSDay é Angular", "O JSDay é Online"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {permalink: "https://www.sympla.com.br/jsday-recife-2021---online-edition__1169383", text: "Inscreva-se!"}

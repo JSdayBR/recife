@@ -76,7 +76,7 @@ layout: compress
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
                 $(function () {
-                    if ($(window).width() > 767) {
+                    if ($(window).width()) {
                         $("#typeout-text").typed({
                             strings: [{{site.typeoutTextValues}}],
                             typeSpeed: 150,
