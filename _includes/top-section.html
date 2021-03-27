@@ -2,12 +2,8 @@
 <section id="top-section" class="top-section image-section {% if page.image %}enable-overlay{% endif %}" style="{% if page.image %}background-image: url('{{ site.baseurl }}/img/sections-background/{{ page.image }}');{% elsif page.color %}background: {{ page.color }}{% endif %}">
     <div class="overlay gradient-overlay"></div>
     {% include navigation.html %}
-	<div class="content-wrapper">
-	    <div class="jumbotron text-left">
-	        <div class="animated hiding" data-animation="fadeInLeft" data-delay="500">
-	            <h1>{{ page.title }}</h1>
-	        </div>
-	    </div>
-    </div>
 </section>
+<div class="animated hiding hiding-top-section" data-animation="fadeInLeft" data-delay="500">
+	<h1>{{ page.title }}</h1>
+</div>
 <!-- End Top Section -->
