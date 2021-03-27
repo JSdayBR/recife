@@ -3,6 +3,7 @@
     min-height: 400px;
     padding-top: 0;
     background: $base-section-background-color;
+    background-size: cover;
     @media (max-width: 767px) {
         min-height: 200px;
         padding: 0;
