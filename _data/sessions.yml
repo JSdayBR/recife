@@ -36,7 +36,7 @@
   description: "<p>Se eu te dissesse que dá pra fazer seus componentes React terem ~40% menos código, muito mais performance, 1kb de bundle inicial e um código bem mais fácil de ler, você iria querer saber como?</p><p> Chega mais que vou mostrar a ferramenta que me fez nunca mais querer fazer projetos com React. Vou discutir os prós e contras do Svelte, a melhor forma de fazer frontend verdadeiramente reativo desde o advento do React!</p>"
   subtype: presentation
   speakers: [2]
-  language: en
+  language: pt-br
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
