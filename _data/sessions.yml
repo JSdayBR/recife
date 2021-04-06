@@ -42,11 +42,11 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "7 Hábitos de Desenvolvedores Altamente Produtivos"
-  description: "Você pode aprender os framework mais populares, usar as melhores linguagens de programação e trabalhar nas maiores empresas de tecnologia, mas se você cultivar maus hábitos, vai ser difícil se tornar um desenvolvedor de ponta. Essa palestra não oferece um caminho definitivo ou fórmula predefinida de sucesso. Essa palestra busca mostrar quais hábitos podem ser cultivados para se tornar um melhor engenheiro de software."
+  title: "I Want to Believe: Making Angular Apps More Performant with Scully"
+  description: "If you’re looking for ways to improve performance of your Angular applications, look no further than Scully. Scully is the JAMstack tool the Angular community has been craving to make pre-rendering and serving static pages a breeze, with a great supporting community and a variety of plugins to meet any application setups needs. This talk will teach you about JAMstack concepts and how to get started with Scully to make your Angular applications more performant today."
   subtype: presentation
-  speakers: [5]
-  language: pt-br
+  speakers: [3]
+  language: en
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
