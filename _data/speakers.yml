@@ -45,7 +45,7 @@
   id: 4
   name: "Gerard"
   surname: "Sans"
-  company: ""
+  company: "GDE"
   title: "Independent Developer Evangelist for Web and Cloud"
   bio: "Gerard loves helping Developers succeed using Web and Cloud technologies. He is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert in Web Technologies. He loves to share his learnings by giving talks, training and writing about cool technologies. He loves running GraphQL London, GraphQL San Francisco, mentoring students and giving back to the community."
   thumbnailUrl: gerard.jpg
