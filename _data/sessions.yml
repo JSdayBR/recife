@@ -50,6 +50,15 @@
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
+  id: 004
+  title: "Unleash Fast & Furiours performance using RxJS (without melting down your browser event loop)"
+  description: "Did you ever notice your laptop going cray-cray after you open a Web Page? Usual suspects are animations, heavy duty framework bootstrap, using setTimeout/setInterval without a Developer license?!? There's certainly a mysterious side of JavaScript that deals with concurrency, asynchronous processing and high performance that can go terribly wrong. In this talk we are going to put the event loop under the microscope and really look at what is happening behind the scenes. Will we cover macro and microtasks? Yep. We are going to roll our sleeves up and use RxJS to deal with concurrency. Instead of creating microtasks we will use RxJS Schedulers elegant abstraction to improve performance without losing control. Let's avoid more CPUs cycles going to waste today!"
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Advanced" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
   id: 000
   title: "Em breve!"
   description: "Estamos selecionando as melhores palestras para você!"
