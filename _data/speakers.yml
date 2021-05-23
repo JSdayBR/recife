@@ -56,3 +56,19 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/gerardsans"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/gerard-sans/"}
+- 
+  id: 5
+  name: "Pedro"
+  surname: "Medeiros"
+  company: "Globo"
+  title: "Desenvolvedor"
+  bio: "Sou o Pedro Medeiros, trabalho com desenvolvimento de aplicações para SmartTV desde 2013, hoje faço parte do time de SmartTV do globoplay, atuando como líder técnico de uma das nossas squads do time. Adoro o universo JavaScript. Sou curioso para saber como as ferramentas que utilizamos no nosso dia-a-dia funcionam e como elas utilizam JS para nos ajudar."
+  thumbnailUrl: pedro.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Globo", title: "Desenvolvedor de aplicações para SmartTV", url: "#"}
+  #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/community/gdg"}
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/pdrmdrs"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedro-medeiros-00/"}
+    - {name: "github", link: "https://www.github.com/pdrmdrs"}

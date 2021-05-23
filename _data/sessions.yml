@@ -59,6 +59,15 @@
   complexity: "Advanced" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
+  id: 005
+  title: "O mundo das SmartTVs: e o que o JS tem a ver com isso?!"
+  description: "Vivemos numa época onde conseguimos usar JavaScript para os mais variados tipos de aplicações, e SmartTV não poderia ser diferente. No nosso papo, iremos ver um pouco sobre como é o desenvolvimento para SmartTVs e discutir sobre como fazer apps utilizando JavaScript com React."
+  subtype: presentation
+  speakers: [5]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
   id: 000
   title: "Em breve!"
   description: "Estamos selecionando as melhores palestras para você!"
