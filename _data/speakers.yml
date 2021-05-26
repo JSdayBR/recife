@@ -72,3 +72,19 @@
     - {name: "twitter", link: "https://www.twitter.com/pdrmdrs"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/pedro-medeiros-00/"}
     - {name: "github", link: "https://www.github.com/pdrmdrs"}
+- 
+  id: 6
+  name: "Joe"
+  surname: "Sepi"
+  company: "IBM"
+  title: "Open Source Engineer"
+  bio: "Joe Sepi is passionate about advancing the web forward through open source technologies and open communities. He has held engineering leadership positions at The New York Times, Adobe, Credit Suisse, Sears as well as a few start-ups. He joined IBM to lead developer advocacy for StrongLoop, was promoted to lead the North America-East (NYC and beyond) dev advocacy team, and is currently focused on his passion, Node + JS, as an open source engineer and advocate. He also plays in two punk rock bands. 🤘"
+  thumbnailUrl: joe.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "IBM", title: "Open Source Engineer", url: "https://www.linkedin.com/company/ibm/"}
+  #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/community/gdg"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/joe_sepi"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/joesepi/"}
+    - {name: "github", link: "https://github.com/joesepi"}

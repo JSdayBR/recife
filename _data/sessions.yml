@@ -68,6 +68,15 @@
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
+  id: 006
+  title: "Open Open Source and making great places for Collaboration"
+  description: "The Node.js project is often seen as an example for Open Source projects and we’ve learned a lot over the last 5 years about how an “Open” Open source project works. The goal is to build places where both individuals and companies can come together to make impactful technical, organizational, and community contributions. Come learn about some of the core concepts and principles behind open communities and governance and how we are applying these to help grow the OpenJS foundation. What’s more we want your help, find out how you can get involved!"
+  subtype: presentation
+  speakers: [6]
+  language: en
+  complexity: "Beginner" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
   id: 000
   title: "Em breve!"
   description: "Estamos selecionando as melhores palestras para você!"
