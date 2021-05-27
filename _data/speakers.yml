@@ -88,3 +88,35 @@
     - {name: "twitter", link: "https://twitter.com/joe_sepi"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/joesepi/"}
     - {name: "github", link: "https://github.com/joesepi"}
+- 
+  id: 7
+  name: "Ana Beatriz"
+  surname: "Ducla"
+  company: "Justa"
+  title: "Desenvolvedora Front-end"
+  bio: "Graduanda em Engenharia Eletrônica na UFRPE e desenvolvedora Front-end na Justa. Cofundadora e uma das gerentes das redes sociais do Tech Is For Women, um projeto criado para destruir os bloqueios que foram impostos através da disparidade de gênero no mercado da tecnologia."
+  thumbnailUrl: ana.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Justa", title: "Desenvolvedora Front-end", url: "#"}
+  #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/community/gdg"}
+  social: 
+    #- {name: "twitter", link: "https://twitter.com/joe_sepi"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ana-beatriz-ducla-106041168/"}
+    - {name: "github", link: "https://github.com/Biaducla"}
+- 
+  id: 8
+  name: "Marlon"
+  surname: "Pierre de Vasconcelos"
+  company: "MPV Langcom"
+  title: "Intérprete"
+  bio: "Marlon Vasconcelos é Intérprete EN-PT-EN. Graduado em Comércio Exterior, História e Letras. Especialista em tradução e interpretação nas áreas de Engenharia Mecânica. Também atua com tradução de sistemas de segurança financeira, OTP Interpreter para times de futebol e Professor de Inglês ESL. Baterista e pai de adolescente, colecionador de fitas K7 e leitor de biografias do Rock."
+  thumbnailUrl: marlon.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "MPV Langcom", title: "Intérprete", url: "#"}
+  #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/community/gdg"}
+  social: 
+    #- {name: "twitter", link: "https://twitter.com/joe_sepi"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marlonpierrevasconcelos/"}
+    #- {name: "github", link: "https://github.com/Biaducla"}

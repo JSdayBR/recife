@@ -45,7 +45,7 @@
   title: "I Want to Believe: Making Angular Apps More Performant with Scully"
   description: "If you’re looking for ways to improve performance of your Angular applications, look no further than Scully. Scully is the JAMstack tool the Angular community has been craving to make pre-rendering and serving static pages a breeze, with a great supporting community and a variety of plugins to meet any application setups needs. This talk will teach you about JAMstack concepts and how to get started with Scully to make your Angular applications more performant today."
   subtype: presentation
-  speakers: [3]
+  speakers: [3,8]
   language: en
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -54,7 +54,7 @@
   title: "Unleash Fast & Furiours performance using RxJS (without melting down your browser event loop)"
   description: "Did you ever notice your laptop going cray-cray after you open a Web Page? Usual suspects are animations, heavy duty framework bootstrap, using setTimeout/setInterval without a Developer license?!? There's certainly a mysterious side of JavaScript that deals with concurrency, asynchronous processing and high performance that can go terribly wrong. In this talk we are going to put the event loop under the microscope and really look at what is happening behind the scenes. Will we cover macro and microtasks? Yep. We are going to roll our sleeves up and use RxJS to deal with concurrency. Instead of creating microtasks we will use RxJS Schedulers elegant abstraction to improve performance without losing control. Let's avoid more CPUs cycles going to waste today!"
   subtype: presentation
-  speakers: [4]
+  speakers: [4,8]
   language: en
   complexity: "Advanced" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -72,7 +72,16 @@
   title: "Open Open Source and making great places for Collaboration"
   description: "The Node.js project is often seen as an example for Open Source projects and we’ve learned a lot over the last 5 years about how an “Open” Open source project works. The goal is to build places where both individuals and companies can come together to make impactful technical, organizational, and community contributions. Come learn about some of the core concepts and principles behind open communities and governance and how we are applying these to help grow the OpenJS foundation. What’s more we want your help, find out how you can get involved!"
   subtype: presentation
-  speakers: [6]
+  speakers: [6,8]
+  language: en
+  complexity: "Beginner" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 007
+  title: "Aplicações NodeJS Modernas com NestJS"
+  description: "Se estiver pensando em desenvolver uma aplicação web focada em aplicações robustas, então você precisa conhecer o NestJS, um framework focado no desenvolvimento de aplicações server-side eficientes, confiáveis e escaláveis. O NestJS é um dos frameworks que mais crescem no mundo Node e conta com vários recursos necessários para o desenvolvimento de aplicações modernas como, por exemplo, suporte a injeção de dependências, modularização e ferramentas de teste automatizado. Nesta palestra pretendo mostrar os principais conceitos na criação de uma API Rest do zero com Nest, as vantagens e desvantagens de utilizá-lo em seu projeto e um exemplo de aplicação."
+  subtype: presentation
+  speakers: [7]
   language: en
   complexity: "Beginner" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
